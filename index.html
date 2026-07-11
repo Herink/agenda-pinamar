@@ -215,6 +215,138 @@
     color: #9a927c;
     padding-bottom: 2rem;
   }
+
+  /* --- Modal de detalle --- */
+  .tarjeta button.abrir-detalle{
+    all: unset;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    cursor: pointer;
+    text-align: left;
+    color: inherit;
+  }
+  .tarjeta:hover h3{
+    color: var(--marea);
+  }
+
+  .modal-overlay{
+    position: fixed;
+    inset: 0;
+    background: rgba(10, 22, 24, 0.55);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    z-index: 100;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease;
+  }
+  .modal-overlay.abierto{
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .modal{
+    background: var(--tarjeta);
+    max-width: 640px;
+    width: 100%;
+    max-height: 88vh;
+    overflow-y: auto;
+    position: relative;
+    transform: translateY(12px);
+    transition: transform 0.18s ease;
+  }
+  .modal-overlay.abierto .modal{
+    transform: translateY(0);
+  }
+
+  .modal .modal-imagen{
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    background: var(--linea);
+    overflow: hidden;
+  }
+  .modal .modal-imagen img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .modal .modal-cerrar{
+    all: unset;
+    position: absolute;
+    top: 0.7rem;
+    right: 0.7rem;
+    width: 32px;
+    height: 32px;
+    background: rgba(10, 22, 24, 0.55);
+    color: #fdf9ef;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.1rem;
+    line-height: 1;
+  }
+  .modal .modal-cerrar:hover{ background: rgba(10, 22, 24, 0.8); }
+
+  .modal .modal-cuerpo{
+    padding: 1.6rem 1.8rem 2rem;
+  }
+
+  .modal .modal-fecha-chip{
+    display: inline-block;
+    background: var(--marea-oscura);
+    color: #fdf9ef;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    padding: 0.3rem 0.6rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .modal h2{
+    margin: 0 0 0.4rem;
+    font-size: 1.5rem;
+    line-height: 1.3;
+  }
+
+  .modal .modal-horario{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.88rem;
+    color: var(--marea);
+    margin-bottom: 1rem;
+  }
+
+  .modal .modal-descripcion,
+  .modal .modal-detalle{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.92rem;
+    line-height: 1.6;
+    color: #3a352c;
+  }
+
+  .modal .modal-detalle{
+    margin-top: 0.8rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid var(--linea);
+  }
+
+  .modal .modal-fuente{
+    display: inline-block;
+    margin-top: 1.4rem;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.8rem;
+    color: #9a927c;
+    text-decoration: none;
+    border-bottom: 1px solid #d8cfba;
+  }
+  .modal .modal-fuente:hover{ color: var(--marea); border-color: var(--marea); }
 </style>
 </head>
 <body>
@@ -231,6 +363,12 @@
 </main>
 
 <footer>Datos obtenidos de agenda.pinamar.gob.ar — actualizado por el scraper local</footer>
+
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal" role="dialog" aria-modal="true" id="modalContenido">
+    <!-- Se completa dinámicamente al abrir -->
+  </div>
+</div>
 
 <script>
   async function cargarEventos() {
@@ -250,23 +388,23 @@
 
       estado.textContent = eventos.length + ' eventos encontrados';
 
-      grilla.innerHTML = eventos.map(ev => `
+      // Guardamos los eventos en una variable global para poder
+      // encontrarlos de nuevo al abrir el modal (por índice)
+      window._eventosPinamar = eventos;
+
+      grilla.innerHTML = eventos.map((ev, i) => `
         <article class="tarjeta">
-          <div class="imagen-wrap">
-            ${ev.imagen ? `<img src="${ev.imagen}" alt="${escapeHtml(ev.titulo)}" loading="lazy">` : ''}
-            ${ev.fecha ? `<div class="fecha-chip">${escapeHtml(ev.fecha)}</div>` : ''}
-          </div>
-          <div class="cuerpo">
-            <h3><a href="${ev.url_evento}" target="_blank" rel="noopener">${escapeHtml(ev.titulo)}</a></h3>
-            ${ev.horario ? `<div class="horario">${escapeHtml(ev.horario)}</div>` : ''}
-            ${ev.descripcion ? `<p class="descripcion">${escapeHtml(ev.descripcion)}</p>` : ''}
-            ${ev.detalle ? `
-              <details class="detalle">
-                <summary>Más información</summary>
-                <p>${escapeHtml(ev.detalle)}</p>
-              </details>
-            ` : ''}
-          </div>
+          <button class="abrir-detalle" type="button" onclick="abrirModal(${i})">
+            <div class="imagen-wrap">
+              ${ev.imagen ? `<img src="${ev.imagen}" alt="${escapeHtml(ev.titulo)}" loading="lazy">` : ''}
+              ${ev.fecha ? `<div class="fecha-chip">${escapeHtml(ev.fecha)}</div>` : ''}
+            </div>
+            <div class="cuerpo">
+              <h3>${escapeHtml(ev.titulo)}</h3>
+              ${ev.horario ? `<div class="horario">${escapeHtml(ev.horario)}</div>` : ''}
+              ${ev.descripcion ? `<p class="descripcion">${escapeHtml(ev.descripcion)}</p>` : ''}
+            </div>
+          </button>
         </article>
       `).join('');
 
@@ -276,6 +414,41 @@
         Asegurate de correr el scraper primero y de abrir esta página desde un servidor local (no con doble clic).</p>`;
     }
   }
+
+  function abrirModal(indice) {
+    const ev = window._eventosPinamar[indice];
+    if (!ev) return;
+
+    const contenido = document.getElementById('modalContenido');
+    contenido.innerHTML = `
+      <button class="modal-cerrar" type="button" onclick="cerrarModal()" aria-label="Cerrar">✕</button>
+      ${ev.imagen ? `<div class="modal-imagen"><img src="${ev.imagen}" alt="${escapeHtml(ev.titulo)}"></div>` : ''}
+      <div class="modal-cuerpo">
+        ${ev.fecha ? `<span class="modal-fecha-chip">${escapeHtml(ev.fecha)}</span>` : ''}
+        <h2>${escapeHtml(ev.titulo)}</h2>
+        ${ev.horario ? `<div class="modal-horario">${escapeHtml(ev.horario)}</div>` : ''}
+        ${ev.descripcion ? `<p class="modal-descripcion">${escapeHtml(ev.descripcion)}</p>` : ''}
+        ${ev.detalle ? `<p class="modal-detalle">${escapeHtml(ev.detalle)}</p>` : ''}
+        ${ev.url_evento ? `<a class="modal-fuente" href="${ev.url_evento}" target="_blank" rel="noopener">Ver publicación original ↗</a>` : ''}
+      </div>
+    `;
+
+    document.getElementById('modalOverlay').classList.add('abierto');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function cerrarModal() {
+    document.getElementById('modalOverlay').classList.remove('abierto');
+    document.body.style.overflow = '';
+  }
+
+  // Cerrar al hacer click afuera del modal, o con la tecla Escape
+  document.getElementById('modalOverlay').addEventListener('click', (e) => {
+    if (e.target.id === 'modalOverlay') cerrarModal();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') cerrarModal();
+  });
 
   function escapeHtml(str) {
     if (!str) return '';
