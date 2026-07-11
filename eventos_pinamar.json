@@ -8,12 +8,20 @@
     "url_evento": "https://agenda.pinamar.gob.ar/copa-humming-airways/"
   },
   {
-    "titulo": "TÉ & TEJIDO",
+    "titulo": "TAPICERÍA",
+    "fecha": "11 JUL",
+    "horario": "A confirmar",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-13.45.06-169x300.jpeg",
+    "descripcion": "El Ojo y el Diamante | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/tapiceria/"
+  },
+  {
+    "titulo": "🧶 TÉ & TEJIDO",
     "fecha": "11 JUL",
     "horario": "15 hs",
     "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-15.43.08-300x300.jpeg",
     "descripcion": "Experiencia Allona",
-    "url_evento": "https://agenda.pinamar.gob.ar/te-tejido/"
+    "url_evento": "https://agenda.pinamar.gob.ar/🧶-te-tejido/"
   },
   {
     "titulo": "JUEGA ARGENTINA",
@@ -22,6 +30,14 @@
     "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-09.54.24-182x300.jpeg",
     "descripcion": "Templeton Music Bar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/juega-argentina/"
+  },
+  {
+    "titulo": "VINTAGE COVERS",
+    "fecha": "11 JUL",
+    "horario": "00 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-08.51.55-169x300.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/vintage-covers/"
   },
   {
     "titulo": "MIRACINE",
@@ -46,5 +62,157 @@
     "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-10.31.33-236x300.jpeg",
     "descripcion": "El Refugio Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/valentino/"
+  },
+  {
+    "titulo": "HELTER SKELTER",
+    "fecha": "18 JUL",
+    "horario": "22 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-09.59.07-260x300.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/helter-skelter/"
+  },
+  {
+    "titulo": "VACACIONES DE PELÍCULA",
+    "fecha": "22 JUL",
+    "horario": "15 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-11.55.51-240x300.jpeg",
+    "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula/"
+  },
+  {
+    "titulo": "VACACIONES DE PELÍCULA",
+    "fecha": "23 JUL",
+    "horario": "15 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-11.55.51-1-240x300.jpeg",
+    "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-2/"
+  },
+  {
+    "titulo": "MIRACINE",
+    "fecha": "23 JUL",
+    "horario": "20 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-09.19.44-169x300.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/miracine-3/"
+  },
+  {
+    "titulo": "AN ESPIL & SECCHES23",
+    "fecha": "23 JUL",
+    "horario": "21:30 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-10.32.09-242x300.jpeg",
+    "descripcion": "El Refugio Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/an-espil-secches23/"
+  },
+  {
+    "titulo": "EL CUARTO SODA",
+    "fecha": "23 JUL",
+    "horario": "22 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-09.59.50-262x300.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/el-cuarto-soda/"
+  },
+  {
+    "titulo": "VACACIONES DE PELÍCULA",
+    "fecha": "24 JUL",
+    "horario": "15 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-11.55.52-240x300.jpeg",
+    "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-3/"
+  },
+  {
+    "titulo": "FULL PIANO BAR",
+    "fecha": "25 JUL",
+    "horario": "21 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-06-29-at-10.32.19-227x300.jpeg",
+    "descripcion": "El Refugio Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/full-piano-bar/"
+  },
+  {
+    "titulo": "ROSE . GUN TRIBUTE",
+    "fecha": "25 JUL",
+    "horario": "22 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-09.59.29-223x300.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/rose-gun-tribute/"
+  },
+  {
+    "titulo": "PINAMAR EXPOCAR",
+    "fecha": "26 JUL",
+    "horario": "12 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-10.48.26-201x300.jpeg",
+    "descripcion": "Av. Arquitecto Bunge y Av. del Libertador | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/pinamar-expocar/"
+  },
+  {
+    "titulo": "VACACIONES DE PELÍCULA",
+    "fecha": "29 JUL",
+    "horario": "15 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-11.55.52-1-240x300.jpeg",
+    "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-4/"
+  },
+  {
+    "titulo": "VACACIONES DE PELÍCULA",
+    "fecha": "30 JUL",
+    "horario": "15 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-11.55.52-2-240x300.jpeg",
+    "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-5/"
+  },
+  {
+    "titulo": "MIRACINE",
+    "fecha": "30 JUL",
+    "horario": "20 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-09.19.09-169x300.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/miracine-4/"
+  },
+  {
+    "titulo": "VACACIONES DE PELÍCULA",
+    "fecha": "31 JUL",
+    "horario": "15 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-11.55.53-240x300.jpeg",
+    "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-6/"
+  },
+  {
+    "titulo": "CARRERA «EL DESAFIO PINAMAR 2026»",
+    "fecha": "9 AGO",
+    "horario": "",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-01-at-13.28.59-169x300.jpeg",
+    "descripcion": "Pinamar Norte | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/carrera-el-desafio-pinamar-2026/"
+  },
+  {
+    "titulo": "FIESTA DE LA PESCADILLA",
+    "fecha": "21 NOV",
+    "horario": "A confirmar",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-14-at-10.43.46-293x300.jpeg",
+    "descripcion": "25 JUL | FULL PIANO BAR | El Refugio Pinamar | 21 hs | Pago | 25 JUL | ROSE . GUN TRIBUTE | Templeton Music Bar | 22 hs | Pago | 26 JUL | PINAMAR EXPOCAR | Av. Arquitecto Bunge y Av. del Libertador | 12 hs | Libre y gratuito | 29 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/"
+  },
+  {
+    "titulo": "TORNEO SEVEN",
+    "fecha": "22 NOV",
+    "horario": "A confirmar",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-01-at-10.45.54-243x300.jpeg",
+    "descripcion": "21 | Cet Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven/"
+  },
+  {
+    "titulo": "COPA JAQUES SACHETTI | COPA MAMIS CAMARONES",
+    "fecha": "21 NOV",
+    "horario": "A confirmar",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-09-at-11.36.17-169x300.jpeg",
+    "descripcion": "COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/copa-jaques-sachetti-copa-mamis-camarones/"
+  },
+  {
+    "titulo": "TORNEO SEVEN PINAMAR",
+    "fecha": "21 NOV",
+    "horario": "A confirmar",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/06/WhatsApp-Image-2026-05-27-at-16.48.59-205x300.jpeg",
+    "descripcion": "25 JUL | FULL PIANO BAR | El Refugio Pinamar | 21 hs | Pago | 25 JUL | ROSE . GUN TRIBUTE | Templeton Music Bar | 22 hs | Pago | 26 JUL | PINAMAR EXPOCAR | Av. Arquitecto Bunge y Av. del Libertador | 12 hs | Libre y gratuito | 29 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/"
   }
 ]
