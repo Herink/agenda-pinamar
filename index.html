@@ -171,6 +171,34 @@
     margin: 0;
   }
 
+  details.detalle{
+    margin-top: 0.3rem;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+  }
+
+  details.detalle summary{
+    cursor: pointer;
+    font-size: 0.78rem;
+    color: var(--marea);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    list-style: none;
+  }
+  details.detalle summary::-webkit-details-marker{ display:none; }
+  details.detalle summary::before{
+    content: "+ ";
+  }
+  details.detalle[open] summary::before{
+    content: "– ";
+  }
+
+  details.detalle p{
+    font-size: 0.85rem;
+    color: #504a3f;
+    line-height: 1.55;
+    margin: 0.5rem 0 0;
+  }
+
   .vacio, .error{
     font-family: "Helvetica Neue", Arial, sans-serif;
     padding: 3rem 1rem;
@@ -232,6 +260,12 @@
             <h3><a href="${ev.url_evento}" target="_blank" rel="noopener">${escapeHtml(ev.titulo)}</a></h3>
             ${ev.horario ? `<div class="horario">${escapeHtml(ev.horario)}</div>` : ''}
             ${ev.descripcion ? `<p class="descripcion">${escapeHtml(ev.descripcion)}</p>` : ''}
+            ${ev.detalle ? `
+              <details class="detalle">
+                <summary>Más información</summary>
+                <p>${escapeHtml(ev.detalle)}</p>
+              </details>
+            ` : ''}
           </div>
         </article>
       `).join('');
