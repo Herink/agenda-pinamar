@@ -62,10 +62,21 @@ def obtener_html(url):
     return resp.text
 
 
-def descargar_imagen(url_imagen, indice):
+def obtener_slug(url_evento):
+    """Extrae la parte final de la URL del evento, ej:
+    'https://agenda.pinamar.gob.ar/copa-humming-airways/' -> 'copa-humming-airways'
+    """
+    partes = [p for p in url_evento.split("/") if p]
+    return partes[-1] if partes else "evento"
+
+
+def descargar_imagen(url_imagen, slug):
     """
     Descarga una imagen a la carpeta 'imagenes/' y devuelve la ruta
-    relativa (ej: 'imagenes/003_foto.jpg') para usar en el JSON/HTML.
+    relativa (ej: 'imagenes/copa-humming-airways.jpeg') para usar en el
+    JSON/HTML. Usa el slug del evento (no la posición en la lista) como
+    nombre de archivo, para que sea siempre el mismo de una corrida a otra
+    y así se pueda limpiar con precisión lo que ya no corresponde.
     Si falla la descarga, devuelve la URL original como respaldo.
     """
     if not url_imagen:
@@ -73,10 +84,9 @@ def descargar_imagen(url_imagen, indice):
 
     os.makedirs(CARPETA_IMAGENES, exist_ok=True)
 
-    # Nombre de archivo: número de orden + nombre original (sin query strings raros)
-    nombre_original = os.path.basename(url_imagen.split("?")[0])
-    nombre_original = re.sub(r"[^A-Za-z0-9._-]", "_", nombre_original) or "imagen.jpg"
-    nombre_archivo = f"{indice:03d}_{nombre_original}"
+    extension = os.path.splitext(url_imagen.split("?")[0])[1] or ".jpg"
+    extension = re.sub(r"[^A-Za-z0-9.]", "", extension) or ".jpg"
+    nombre_archivo = f"{slug}{extension}"
     ruta_local = os.path.join(CARPETA_IMAGENES, nombre_archivo)
     ruta_relativa = f"imagenes/{nombre_archivo}"
 
@@ -93,6 +103,25 @@ def descargar_imagen(url_imagen, indice):
     except Exception as e:
         print(f"  ! No se pudo descargar la imagen {url_imagen}: {e}")
         return url_imagen  # respaldo: al menos queda el link original
+
+
+def limpiar_imagenes_huerfanas(nombres_usados):
+    """
+    Borra de la carpeta 'imagenes/' cualquier archivo que no corresponda
+    a ningún evento de la corrida actual (eventos viejos, vencidos, o que
+    ya no están publicados en el sitio).
+    """
+    if not os.path.isdir(CARPETA_IMAGENES):
+        return
+
+    borrados = 0
+    for nombre_archivo in os.listdir(CARPETA_IMAGENES):
+        if nombre_archivo not in nombres_usados:
+            os.remove(os.path.join(CARPETA_IMAGENES, nombre_archivo))
+            borrados += 1
+
+    if borrados:
+        print(f"  {borrados} imagen(es) vieja(s) eliminada(s) (ya no corresponden a ningún evento actual)")
 
 
 # Estos títulos son de un widget fijo ("Actividades permanentes") que WordPress
@@ -278,9 +307,17 @@ def main():
     # Descargar todas las imágenes localmente (evita el bloqueo "hotlinked"
     # que da el sitio cuando se muestran sus imágenes desde otro dominio)
     print("\nDescargando imágenes...")
-    for i, ev in enumerate(todos_los_eventos, start=1):
-        ev["imagen"] = descargar_imagen(ev["imagen"], i)
+    nombres_usados = set()
+    for ev in todos_los_eventos:
+        slug = obtener_slug(ev["url_evento"])
+        ev["imagen"] = descargar_imagen(ev["imagen"], slug)
+        if ev["imagen"].startswith("imagenes/"):
+            nombres_usados.add(ev["imagen"].split("imagenes/", 1)[1])
     print(f"Imágenes guardadas en: {CARPETA_IMAGENES}")
+
+    # Limpiar imágenes de corridas anteriores que ya no corresponden
+    # a ningún evento de esta corrida (evita que se acumulen archivos viejos)
+    limpiar_imagenes_huerfanas(nombres_usados)
 
     # Entrar a la página propia de cada evento para traer la descripción completa
     print("\nBuscando descripción completa de cada evento...")
