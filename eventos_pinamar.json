@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "COPA HUMMING AIRWAYS",
+    "fecha": "11 JUL",
+    "horario": "7 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-06-at-08.12.39-241x300.jpeg",
+    "descripcion": "Links Pinamar Golf | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/copa-humming-airways/"
+  },
+  {
+    "titulo": "TÉ & TEJIDO",
+    "fecha": "11 JUL",
+    "horario": "15 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-15.43.08-300x300.jpeg",
+    "descripcion": "Experiencia Allona",
+    "url_evento": "https://agenda.pinamar.gob.ar/te-tejido/"
+  },
+  {
+    "titulo": "JUEGA ARGENTINA",
+    "fecha": "11 JUL",
+    "horario": "22 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-09.54.24-182x300.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/juega-argentina/"
+  },
+  {
+    "titulo": "MIRACINE",
+    "fecha": "16 JUL",
+    "horario": "20 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-02-at-10.51.18-169x300.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/miracine-2/"
+  },
+  {
+    "titulo": "THE POLICE MEN",
+    "fecha": "17 JUL",
+    "horario": "21:30 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-03-at-09.58.50-208x300.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/the-police-men/"
+  },
+  {
+    "titulo": "VALENTINO",
+    "fecha": "18 JUL",
+    "horario": "21 hs",
+    "imagen": "https://agenda.pinamar.gob.ar/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-29-at-10.31.33-236x300.jpeg",
+    "descripcion": "El Refugio Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/valentino/"
+  }
+]

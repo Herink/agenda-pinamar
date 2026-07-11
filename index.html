@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agenda Pinamar — Eventos</title>
+<style>
+  :root{
+    --arena: #f3ede1;
+    --marea: #0f5c66;
+    --marea-oscura: #0a3f47;
+    --sol: #e8a33d;
+    --texto: #1c2b2e;
+    --tarjeta: #ffffff;
+    --linea: #d8cfba;
+  }
+
+  *{ box-sizing: border-box; }
+
+  body{
+    margin:0;
+    background: var(--arena);
+    color: var(--texto);
+    font-family: "Georgia", "Iowan Old Style", serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  header{
+    position: relative;
+    padding: 3.5rem 1.5rem 4.5rem;
+    background: linear-gradient(180deg, var(--marea) 0%, var(--marea-oscura) 100%);
+    color: #fdf9ef;
+    overflow: hidden;
+  }
+
+  header::after{
+    /* línea de marea: una ola quieta en el borde inferior */
+    content:"";
+    position:absolute;
+    left:0; right:0; bottom:-1px;
+    height: 28px;
+    background:
+      radial-gradient(circle at 10px 0, transparent 12px, var(--arena) 13px) 0 -12px / 24px 24px repeat-x;
+  }
+
+  header h1{
+    margin:0;
+    font-size: clamp(2rem, 5vw, 3rem);
+    letter-spacing: 0.02em;
+    font-weight: 400;
+  }
+
+  header .eyebrow{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.28em;
+    font-size: 0.72rem;
+    color: var(--sol);
+    margin-bottom: 0.9rem;
+  }
+
+  header p.sub{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    max-width: 46ch;
+    opacity: 0.85;
+    font-size: 0.95rem;
+    margin-top: 0.6rem;
+  }
+
+  main{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 5rem;
+  }
+
+  #estado{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.9rem;
+    color: #6b6353;
+    margin-bottom: 1.5rem;
+  }
+
+  .grilla{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.6rem;
+  }
+
+  .tarjeta{
+    background: var(--tarjeta);
+    border: 1px solid var(--linea);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  .tarjeta:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px rgba(15, 92, 102, 0.14);
+  }
+
+  .tarjeta .imagen-wrap{
+    position: relative;
+    aspect-ratio: 4 / 5;
+    overflow: hidden;
+    background: var(--linea);
+  }
+
+  .tarjeta .imagen-wrap img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .tarjeta .fecha-chip{
+    position: absolute;
+    top: 0.7rem;
+    left: 0.7rem;
+    background: var(--marea-oscura);
+    color: #fdf9ef;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    padding: 0.3rem 0.6rem;
+  }
+
+  .tarjeta .cuerpo{
+    padding: 1.1rem 1.2rem 1.3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    flex: 1;
+  }
+
+  .tarjeta h3{
+    margin: 0;
+    font-size: 1.15rem;
+    line-height: 1.3;
+    font-weight: 600;
+  }
+
+  .tarjeta h3 a{
+    color: var(--texto);
+    text-decoration: none;
+  }
+  .tarjeta h3 a:hover{ color: var(--marea); }
+
+  .horario{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.82rem;
+    color: var(--marea);
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .horario::before{
+    content: "";
+    width: 7px; height: 7px;
+    background: var(--sol);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .descripcion{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.85rem;
+    color: #504a3f;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .vacio, .error{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    padding: 3rem 1rem;
+    text-align: center;
+    color: #6b6353;
+  }
+
+  .error{ color: #9b3b3b; }
+
+  footer{
+    text-align:center;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.75rem;
+    color: #9a927c;
+    padding-bottom: 2rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Costa Atlántica · Buenos Aires</div>
+  <h1>Agenda de Pinamar</h1>
+  <p class="sub">Eventos, salidas y actividades actualizados automáticamente desde agenda.pinamar.gob.ar</p>
+</header>
+
+<main>
+  <div id="estado">Cargando eventos…</div>
+  <div class="grilla" id="grilla"></div>
+</main>
+
+<footer>Datos obtenidos de agenda.pinamar.gob.ar — actualizado por el scraper local</footer>
+
+<script>
+  async function cargarEventos() {
+    const estado = document.getElementById('estado');
+    const grilla = document.getElementById('grilla');
+
+    try {
+      const resp = await fetch('eventos_pinamar.json', { cache: 'no-store' });
+      if (!resp.ok) throw new Error('No se encontró eventos_pinamar.json (código ' + resp.status + ')');
+      const eventos = await resp.json();
+
+      if (!eventos.length) {
+        estado.innerHTML = '';
+        grilla.innerHTML = '<p class="vacio">No hay eventos cargados todavía. Corré el scraper primero.</p>';
+        return;
+      }
+
+      estado.textContent = eventos.length + ' eventos encontrados';
+
+      grilla.innerHTML = eventos.map(ev => `
+        <article class="tarjeta">
+          <div class="imagen-wrap">
+            ${ev.imagen ? `<img src="${ev.imagen}" alt="${escapeHtml(ev.titulo)}" loading="lazy">` : ''}
+            ${ev.fecha ? `<div class="fecha-chip">${escapeHtml(ev.fecha)}</div>` : ''}
+          </div>
+          <div class="cuerpo">
+            <h3><a href="${ev.url_evento}" target="_blank" rel="noopener">${escapeHtml(ev.titulo)}</a></h3>
+            ${ev.horario ? `<div class="horario">${escapeHtml(ev.horario)}</div>` : ''}
+            ${ev.descripcion ? `<p class="descripcion">${escapeHtml(ev.descripcion)}</p>` : ''}
+          </div>
+        </article>
+      `).join('');
+
+    } catch (err) {
+      estado.innerHTML = '';
+      grilla.innerHTML = `<p class="error">Error al cargar los eventos: ${escapeHtml(err.message)}<br>
+        Asegurate de correr el scraper primero y de abrir esta página desde un servidor local (no con doble clic).</p>`;
+    }
+  }
+
+  function escapeHtml(str) {
+    if (!str) return '';
+    return str
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  cargarEventos();
+</script>
+
+</body>
+</html>
