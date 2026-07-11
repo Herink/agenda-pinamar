@@ -1,15 +1,24 @@
 """
 Scraper de eventos - Agenda Pinamar (https://agenda.pinamar.gob.ar/)
 
-Extrae: imagen, título, fecha, horario y descripción (lugar/detalle) de cada evento.
-Recorre automáticamente todas las páginas de resultados (paginación "Siguiente").
+Extrae: imagen, título, fecha, horario, descripción corta y descripción
+COMPLETA (entrando a la página propia de cada evento, ej:
+https://agenda.pinamar.gob.ar/copa-humming-airways/) de cada evento.
+
+Recorre automáticamente todas las páginas de resultados (detecta el número de
+página más alto en los links y las descarga todas, sin depender de un botón
+"Siguiente" que puede tener íconos y romper la detección por texto).
+
+Las imágenes se descargan y se guardan localmente en la carpeta "imagenes/"
+para evitar el error "hotlinked" que tira el sitio cuando se muestran sus
+imágenes embebidas desde otro dominio (localhost, GitHub Pages, etc.).
 
 Requisitos:
     pip install requests beautifulsoup4
 
 Uso:
     python scraper_agenda_pinamar.py
-    -> Genera un archivo "eventos_pinamar.json" y "eventos_pinamar.csv"
+    -> Genera "eventos_pinamar.json", "eventos_pinamar.csv" y la carpeta "imagenes/"
 
 NOTA IMPORTANTE:
 Este script fue armado en base a la estructura típica de sitios WordPress con
@@ -32,11 +41,17 @@ import os
 CARPETA_SCRIPT = os.path.dirname(os.path.abspath(__file__))
 RUTA_JSON = os.path.join(CARPETA_SCRIPT, "eventos_pinamar.json")
 RUTA_CSV = os.path.join(CARPETA_SCRIPT, "eventos_pinamar.csv")
+CARPETA_IMAGENES = os.path.join(CARPETA_SCRIPT, "imagenes")
 
 BASE_URL = "https://agenda.pinamar.gob.ar/"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    # Muchos sitios bloquean la carga de imágenes si el pedido no "parece"
+    # venir del propio sitio (protección anti-hotlinking). Al descargar
+    # nosotros mismos la imagen con este Referer, la conseguimos sin problema
+    # y listo: queda guardada localmente para siempre.
+    "Referer": BASE_URL,
 }
 
 
@@ -45,6 +60,96 @@ def obtener_html(url):
     resp.raise_for_status()
     resp.encoding = "utf-8"
     return resp.text
+
+
+def descargar_imagen(url_imagen, indice):
+    """
+    Descarga una imagen a la carpeta 'imagenes/' y devuelve la ruta
+    relativa (ej: 'imagenes/003_foto.jpg') para usar en el JSON/HTML.
+    Si falla la descarga, devuelve la URL original como respaldo.
+    """
+    if not url_imagen:
+        return ""
+
+    os.makedirs(CARPETA_IMAGENES, exist_ok=True)
+
+    # Nombre de archivo: número de orden + nombre original (sin query strings raros)
+    nombre_original = os.path.basename(url_imagen.split("?")[0])
+    nombre_original = re.sub(r"[^A-Za-z0-9._-]", "_", nombre_original) or "imagen.jpg"
+    nombre_archivo = f"{indice:03d}_{nombre_original}"
+    ruta_local = os.path.join(CARPETA_IMAGENES, nombre_archivo)
+    ruta_relativa = f"imagenes/{nombre_archivo}"
+
+    # Si ya la descargamos antes (corrida anterior), no la pedimos de nuevo
+    if os.path.exists(ruta_local):
+        return ruta_relativa
+
+    try:
+        resp = requests.get(url_imagen, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        with open(ruta_local, "wb") as f:
+            f.write(resp.content)
+        return ruta_relativa
+    except Exception as e:
+        print(f"  ! No se pudo descargar la imagen {url_imagen}: {e}")
+        return url_imagen  # respaldo: al menos queda el link original
+
+
+# Estos títulos son de un widget fijo ("Actividades permanentes") que WordPress
+# repite al pie de TODAS las páginas del sitio. Sirven para saber dónde termina
+# la descripción real del evento y dónde empieza ese contenido repetido.
+BOILERPLATE_STOP = {
+    "CENTROS DE ATENCIÓN AL TURISTA",
+    "FERIAS, PASEOS Y EXPOSICIONES",
+    "RECREACIÓN",
+    "AVENTURA Y DIVERSIÓN",
+    "DEPORTE",
+    "CASAS DE ARTISTAS",
+    "ESPACIOS CULTURALES",
+    "ACTIVIDADES PERMANENTES",
+    "VOLVER ARRIBA",
+    "MENÚ",
+}
+
+
+def obtener_detalle_evento(url_evento, titulo):
+    """
+    Entra a la página propia del evento (ej: .../copa-humming-airways/)
+    y extrae el texto completo de la descripción (modalidad, horarios,
+    teléfonos de inscripción, etc. — todo lo que está debajo del título).
+
+    Cómo lo hace: el título del evento aparece dos veces en la página
+    (una como encabezado, y otra repetida justo antes del texto libre de
+    descripción). Tomamos todo el texto que viene después de la ÚLTIMA
+    aparición del título, y cortamos apenas aparece el widget fijo de
+    "Actividades permanentes" que se repite en todas las páginas del sitio.
+    """
+    try:
+        html = obtener_html(url_evento)
+    except Exception as e:
+        print(f"  ! No se pudo obtener el detalle de {url_evento}: {e}")
+        return ""
+
+    soup = BeautifulSoup(html, "html.parser")
+    textos = [limpiar(t) for t in soup.stripped_strings if limpiar(t)]
+
+    titulo_upper = titulo.strip().upper()
+    indices_titulo = [i for i, t in enumerate(textos) if t.upper() == titulo_upper]
+
+    if not indices_titulo:
+        return ""
+
+    inicio = indices_titulo[-1] + 1  # texto después de la última mención del título
+
+    lineas = []
+    for t in textos[inicio:]:
+        if t.upper() in BOILERPLATE_STOP:
+            break
+        lineas.append(t)
+        if len(lineas) >= 25:  # límite de seguridad por si algo no corta bien
+            break
+
+    return limpiar(" ".join(lineas))
 
 
 def limpiar(texto):
@@ -130,29 +235,59 @@ def parsear_pagina(html):
     return eventos
 
 
-def obtener_url_pagina_siguiente(html):
+def obtener_max_pagina(html):
+    """
+    Busca en TODOS los links de la página (no solo el botón "Siguiente")
+    el número de página más alto que aparezca en URLs del tipo:
+        https://agenda.pinamar.gob.ar/page/2/
+    Esto es más confiable que buscar el texto "Siguiente", porque ese
+    botón a veces trae un ícono adentro (flecha) y el texto solo no
+    alcanza para detectarlo.
+    """
     soup = BeautifulSoup(html, "html.parser")
-    link_siguiente = soup.find("a", string=re.compile("Siguiente", re.IGNORECASE))
-    if link_siguiente and link_siguiente.get("href"):
-        return link_siguiente["href"]
-    return None
+    max_pagina = 1
+    for a in soup.find_all("a", href=True):
+        m = re.search(r"/page/(\d+)/?", a["href"])
+        if m:
+            max_pagina = max(max_pagina, int(m.group(1)))
+    return max_pagina
 
 
 def main():
     todos_los_eventos = []
-    url_actual = BASE_URL
-    pagina_num = 1
 
-    while url_actual:
+    # Primero descargamos la página 1 para saber cuántas páginas hay en total
+    print(f"Descargando página 1: {BASE_URL}")
+    html = obtener_html(BASE_URL)
+    eventos = parsear_pagina(html)
+    print(f"  -> {len(eventos)} eventos encontrados")
+    todos_los_eventos.extend(eventos)
+
+    total_paginas = obtener_max_pagina(html)
+    print(f"Total de páginas detectadas: {total_paginas}")
+
+    for pagina_num in range(2, total_paginas + 1):
+        url_actual = f"{BASE_URL}page/{pagina_num}/"
+        time.sleep(1)  # ser respetuoso con el servidor
         print(f"Descargando página {pagina_num}: {url_actual}")
         html = obtener_html(url_actual)
         eventos = parsear_pagina(html)
         print(f"  -> {len(eventos)} eventos encontrados")
         todos_los_eventos.extend(eventos)
 
-        url_actual = obtener_url_pagina_siguiente(html)
-        pagina_num += 1
-        time.sleep(1)  # ser respetuoso con el servidor
+    # Descargar todas las imágenes localmente (evita el bloqueo "hotlinked"
+    # que da el sitio cuando se muestran sus imágenes desde otro dominio)
+    print("\nDescargando imágenes...")
+    for i, ev in enumerate(todos_los_eventos, start=1):
+        ev["imagen"] = descargar_imagen(ev["imagen"], i)
+    print(f"Imágenes guardadas en: {CARPETA_IMAGENES}")
+
+    # Entrar a la página propia de cada evento para traer la descripción completa
+    print("\nBuscando descripción completa de cada evento...")
+    for i, ev in enumerate(todos_los_eventos, start=1):
+        print(f"  ({i}/{len(todos_los_eventos)}) {ev['titulo']}")
+        ev["detalle"] = obtener_detalle_evento(ev["url_evento"], ev["titulo"])
+        time.sleep(0.5)  # ser respetuoso con el servidor
 
     # Guardar JSON
     with open(RUTA_JSON, "w", encoding="utf-8") as f:
@@ -161,7 +296,7 @@ def main():
     # Guardar CSV
     with open(RUTA_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
-            f, fieldnames=["titulo", "fecha", "horario", "imagen", "descripcion", "url_evento"]
+            f, fieldnames=["titulo", "fecha", "horario", "imagen", "descripcion", "detalle", "url_evento"]
         )
         writer.writeheader()
         writer.writerows(todos_los_eventos)
