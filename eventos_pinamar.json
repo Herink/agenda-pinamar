@@ -1,47 +1,11 @@
 [
   {
-    "titulo": "COPA HUMMING AIRWAYS",
-    "fecha": "11 JUL",
-    "horario": "7 hs",
-    "imagen": "imagenes/copa-humming-airways.jpeg",
-    "descripcion": "Links Pinamar Golf | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/copa-humming-airways/",
-    "detalle": "Modalidad 18 Hoyos Medal Play Entrega de premios y cocktail 17:30 hs Inscripción 2267 537599 | 2254 491815"
-  },
-  {
-    "titulo": "TAPICERÍA",
-    "fecha": "11 JUL",
-    "horario": "A confirmar",
-    "imagen": "imagenes/tapiceria.jpeg",
-    "descripcion": "El Ojo y el Diamante | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/tapiceria/",
-    "detalle": "Workshop nivel inicial Inscripciones @ojo_diamante 2267 630311 Somellera 79. Valeria del Mar"
-  },
-  {
-    "titulo": "🧶 TÉ & TEJIDO",
-    "fecha": "11 JUL",
-    "horario": "15 hs",
-    "imagen": "imagenes/🧶-te-tejido.jpeg",
-    "descripcion": "Experiencia Allona",
-    "url_evento": "https://agenda.pinamar.gob.ar/🧶-te-tejido/",
-    "detalle": "Experiencias Allona recibe a Marian SCHMIDT ( @mariansmity ) para compartir una tarde dedicada al tejido con agujas circulares. Un encuentro abierto a mujeres y hombres, con o sin experiencia previa, para descubrir, aprender, practicar y disfrutar del placer de crear con las manos. 📅 Sábado 11 de julio 🕒 15 hs 📍 Pinamar Durante la tarde compartiremos: 🧶 Introducción al tejido con agujas circulares. 🧶 Demostración práctica. 🧶 Espacio para practicar, intercambiar experiencias y realizar consultas. 🫖 Té y algo rico para acompañar el encuentro. 🧶 Entrada mediante intercambio: te invitamos a traer un ovillo de lana que será destinado a futuros encuentros y proyectos textiles compartidos. ⚠️ Cupos limitados · Inscripción previa obligatoria. Una tarde para encontrarnos, compartir saberes y dejarnos inspirar por el placer de hacer. 📲 Inscripciones y consultas: 2267 53-3950 @experiencias.allona"
-  },
-  {
     "titulo": "JUEGA ARGENTINA",
     "fecha": "11 JUL",
     "horario": "22 hs",
     "imagen": "imagenes/juega-argentina.jpeg",
     "descripcion": "Templeton Music Bar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/juega-argentina/",
-    "detalle": "Templeton Music Bar Boyero 1498, Feria del Bosque. Cariló Reservas: @templetonmusicbarok"
-  },
-  {
-    "titulo": "VINTAGE COVERS",
-    "fecha": "11 JUL",
-    "horario": "00 hs",
-    "imagen": "imagenes/vintage-covers.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/vintage-covers/",
     "detalle": "Templeton Music Bar Boyero 1498, Feria del Bosque. Cariló Reservas: @templetonmusicbarok"
   },
   {
@@ -211,7 +175,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "25 JUL | FULL PIANO BAR | El Refugio Pinamar | 21 hs | Pago | 25 JUL | ROSE . GUN TRIBUTE | Templeton Music Bar | 22 hs | Pago | 26 JUL | PINAMAR EXPOCAR | Av. Arquitecto Bunge y Av. del Libertador | 12 hs | Libre y gratuito | 29 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -238,7 +202,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "25 JUL | FULL PIANO BAR | El Refugio Pinamar | 21 hs | Pago | 25 JUL | ROSE . GUN TRIBUTE | Templeton Music Bar | 22 hs | Pago | 26 JUL | PINAMAR EXPOCAR | Av. Arquitecto Bunge y Av. del Libertador | 12 hs | Libre y gratuito | 29 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
