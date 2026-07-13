@@ -135,15 +135,6 @@
     "detalle": "Programación vacaciones de invierno: 29/7 | 15 hs. | Un Jefe en Pañales (2017) 97 min. 30/7 | 15 hs. | Planeta 51 ( 2017) 97 min. 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
   },
   {
-    "titulo": "VACACIONES DE PELÍCULA",
-    "fecha": "30 JUL",
-    "horario": "15 hs",
-    "imagen": "imagenes/vacaciones-de-pelicula-5.jpeg",
-    "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-5/",
-    "detalle": "Programación vacaciones de invierno: 30/7 | 15 hs. | Planeta 51 ( 2017) 97 min. 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
-  },
-  {
     "titulo": "MIRACINE",
     "fecha": "30 JUL",
     "horario": "20 hs",
@@ -175,7 +166,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -202,7 +193,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
