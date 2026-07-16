@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "ARGENTINA VS. INGLATERRA",
-    "fecha": "15 JUL",
-    "horario": "15:30 hs",
-    "imagen": "imagenes/argentina-vs-inglaterra.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/argentina-vs-inglaterra/",
-    "detalle": "Semifinal Teatro de la Torre Av. Constitución 687"
-  },
-  {
     "titulo": "MIRACINE",
     "fecha": "16 JUL",
     "horario": "20 hs",
@@ -117,6 +108,15 @@
     "detalle": "Programación vacaciones de invierno: 22/7 | 15 hs. | Pingüinos de Madagascar (2014) 92 min. 23/7 | 15 hs. | El Gato con Botas (2011) 82 min. 24/7 | 15 hs. | Paddington en Perú (2024) 106 min. 29/7 | 15 hs. | Un Jefe en Pañales (2017) 97 min. 30/7 | 15 hs. | Planeta 51 ( 2017) 97 min. 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
   },
   {
+    "titulo": "VACACIONES DE INVIERNO EN LA BIBLIO",
+    "fecha": "22 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/vacaciones-de-invierno-en-la-biblio.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-invierno-en-la-biblio/",
+    "detalle": "Había una vez un lugar para imaginar Te invitamos a la primera tarde de historias en la Biblio. Junto a la docente Vanesa Analía Díaz, los más chicos viajarán a otros mundos a través de la narración, despertando emociones y jugando con las palabras. Vení a disfrutar “La Calma del león”. ¡Entrada libre y gratuita! Requiere inscripción previa al 2254 620162 o en la Biblio"
+  },
+  {
     "titulo": "MIRACINE INFANTIL",
     "fecha": "22 JUL",
     "horario": "16 hs",
@@ -133,6 +133,15 @@
     "descripcion": "Teatro de la Torre | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/miracine-infantil-8/",
     "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
+  },
+  {
+    "titulo": "MASTER CLASS DE NO FICCIÓN LITERARIA",
+    "fecha": "22 JUL",
+    "horario": "18 hs",
+    "imagen": "imagenes/master-class-de-no-ficcion-literaria.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/master-class-de-no-ficcion-literaria/",
+    "detalle": "Master Class de no ficción literaria: entre investigación y creación Te invitamos a una clase magistral con la escritora Paula Klein, ganadora del Premio Lumen 2026. A partir de sus novelas, compartirá cómo transforma documentos, archivos y testimonios reales en atrapantes historias de ficción. ¡Una oportunidad única para conocer de cerca el proceso de la no ficción literaria! ¡Entrada libre y gratuita!"
   },
   {
     "titulo": "VACACIONES DE PELÍCULA",
@@ -207,6 +216,15 @@
     "detalle": "No es una caminata. Es una aventura para descubrir Pinamar en familia. Desafíos, curiosidades, secretos y una experiencia pensada para que grandes y chicos se diviertan juntos. Certificado de Explorador + dulce sorpresa para cada niño. ¡Reservá tu lugar! Duración: 2 horas Punto de encuentro: Av. Bunge y Marco Polo Precio: Adultos $14.000 / Menores de 12 años: sin cargo Información y reservas: 2254 44 0112 * Se suspende por lluvia"
   },
   {
+    "titulo": "CINE CLUB DE LA BIBLIO",
+    "fecha": "24 JUL",
+    "horario": "18:30 hs",
+    "imagen": "imagenes/cine-club-de-la-biblio-2.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/cine-club-de-la-biblio-2/",
+    "detalle": "Spotlight Te esperamos el viernes 24 para proyectar la sorprendente historia de cómo el equipo de periodistas del Boston Globe descubrió el escándalo masivo de abuso infantil dentro de la Iglesia católica. Una función atrapante sobre la búsqueda de la verdad. Al finalizar, realizaremos un pequeño debate. ¡Entrada libre y gratuita!"
+  },
+  {
     "titulo": "FULL PIANO BAR",
     "fecha": "25 JUL",
     "horario": "21 hs",
@@ -279,6 +297,15 @@
     "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
   },
   {
+    "titulo": "HABÍA UNA VEZ UN LUGAR PARA IMAGINAR",
+    "fecha": "29 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/habia-una-vez-un-lugar-para-imaginar.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/habia-una-vez-un-lugar-para-imaginar/",
+    "detalle": "¡Segunda tarde de cuentos en la Biblio! Te esperamos para compartir una nueva jornada llena de literatura, creatividad y estimulación. Coordinado por Vanesa Analía Díaz, este encuentro disfrutaremos “Serapio cumple años” ¡Entrada libre y gratuita! Requiere inscripción previa al 2254 620162 o en la Biblio"
+  },
+  {
     "titulo": "MIRACINE INFANTIL",
     "fecha": "29 JUL",
     "horario": "18 hs",
@@ -304,6 +331,15 @@
     "descripcion": "Teatro de la Torre | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/miracine-infantil-12/",
     "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
+  },
+  {
+    "titulo": "CLASE DE PORCELANA EN FRÍO PARA PEQUES",
+    "fecha": "30 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/clase-de-porcelana-en-frio-para-peques.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/clase-de-porcelana-en-frio-para-peques/",
+    "detalle": "Te esperamos el jueves 30 con una propuesta para los mas chicos. Van a poder crear con las manos, experimentar materiales y llevarse una producción propia. La actividad estará coordinada por Beatriz Dominguez. ¡Entrada libre y gratuita! Requiere inscripción previa al 2254 620162 o en la Biblio"
   },
   {
     "titulo": "MIRACINE INFANTIL",
@@ -333,6 +369,15 @@
     "detalle": "Programación vacaciones de invierno: 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
   },
   {
+    "titulo": "CINE CLUB PARA LA FAMILIA",
+    "fecha": "31 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/cine-club-para-la-familia.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/cine-club-para-la-familia/",
+    "detalle": "Una aventura para toda la familia con una de las películas animadas más queridas de Disney. Te esperamos el viernes 31 para disfrutar todos juntos de la película “El planeta del tesoro”. ¡Entrada libre y gratuita! Requiere inscripción previa al 2254 620162 o en la Biblio"
+  },
+  {
     "titulo": "CARRERA «EL DESAFIO PINAMAR 2026»",
     "fecha": "9 AGO",
     "horario": "",
@@ -340,6 +385,15 @@
     "descripcion": "Pinamar Norte | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/carrera-el-desafio-pinamar-2026/",
     "detalle": "Pinamar Norte 9 AGO Pago ¡𝟗𝟖% 𝐀𝐑𝐄𝐍𝐀! 🏖️🔥 El #DesafioPinamar es tan exigente como hermoso, solo pisás asfalto en la salida, después, TODO ES ARENA 🫡 No mentimos cuando les decimos que muchas carreras se hicieron en Pinamar, pero ninguna como 𝐭𝐮 𝐝𝐞𝐬𝐚𝐟𝐢𝐨 𝐝𝐢𝐟𝐞𝐫𝐞𝐧𝐭𝐞 𝐩𝐨𝐫 𝐦𝐞𝐝𝐚𝐧𝐨𝐬 𝐲 𝐬𝐞𝐧𝐝𝐞𝐫𝐨𝐬 ✨ Partiendo desde el Centro Comercial @pinamar_norte , vivirás un recorrido realmente soñado en donde conocerás la ciudad desde otro lado 😎 Senderos, bosques, médanos, subidas y bajadas, mar y muuuuucha, pero muuucha arena 🌊🌲⏳ Ya podés reservar tu lugar en la 3° edición del #DesafioPinamar desde www.fcproducciones.com.ar ✨ INSCRIBITE AHORA EN 3 CUOTAS 📆 Domingo 9 de agosto, 2026 🏃‍♀ 25K, 15K, 10K, KIDS @fcproducc"
+  },
+  {
+    "titulo": "TRAS LAS HUELLAS DE JORGE BUNGE",
+    "fecha": "15 AGO",
+    "horario": "15:30 hs",
+    "imagen": "imagenes/tras-las-huellas-de-jorge-bunge.jpeg",
+    "descripcion": "Vieja cancha de golf | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/tras-las-huellas-de-jorge-bunge/",
+    "detalle": "Descubrí la historia del hombre que imaginó Pinamar en una experiencia guiada por el histórico barrio del golf. Un recorrido entre médanos, bosque, arquitectura fundacional y paisajes únicos para conocer las ideas, la visión y el legado de Jorge Bunge. 📅 Sábado 15 de agosto 🕞 15:30 h 📍 Punto de encuentro: Vieja cancha de golf (De los Aromos y De las Artes) 👥 Grupos reducidos 💲 Valor: $15.000 por persona 📲 Reservas: 2254 44 0112 * Se suspende por lluvia"
   },
   {
     "titulo": "ENDURO DEL INVIERNO",
@@ -355,7 +409,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "29 JUL | MIRACINE INFANTIL | Teatro de la Torre | 16 hs | Libre y gratuito | 29 JUL | MIRACINE INFANTIL | Teatro de la Torre | 18 hs | Libre y gratuito | 30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE INFANTIL | Teatro de la Torre | 16 hs | Libre y gratuito | 30 JUL | MIRACINE INFANTIL | Teatro de la Torre | 18 hs | Libre y gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -382,7 +436,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "29 JUL | MIRACINE INFANTIL | Teatro de la Torre | 16 hs | Libre y gratuito | 29 JUL | MIRACINE INFANTIL | Teatro de la Torre | 18 hs | Libre y gratuito | 30 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 30 JUL | MIRACINE INFANTIL | Teatro de la Torre | 16 hs | Libre y gratuito | 30 JUL | MIRACINE INFANTIL | Teatro de la Torre | 18 hs | Libre y gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
