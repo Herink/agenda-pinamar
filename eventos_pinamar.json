@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "MIRACINE",
-    "fecha": "16 JUL",
-    "horario": "20 hs",
-    "imagen": "imagenes/miracine-2.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-2/",
-    "detalle": "Teatro de la Torre 16 JUL 20 hs Libre y gratuito CICLO WES ANDERSON JULIO, EN MIRACINE PINAMAR Colores cuidadosamente compuestos, personajes inolvidables y un universo inconfundible. Este julio te invitamos a recorrer la obra de uno de los directores más originales del cine contemporáneo. Programación – 16 de julio: El Gran Hotel Budapest Todos los jueves de julio a las 20:00 h en el Teatro de la Torre. Un ciclo para disfrutar del humor, la melancolía y la estética única de Wes Anderson en pantalla grande. Entrada libre y gratuita. Realizado junto a SENSA Telpin."
-  },
-  {
     "titulo": "CINE CLUB DE LA BIBLIO",
     "fecha": "17 JUL",
     "horario": "18:30 hs",
@@ -79,6 +70,15 @@
     "descripcion": "Templeton Music Bar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/helter-skelter/",
     "detalle": "Homenaje a The Beatles Templeton Music Bar Boyero 1498 . Feria del Bosque. Carilo Reserva por IG: @templetonmusicbarok"
+  },
+  {
+    "titulo": "CIRCO DE RATAS",
+    "fecha": "20 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/circo-de-ratas.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/circo-de-ratas/",
+    "detalle": "Lunes 20 de Julio 1 las 16 horas en el Teatro de la Torre, Constitución 687 Pago La compañía Ñam Ñam presenta el «Circo de Ratas» es un unipersonal de títeres con humor y ternura. Rosa es la señora que limpia el teatro. Mientras da la bienvenida al público, se sorprende al enterarse que los artistas internacionales no han llegado. De una bolsa olvidada sale Juan, una rata que se presenta como un gran artista, acompañado de su asistente, Roberto. Para evitar que Rosa los expulse del teatro, deberán demostrar que son verdaderos artistas. Así, montan el primer y único Circo de Ratas, poniendo a prueba sus habilidades. El público será el gran jurado. ¿Lograrán Juan y Roberto conquistar el corazón de Rosa y del público presente? Los niños abonan su entrada a partir de los dos años cumplidos"
   },
   {
     "titulo": "MIRACINE INFANTIL",
@@ -207,13 +207,13 @@
     "detalle": "Programación vacaciones de invierno: 24/7 | 15 hs. | Paddington en Perú (2024) 106 min. 29/7 | 15 hs. | Un Jefe en Pañales (2017) 97 min. 30/7 | 15 hs. | Planeta 51 ( 2017) 97 min. 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
   },
   {
-    "titulo": "EXPLORADORES DE PINAMAR",
-    "fecha": "25 JUL",
-    "horario": "15 hs",
-    "imagen": "imagenes/exploradores-de-pinamar.jpeg",
-    "descripcion": "Av. Bunge y Marco Polo | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/exploradores-de-pinamar/",
-    "detalle": "No es una caminata. Es una aventura para descubrir Pinamar en familia. Desafíos, curiosidades, secretos y una experiencia pensada para que grandes y chicos se diviertan juntos. Certificado de Explorador + dulce sorpresa para cada niño. ¡Reservá tu lugar! Duración: 2 horas Punto de encuentro: Av. Bunge y Marco Polo Precio: Adultos $14.000 / Menores de 12 años: sin cargo Información y reservas: 2254 44 0112 * Se suspende por lluvia"
+    "titulo": "MIEDO",
+    "fecha": "24 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/miedo.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/miedo/",
+    "detalle": "El viernes 24 de julio a las 16 horas en el Teatro de la Torre, Constitución 687 Pago El Teatro de Títeres Burbujas presentará: Miedo, espectáculo de teatro de títeres basado en el cuento “Miedo” de Graciela Cabal, con la dirección de Jorge Oczowinski, música de Axel Otarola. Resumen de la obra: Había una vez un chico que se llamaba Mateo, que tenía mucho miedo, él le tenía miedo a la oscuridad, a los ruidos fuertes, a las personas altas y a las personas bajas, a los jarabes amargos, a las burlas y a un montón de cosas más… nadie lo comprendía…hasta que un día conoció en la plaza a un nuevo amigo canino quien lo ayudo a dejar de tener tanto miedo. Los niños abonan su entrada a partir de los 2 años cumplidos."
   },
   {
     "titulo": "CINE CLUB DE LA BIBLIO",
@@ -223,6 +223,33 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
     "url_evento": "https://agenda.pinamar.gob.ar/cine-club-de-la-biblio-2/",
     "detalle": "Spotlight Te esperamos el viernes 24 para proyectar la sorprendente historia de cómo el equipo de periodistas del Boston Globe descubrió el escándalo masivo de abuso infantil dentro de la Iglesia católica. Una función atrapante sobre la búsqueda de la verdad. Al finalizar, realizaremos un pequeño debate. ¡Entrada libre y gratuita!"
+  },
+  {
+    "titulo": "EXPLORADORES DE PINAMAR",
+    "fecha": "25 JUL",
+    "horario": "15 hs",
+    "imagen": "imagenes/exploradores-de-pinamar.jpeg",
+    "descripcion": "Av. Bunge y Marco Polo | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/exploradores-de-pinamar/",
+    "detalle": "No es una caminata. Es una aventura para descubrir Pinamar en familia. Desafíos, curiosidades, secretos y una experiencia pensada para que grandes y chicos se diviertan juntos. Certificado de Explorador + dulce sorpresa para cada niño. ¡Reservá tu lugar! Duración: 2 horas Punto de encuentro: Av. Bunge y Marco Polo Precio: Adultos $14.000 / Menores de 12 años: sin cargo Información y reservas: 2254 44 0112 * Se suspende por lluvia"
+  },
+  {
+    "titulo": "LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE",
+    "fecha": "25 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/lunaria-memoria-de-una-noche-flotante.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/lunaria-memoria-de-una-noche-flotante/",
+    "detalle": "El sábados 25 de julio y 1 de agosto, a las 16 horas, en el Teatro de la Torre, Constitución 687 Pago “Lunaria, memoria de una noche flotante” en el Teatro de la Torre de Pinamar. La obra propone una travesía poética pensada para infancias, familias y espectadores de todas las edades, combinando teatro, música y una cuidada puesta visual. A través de una historia cargada de imaginación, la propuesta invita a reflexionar sobre el paso del tiempo, los encuentros, las despedidas y la forma en que miramos el mundo. Inspirada en el universo literario de Italo Calvino, la obra construye un viaje escénico donde la fantasía y la emoción ocupan un lugar central. El espectáculo cuenta con actuaciones de Constanza Michia, Gabriel Hefner y Ana López Muro, dirección de Nicolás Olea y música original compuesta por Gabriel Hefner. También incorpora animación en stop motion y un trabajo escenográfico especialmente diseñado para acompañar esta experiencia teatral."
+  },
+  {
+    "titulo": "CIELO. TIERRA Y ORIGEN",
+    "fecha": "25 JUL",
+    "horario": "20:30 hs",
+    "imagen": "imagenes/cielo-tierra-y-origen.jpeg",
+    "descripcion": "Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/cielo-tierra-y-origen/",
+    "detalle": "Una cena secreta en Pinamar www.experienciasalacarta.com.ar"
   },
   {
     "titulo": "FULL PIANO BAR",
@@ -259,6 +286,15 @@
     "descripcion": "Av. Arquitecto Bunge y Av. del Libertador | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/pinamar-expocar/",
     "detalle": "Una experiencia que reúne la pasión por los motores en el corazón de Pinamar. Show de Drift Exposición de autos por categorías Sector UTV Stands interactivos DJS y muchas sorpresas más Un evento pensado para disfrutar en familia, compartir con amigos y vivir de cerca la cultura y pasión por los «fierros» de forma segura y entretenida. 26 de julio de 2026 De 12:00 a 17:00 hs Av. Arquitecto Bunge y Av. del Libertador -Pinamar Entrada gratuita"
+  },
+  {
+    "titulo": "LOS RUMBITOS",
+    "fecha": "26 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/los-rumbitos.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/los-rumbitos/",
+    "detalle": "El domingo 26 de julio a las 16 horas en el Teatro de la Torre, Constitución 687 Pago Llegan una vez más al Teatro de La Torre estas vacaciones de invierno! La banda infantil más rockera de todo Pinamar presenta un espectáculo totalmente renovado: nuevas canciones, nuevos y, por supuesto, todos nuestros clásicos infaltables! Esta vez nos acompañarán, colos T-Rex, Turu, nuestra gallina gigante, El Oso Apest, un simpático zombie y la visita inigualable del gran Hombre Espejo. Músicos en vivo, personajes, fiesta de burbujas y mucho más te esperan en este increíble show. Preparate para moverte, jugar, cantar y bailar! ÚNICA FUNCIÓN! NO TE LO PIERDAS! Te esperamos!"
   },
   {
     "titulo": "MIRACINE INFANTIL",
@@ -378,6 +414,15 @@
     "detalle": "Una aventura para toda la familia con una de las películas animadas más queridas de Disney. Te esperamos el viernes 31 para disfrutar todos juntos de la película “El planeta del tesoro”. ¡Entrada libre y gratuita! Requiere inscripción previa al 2254 620162 o en la Biblio"
   },
   {
+    "titulo": "RADIO CATÁSTROFE",
+    "fecha": "1 AGO",
+    "horario": "17 hs",
+    "imagen": "imagenes/radio-catastrofe.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/radio-catastrofe/",
+    "detalle": "Un programa de radio payaso con hermosos cuentos, historias y juegos para toda la familia. Radiocuentos nos lleva a un mundo de historias que hablan de la libertad y del poderoso mundo de la imaginación. Reservas e informes por WhatsApp al 221-609-5006 ¡Descuento para socios y promociones para grupos familiares!"
+  },
+  {
     "titulo": "CARRERA «EL DESAFIO PINAMAR 2026»",
     "fecha": "9 AGO",
     "horario": "",
@@ -409,9 +454,18 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | 16 hs | Actividad libre y gratuita | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
+  },
+  {
+    "titulo": "FASHION CARILÓ",
+    "fecha": "3 OCT",
+    "horario": "16 hs",
+    "imagen": "imagenes/fashion-carilo.jpeg",
+    "descripcion": "Cariló Village Apart Hotel & Spa | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/fashion-carilo/",
+    "detalle": "busca consolidarse como una plataforma que impulse el diseño argentino, promueva el talento emergente y posicione a Cariló como un destino de referencia para la moda, la cultura y el turismo. Detalles del evento Fecha: sábado 3 de octubre de 2026 Hora: 16:00 hs Lugar: Cariló Village Informes: 2267 475302 | 2254 449091 Moda con propósito Fashion Cariló nace con la convicción de que la moda también puede transformar realidades. Por eso, cada edición acompaña una causa solidaria. En esta oportunidad, colaboramos, con el Taller Protegido Pinamar , institución que desde hace años brinda oportunidades de formación e inclusión laboral a personas con discapacidad, promoviendo su autonomía, desarrollo personal e integración en la comunidad. Cada persona que asista al evento estará colaborando directamente con el crecimiento de este espacio, contribuyendo a mejorar sus recursos, fortalecer sus proyectos y generar nuevas oportunidades para quienes forman parte del taller. De esta manera, cada diseñador, modelo, empresa patrocinadora y asistente se convierte también en protagonista de una acción solidaria que trasciende la pasarela. Porque creemos que la moda es mucho más que estética: es inspiración, compromiso y una herramienta capaz de generar un impacto positivo en la sociedad."
   },
   {
     "titulo": "TORNEO SEVEN",
@@ -436,7 +490,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | 16 hs | Actividad libre y gratuita | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
