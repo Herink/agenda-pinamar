@@ -9,24 +9,6 @@
     "detalle": "Cine Club de la Biblio | Ciclo Julio: El costo del éxito ¿Qué hay detrás del reconocimiento, el prestigio y los grandes logros? Durante julio, el Cine Club propone dos películas basadas en hechos reales que exploran las exigencias, los dilemas y las consecuencias que suelen esconderse detrás del éxito. Una buena receta (2015) Un chef brillante intenta reconstruir su carrera después de tocar fondo. Una historia sobre la obsesión por la excelencia, las segundas oportunidades y el precio de la ambición. Biblioteca Popular Manuel Belgrano Entrada libre y gratuita Te esperamos para compartir cine, reflexión y debate."
   },
   {
-    "titulo": "ARGENTINA INSPIRA",
-    "fecha": "17 JUL",
-    "horario": "19 hs",
-    "imagen": "imagenes/argentina-inspira.jpeg",
-    "descripcion": "Centro Cultural Ostende | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/argentina-inspira/",
-    "detalle": "Jardín 902 Lola Mora Centro Cultural Ostende Gaona y Mons"
-  },
-  {
-    "titulo": "THE POLICE MEN",
-    "fecha": "17 JUL",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/the-police-men.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/the-police-men/",
-    "detalle": "Templeton Music Bar Boyero 1498 . Feria del Bosque. Carilo Reserva por IG: @templetonmusicbarok"
-  },
-  {
     "titulo": "COPA MUEBLES Y SILLONES",
     "fecha": "18 JUL",
     "horario": "7 hs",
@@ -45,6 +27,24 @@
     "detalle": "Experiencia presencial de transformación Para sanar tu historia, expandir tu conciencia, multiplicar tus resultados y desplegar tu máximo potencial. Taller Sanación desde las emociones. De 9 a 12 hs Taller Comunicación Coherente. De 14:30 a 17 hs Conferencia EON, transforma tu vida. 18 hs Conferencistas Belén Bournot | Dario Perez | Catalina Mielke Inscripciones abiertas: (011) 15 7820 5257"
   },
   {
+    "titulo": "WORKSHOP DE TAPICERÍA",
+    "fecha": "18 JUL",
+    "horario": "",
+    "imagen": "imagenes/workshop-de-tapiceria.jpeg",
+    "descripcion": "El Ojo y el Diamante | 15 hs. | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/workshop-de-tapiceria/",
+    "detalle": "Te llevas un banquito tapizado por vos! Te contamos que todas las tardes de vacaciones podes venir a merendar con nosotros y pasá una tarde mágica en un entorno único de puro arte. Norma y Mario te reciben con una merienda casera, música en vivo y recorrida de la casa intervenida completamente por @lucasrise Te esperamos todos los días desde las 17 hs Somellera 79, Valeria del Mar Reserva previa al 2267 630311"
+  },
+  {
+    "titulo": "FERIA TALLER PROTEGIDO",
+    "fecha": "18 JUL",
+    "horario": "17 hs",
+    "imagen": "imagenes/feria-taller-protegido.jpeg",
+    "descripcion": "Taller Protegido | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/feria-taller-protegido/",
+    "detalle": "Veni a buscar el regalo del día del amigo o algo para tu casa Desde las 17 a 19:30 hs Con tu compra participas de un sorteo Av. Del Parque y Av. España"
+  },
+  {
     "titulo": "ISA MORENO Y BAMBINO",
     "fecha": "18 JUL",
     "horario": "19 hs",
@@ -52,6 +52,15 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/isa-moreno-y-bambino/",
     "detalle": "La biblioteca y Centro Cultural Manuel Belgrano de Pinamar presenra dos artistas marplatenses: Isa Moreno y Bambino, ambos con una trayectoria individual por distintos géneros, coinciden esta vez en un dúo que se complace en la mixtura y la confluencia de distintos ritmos y vertientes musicales. Será un concierto íntimo De Las Medusas 1230 El valor de las entradas es de $12.000, con 20% de descuento para socios de la Biblio. Para dicho concierto es necesaria la reserva al wpp : 223 594 4951."
+  },
+  {
+    "titulo": "URBAN NIGHT",
+    "fecha": "18 JUL",
+    "horario": "20 hs",
+    "imagen": "imagenes/urban-night.jpeg",
+    "descripcion": "Estacionamiento San Jose | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/urban-night/",
+    "detalle": "Exhibición Coreográfica & Free Style Ritmos urbanos. Cultura. Pasión. Comunidad Estacionamiento (Subsuelo) Supermercado San Jose"
   },
   {
     "titulo": "VALENTINO",
@@ -72,6 +81,15 @@
     "detalle": "Homenaje a The Beatles Templeton Music Bar Boyero 1498 . Feria del Bosque. Carilo Reserva por IG: @templetonmusicbarok"
   },
   {
+    "titulo": "ARGENTINA VS. ESPAÑA",
+    "fecha": "19 JUL",
+    "horario": "15:30 hs",
+    "imagen": "imagenes/argentina-vs-espana.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/argentina-vs-espana/",
+    "detalle": "FINAL DEL MUNDIAL Entrada gratuita Teatro de la Torre"
+  },
+  {
     "titulo": "CIRCO DE RATAS",
     "fecha": "20 JUL",
     "horario": "16 hs",
@@ -88,6 +106,15 @@
     "descripcion": "Teatro de la Torre | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/miracine-infantil-5/",
     "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
+  },
+  {
+    "titulo": "CONFECCIÓN DE ANTIFACES",
+    "fecha": "21 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/confeccion-de-antifaces.jpeg",
+    "descripcion": "Casa Melfi | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/confeccion-de-antifaces/",
+    "detalle": "Actividad y colación Casa Melfi De las Hesperides 1454 Coordina Marce Melfi Contacto: 1161687235"
   },
   {
     "titulo": "MIRACINE INFANTIL",
@@ -126,6 +153,15 @@
     "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
   },
   {
+    "titulo": "TALLER ENCUADERNACIÓN",
+    "fecha": "22 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/taller-encuadernacion.jpeg",
+    "descripcion": "Belvedere Hotel Holístico | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/taller-encuadernacion/",
+    "detalle": "Crea tu propio cuaderno Belvedere Hotel Holístico De las Burriquetas 24"
+  },
+  {
     "titulo": "MIRACINE INFANTIL",
     "fecha": "22 JUL",
     "horario": "18 hs",
@@ -151,6 +187,15 @@
     "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-2/",
     "detalle": "Programación vacaciones de invierno: 23/7 | 15 hs. | El Gato con Botas (2011) 82 min. 24/7 | 15 hs. | Paddington en Perú (2024) 106 min. 29/7 | 15 hs. | Un Jefe en Pañales (2017) 97 min. 30/7 | 15 hs. | Planeta 51 ( 2017) 97 min. 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
+  },
+  {
+    "titulo": "TARDE DE COLLAGE",
+    "fecha": "23 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/tarde-de-collage.jpeg",
+    "descripcion": "Casa Melfi | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/tarde-de-collage/",
+    "detalle": "Actividad y colación Casa Melfi De las Hesperides 1454 Coordina Marce Melfi Contacto: 1161687235"
   },
   {
     "titulo": "MIRACINE INFANTIL",
@@ -216,6 +261,15 @@
     "detalle": "El viernes 24 de julio a las 16 horas en el Teatro de la Torre, Constitución 687 Pago El Teatro de Títeres Burbujas presentará: Miedo, espectáculo de teatro de títeres basado en el cuento “Miedo” de Graciela Cabal, con la dirección de Jorge Oczowinski, música de Axel Otarola. Resumen de la obra: Había una vez un chico que se llamaba Mateo, que tenía mucho miedo, él le tenía miedo a la oscuridad, a los ruidos fuertes, a las personas altas y a las personas bajas, a los jarabes amargos, a las burlas y a un montón de cosas más… nadie lo comprendía…hasta que un día conoció en la plaza a un nuevo amigo canino quien lo ayudo a dejar de tener tanto miedo. Los niños abonan su entrada a partir de los 2 años cumplidos."
   },
   {
+    "titulo": "OBRA «AYRES DE AMOR Y MUERTE»",
+    "fecha": "24 JUL",
+    "horario": "18 hs",
+    "imagen": "imagenes/obra-ayres-de-amor-y-muerte.jpeg",
+    "descripcion": "Casa Melfi | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/obra-ayres-de-amor-y-muerte/",
+    "detalle": "Casa Melfi 24 JUL 18 hs Pago OBRA AYRES DE AMOR Y MUERTE Sobre la vida de Felicita Guerrero Teatro leido, debate y colación Casa Melfi De las Hesperides 1454 Coordina Marce Melfi Contacto: 1161687235"
+  },
+  {
     "titulo": "CINE CLUB DE LA BIBLIO",
     "fecha": "24 JUL",
     "horario": "18:30 hs",
@@ -223,6 +277,15 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
     "url_evento": "https://agenda.pinamar.gob.ar/cine-club-de-la-biblio-2/",
     "detalle": "Spotlight Te esperamos el viernes 24 para proyectar la sorprendente historia de cómo el equipo de periodistas del Boston Globe descubrió el escándalo masivo de abuso infantil dentro de la Iglesia católica. Una función atrapante sobre la búsqueda de la verdad. Al finalizar, realizaremos un pequeño debate. ¡Entrada libre y gratuita!"
+  },
+  {
+    "titulo": "COPA MAGRET",
+    "fecha": "25 JUL",
+    "horario": "7 hs",
+    "imagen": "imagenes/copa-magret.jpeg",
+    "descripcion": "Links Pinamar Golf | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/copa-magret/",
+    "detalle": "Modalidad 18 Hoyos Medal Play Entrega de premios y cocktail 17:30 Hs Inscripciones abiertas 2267 537599 | 2254 491815"
   },
   {
     "titulo": "EXPLORADORES DE PINAMAR",
@@ -297,6 +360,24 @@
     "detalle": "El domingo 26 de julio a las 16 horas en el Teatro de la Torre, Constitución 687 Pago Llegan una vez más al Teatro de La Torre estas vacaciones de invierno! La banda infantil más rockera de todo Pinamar presenta un espectáculo totalmente renovado: nuevas canciones, nuevos y, por supuesto, todos nuestros clásicos infaltables! Esta vez nos acompañarán, colos T-Rex, Turu, nuestra gallina gigante, El Oso Apest, un simpático zombie y la visita inigualable del gran Hombre Espejo. Músicos en vivo, personajes, fiesta de burbujas y mucho más te esperan en este increíble show. Preparate para moverte, jugar, cantar y bailar! ÚNICA FUNCIÓN! NO TE LO PIERDAS! Te esperamos!"
   },
   {
+    "titulo": "RADIO CATÁSTROFE",
+    "fecha": "27 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/radio-catastrofe-2.jpeg",
+    "descripcion": "Teatro de la Torre | A la gorra",
+    "url_evento": "https://agenda.pinamar.gob.ar/radio-catastrofe-2/",
+    "detalle": "Teatro · Humor · Radioteatro El lunes 27 de julio a las 16 horas en el Teatro de la Torre, Constitución 687 A la gorra ¡Bienvenidos al mundo de Radiocuentos! Dos payasos intentan llevar adelante un programa de radio… y fallan estrepitosamente en el intento. A través del humor, el clown y la imaginación, el espectáculo da vida a historias que reflexionan sobre la libertad, la democracia y la diversidad. Con efectos de sonido analógicos creados en vivo con objetos cotidianos, Radio Catástrofe invita al público a sumergirse en una experiencia teatral única, bizarra y muy divertida, donde el radioteatro cobra cuerpo y juego en escena."
+  },
+  {
+    "titulo": "CONFECCIÓN DE ANTIFACES",
+    "fecha": "28 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/confeccion-de-antifaces-2.jpeg",
+    "descripcion": "Casa Melfi | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/confeccion-de-antifaces-2/",
+    "detalle": "Actividad y colación Casa Melfi De las Hesperides 1454 Coordina Marce Melfi Contacto: 1161687235"
+  },
+  {
     "titulo": "MIRACINE INFANTIL",
     "fecha": "28 JUL",
     "horario": "16 hs",
@@ -369,6 +450,15 @@
     "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
   },
   {
+    "titulo": "TARDE DE COLLAGE",
+    "fecha": "30 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/tarde-de-collage-2.jpeg",
+    "descripcion": "Casa Melfi | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/tarde-de-collage-2/",
+    "detalle": "Actividad y colación Casa Melfi De las Hesperides 1454 Coordina Marce Melfi Contacto: 1161687235"
+  },
+  {
     "titulo": "CLASE DE PORCELANA EN FRÍO PARA PEQUES",
     "fecha": "30 JUL",
     "horario": "16 hs",
@@ -405,6 +495,15 @@
     "detalle": "Programación vacaciones de invierno: 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
   },
   {
+    "titulo": "GREGORIO EL ESCARABAJO",
+    "fecha": "31 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/gregorio-el-escarabajo.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/gregorio-el-escarabajo/",
+    "detalle": "(Títeres) 31 de julio a las 16 horas en el Teatro de la Torre, Constitución 687 Pago Gregorio es un niño feliz, hasta que una mañana se despierta convertido en… ¡un escarabajo gigante y rojizo! Sin embargo, nadie parece darse cuenta: ni sus padres, ni su hermana, ni la directora de la escuela. Solo Octavio, su mejor amigo, nota el cambio y quiere ayudarlo. ¿Cómo pudo pasar esto? ¿Por qué nadie lo nota? Gregorio está cansado de ser un escarabajo, ¡extraña ser un niño!"
+  },
+  {
     "titulo": "CINE CLUB PARA LA FAMILIA",
     "fecha": "31 JUL",
     "horario": "16 hs",
@@ -414,6 +513,24 @@
     "detalle": "Una aventura para toda la familia con una de las películas animadas más queridas de Disney. Te esperamos el viernes 31 para disfrutar todos juntos de la película “El planeta del tesoro”. ¡Entrada libre y gratuita! Requiere inscripción previa al 2254 620162 o en la Biblio"
   },
   {
+    "titulo": "CLINICA DE DESARROLLO DEPORTIVO",
+    "fecha": "1 AGO",
+    "horario": "13 hs",
+    "imagen": "imagenes/clinica-de-desarrollo-deportivo.jpeg",
+    "descripcion": "Polideportivo Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/clinica-de-desarrollo-deportivo/",
+    "detalle": "Cupos limitados. Grupos por niveles Tecnica Mirta Portillo 2254 538157 Natalia Ferrari"
+  },
+  {
+    "titulo": "LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE",
+    "fecha": "1 AGO",
+    "horario": "16 hs",
+    "imagen": "imagenes/lunaria-memoria-de-una-noche-flotante-2.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/lunaria-memoria-de-una-noche-flotante-2/",
+    "detalle": "El 1 de agosto, a las 16 horas, en el Teatro de la Torre, Constitución 687 Pago “Lunaria, memoria de una noche flotante” en el Teatro de la Torre de Pinamar. La obra propone una travesía poética pensada para infancias, familias y espectadores de todas las edades, combinando teatro, música y una cuidada puesta visual. A través de una historia cargada de imaginación, la propuesta invita a reflexionar sobre el paso del tiempo, los encuentros, las despedidas y la forma en que miramos el mundo. Inspirada en el universo literario de Italo Calvino, la obra construye un viaje escénico donde la fantasía y la emoción ocupan un lugar central. El espectáculo cuenta con actuaciones de Constanza Michia, Gabriel Hefner y Ana López Muro, dirección de Nicolás Olea y música original compuesta por Gabriel Hefner. También incorpora animación en stop motion y un trabajo escenográfico especialmente diseñado para acompañar esta experiencia teatral."
+  },
+  {
     "titulo": "RADIO CATÁSTROFE",
     "fecha": "1 AGO",
     "horario": "17 hs",
@@ -421,6 +538,15 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/radio-catastrofe/",
     "detalle": "Un programa de radio payaso con hermosos cuentos, historias y juegos para toda la familia. Radiocuentos nos lleva a un mundo de historias que hablan de la libertad y del poderoso mundo de la imaginación. Reservas e informes por WhatsApp al 221-609-5006 ¡Descuento para socios y promociones para grupos familiares!"
+  },
+  {
+    "titulo": "BAILALANA",
+    "fecha": "2 AGO",
+    "horario": "16 hs",
+    "imagen": "imagenes/bailalana.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/bailalana/",
+    "detalle": "2 de agosto a las 16 horas en el Teatro de la Torre, Constitución 687 Pago. Serafina es una niña que quiere ver el mundo, porque sabe que hay algo más que lo que ve. Tan fuerte es su deseo que ocurre un hecho maravilloso: la Bailalana se le presenta en su sueño para invitarla a la aventura. Bailalana es la bailarina cósmica que va tejiendo todo a su paso, es una personificación de la vida misma haciéndolo todo. La imaginación de Serafina está en función de la libertad, y eso es lo que la hace crecer, que es el gran deseo de la niñez. Bailalana se apoya en los mitos de las culturas de el mundo, que son los SUEÑOS del mundo."
   },
   {
     "titulo": "CARRERA «EL DESAFIO PINAMAR 2026»",
@@ -454,7 +580,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | 16 hs | Actividad libre y gratuita | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -490,7 +616,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | 16 hs | Actividad libre y gratuita | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
