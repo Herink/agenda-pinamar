@@ -1,95 +1,5 @@
 [
   {
-    "titulo": "CINE CLUB DE LA BIBLIO",
-    "fecha": "17 JUL",
-    "horario": "18:30 hs",
-    "imagen": "imagenes/cine-club-de-la-biblio.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/cine-club-de-la-biblio/",
-    "detalle": "Cine Club de la Biblio | Ciclo Julio: El costo del éxito ¿Qué hay detrás del reconocimiento, el prestigio y los grandes logros? Durante julio, el Cine Club propone dos películas basadas en hechos reales que exploran las exigencias, los dilemas y las consecuencias que suelen esconderse detrás del éxito. Una buena receta (2015) Un chef brillante intenta reconstruir su carrera después de tocar fondo. Una historia sobre la obsesión por la excelencia, las segundas oportunidades y el precio de la ambición. Biblioteca Popular Manuel Belgrano Entrada libre y gratuita Te esperamos para compartir cine, reflexión y debate."
-  },
-  {
-    "titulo": "COPA MUEBLES Y SILLONES",
-    "fecha": "18 JUL",
-    "horario": "7 hs",
-    "imagen": "imagenes/copa-muebles-y-sillones.jpeg",
-    "descripcion": "Links Pinamar Golf | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/copa-muebles-y-sillones/",
-    "detalle": "Modalidad 18 Hoyos Medal Play Entrega de premios y cocktail 17:30 hs Inscripción abierta: 2267 537599 | 2254 491815 @linkspinamar | @pinamar.ok"
-  },
-  {
-    "titulo": "EON",
-    "fecha": "18 JUL",
-    "horario": "",
-    "imagen": "imagenes/eon.jpeg",
-    "descripcion": "Hotel Cariló Village | 9 a 18 hs | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/eon/",
-    "detalle": "Experiencia presencial de transformación Para sanar tu historia, expandir tu conciencia, multiplicar tus resultados y desplegar tu máximo potencial. Taller Sanación desde las emociones. De 9 a 12 hs Taller Comunicación Coherente. De 14:30 a 17 hs Conferencia EON, transforma tu vida. 18 hs Conferencistas Belén Bournot | Dario Perez | Catalina Mielke Inscripciones abiertas: (011) 15 7820 5257"
-  },
-  {
-    "titulo": "WORKSHOP DE TAPICERÍA",
-    "fecha": "18 JUL",
-    "horario": "",
-    "imagen": "imagenes/workshop-de-tapiceria.jpeg",
-    "descripcion": "El Ojo y el Diamante | 15 hs. | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/workshop-de-tapiceria/",
-    "detalle": "Te llevas un banquito tapizado por vos! Te contamos que todas las tardes de vacaciones podes venir a merendar con nosotros y pasá una tarde mágica en un entorno único de puro arte. Norma y Mario te reciben con una merienda casera, música en vivo y recorrida de la casa intervenida completamente por @lucasrise Te esperamos todos los días desde las 17 hs Somellera 79, Valeria del Mar Reserva previa al 2267 630311"
-  },
-  {
-    "titulo": "FERIA TALLER PROTEGIDO",
-    "fecha": "18 JUL",
-    "horario": "17 hs",
-    "imagen": "imagenes/feria-taller-protegido.jpeg",
-    "descripcion": "Taller Protegido | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/feria-taller-protegido/",
-    "detalle": "Veni a buscar el regalo del día del amigo o algo para tu casa Desde las 17 a 19:30 hs Con tu compra participas de un sorteo Av. Del Parque y Av. España"
-  },
-  {
-    "titulo": "ISA MORENO Y BAMBINO",
-    "fecha": "18 JUL",
-    "horario": "19 hs",
-    "imagen": "imagenes/isa-moreno-y-bambino.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/isa-moreno-y-bambino/",
-    "detalle": "La biblioteca y Centro Cultural Manuel Belgrano de Pinamar presenra dos artistas marplatenses: Isa Moreno y Bambino, ambos con una trayectoria individual por distintos géneros, coinciden esta vez en un dúo que se complace en la mixtura y la confluencia de distintos ritmos y vertientes musicales. Será un concierto íntimo De Las Medusas 1230 El valor de las entradas es de $12.000, con 20% de descuento para socios de la Biblio. Para dicho concierto es necesaria la reserva al wpp : 223 594 4951."
-  },
-  {
-    "titulo": "URBAN NIGHT",
-    "fecha": "18 JUL",
-    "horario": "20 hs",
-    "imagen": "imagenes/urban-night.jpeg",
-    "descripcion": "Estacionamiento San Jose | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/urban-night/",
-    "detalle": "Exhibición Coreográfica & Free Style Ritmos urbanos. Cultura. Pasión. Comunidad Estacionamiento (Subsuelo) Supermercado San Jose"
-  },
-  {
-    "titulo": "VALENTINO",
-    "fecha": "18 JUL",
-    "horario": "21 hs",
-    "imagen": "imagenes/valentino.jpeg",
-    "descripcion": "El Refugio Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/valentino/",
-    "detalle": "JAZZ BASAR FUNKY TORINOS El Refugio Pinamar Contacto: 2254 624123"
-  },
-  {
-    "titulo": "HELTER SKELTER",
-    "fecha": "18 JUL",
-    "horario": "22 hs",
-    "imagen": "imagenes/helter-skelter.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/helter-skelter/",
-    "detalle": "Homenaje a The Beatles Templeton Music Bar Boyero 1498 . Feria del Bosque. Carilo Reserva por IG: @templetonmusicbarok"
-  },
-  {
-    "titulo": "ARGENTINA VS. ESPAÑA",
-    "fecha": "19 JUL",
-    "horario": "15:30 hs",
-    "imagen": "imagenes/argentina-vs-espana.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/argentina-vs-espana/",
-    "detalle": "FINAL DEL MUNDIAL Entrada gratuita Teatro de la Torre"
-  },
-  {
     "titulo": "CIRCO DE RATAS",
     "fecha": "20 JUL",
     "horario": "16 hs",
@@ -304,6 +214,15 @@
     "descripcion": "Teatro de la Torre | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/lunaria-memoria-de-una-noche-flotante/",
     "detalle": "El sábados 25 de julio y 1 de agosto, a las 16 horas, en el Teatro de la Torre, Constitución 687 Pago “Lunaria, memoria de una noche flotante” en el Teatro de la Torre de Pinamar. La obra propone una travesía poética pensada para infancias, familias y espectadores de todas las edades, combinando teatro, música y una cuidada puesta visual. A través de una historia cargada de imaginación, la propuesta invita a reflexionar sobre el paso del tiempo, los encuentros, las despedidas y la forma en que miramos el mundo. Inspirada en el universo literario de Italo Calvino, la obra construye un viaje escénico donde la fantasía y la emoción ocupan un lugar central. El espectáculo cuenta con actuaciones de Constanza Michia, Gabriel Hefner y Ana López Muro, dirección de Nicolás Olea y música original compuesta por Gabriel Hefner. También incorpora animación en stop motion y un trabajo escenográfico especialmente diseñado para acompañar esta experiencia teatral."
+  },
+  {
+    "titulo": "UNA TARDE CON ESTILO",
+    "fecha": "25 JUL",
+    "horario": "16 hs",
+    "imagen": "imagenes/una-tarde-con-estilo.jpeg",
+    "descripcion": "Garden Coffee | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/una-tarde-con-estilo/",
+    "detalle": "Garden Coffee 25 JUL 16 hs Pago Una merienda distinta Qué vas a encontrar? -Merienda buffet -charlas de skincare autocuidado e imagen -Actividades recreativas y premios -Desfile de moda -Coffe rave Reserva tu lugar al 2254 44-0196 | 02254 59-7202"
   },
   {
     "titulo": "CIELO. TIERRA Y ORIGEN",
@@ -580,7 +499,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 31 JUL | GREGORIO EL ESCARABAJO | Teatro de la Torre | 16 hs | Pago | 31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | 16 hs | Actividad libre y gratuita | 1 AGO | CLINICA DE DESARROLLO DEPORTIVO | Polideportivo Pinamar | 13 hs | Pago | 1 AGO | LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE | Teatro de la Torre | 16 hs | Pago | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -616,7 +535,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 31 JUL | GREGORIO EL ESCARABAJO | Teatro de la Torre | 16 hs | Pago | 31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | 16 hs | Actividad libre y gratuita | 1 AGO | CLINICA DE DESARROLLO DEPORTIVO | Polideportivo Pinamar | 13 hs | Pago | 1 AGO | LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE | Teatro de la Torre | 16 hs | Pago | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
