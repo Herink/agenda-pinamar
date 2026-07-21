@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "CIRCO DE RATAS",
-    "fecha": "20 JUL",
-    "horario": "16 hs",
-    "imagen": "imagenes/circo-de-ratas.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/circo-de-ratas/",
-    "detalle": "Lunes 20 de Julio 1 las 16 horas en el Teatro de la Torre, Constitución 687 Pago La compañía Ñam Ñam presenta el «Circo de Ratas» es un unipersonal de títeres con humor y ternura. Rosa es la señora que limpia el teatro. Mientras da la bienvenida al público, se sorprende al enterarse que los artistas internacionales no han llegado. De una bolsa olvidada sale Juan, una rata que se presenta como un gran artista, acompañado de su asistente, Roberto. Para evitar que Rosa los expulse del teatro, deberán demostrar que son verdaderos artistas. Así, montan el primer y único Circo de Ratas, poniendo a prueba sus habilidades. El público será el gran jurado. ¿Lograrán Juan y Roberto conquistar el corazón de Rosa y del público presente? Los niños abonan su entrada a partir de los dos años cumplidos"
-  },
-  {
     "titulo": "MIRACINE INFANTIL",
     "fecha": "21 JUL",
     "horario": "16 hs",
@@ -153,6 +144,15 @@
     "detalle": "Templeton Music Bar Boyero 1498 . Feria del Bosque. Carilo Reserva por IG: @templetonmusicbarok"
   },
   {
+    "titulo": "VISITA GUIADA AL VIVERO",
+    "fecha": "24 JUL",
+    "horario": "11:30 hs",
+    "imagen": "imagenes/visita-guiada-al-vivero.jpg",
+    "descripcion": "Vivero Forestal Pinamar S.A | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/visita-guiada-al-vivero/",
+    "detalle": "Conocé la nursery que le dió origen a los pinos de la ciudad hace mas de 80 años. Viernes 24 y 31 de Julio a las 11:30 hs. | Actividad gratuita INSCRIPCIONES: Mandando mail a info@pinamar.com.ar Vivero de Pinamar S.A., Av. Shaw y Boulevard Florencio Ameghino, Pinamar."
+  },
+  {
     "titulo": "VACACIONES DE PELÍCULA",
     "fecha": "24 JUL",
     "horario": "15 hs",
@@ -196,6 +196,15 @@
     "descripcion": "Links Pinamar Golf | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/copa-magret/",
     "detalle": "Modalidad 18 Hoyos Medal Play Entrega de premios y cocktail 17:30 Hs Inscripciones abiertas 2267 537599 | 2254 491815"
+  },
+  {
+    "titulo": "YOGA AL AIRE LIBRE",
+    "fecha": "25 JUL",
+    "horario": "11 hs",
+    "imagen": "imagenes/yoga-al-aire-libre.jpg",
+    "descripcion": "Gardenias Pinamar | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/yoga-al-aire-libre/",
+    "detalle": "Te invitamos a compartir una clase de yoga junto a @movimientonaturaleza Sábado 25 de Julio a las 11 hs. | Actividad gratuita INFO E INSCRIPCIONES: Por Instagram a @gardenias.delimarket Gardenias Pinamar, De los Aromos 971, Pinamar."
   },
   {
     "titulo": "EXPLORADORES DE PINAMAR",
@@ -351,6 +360,15 @@
     "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
   },
   {
+    "titulo": "TALLER BOTÁNICO PARA NIÑOS",
+    "fecha": "30 JUL",
+    "horario": "11:30 hs",
+    "imagen": "imagenes/taller-botanico-para-ninos.jpg",
+    "descripcion": "Vivero Forestal Pinamar S.A | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/taller-botanico-para-ninos/",
+    "detalle": "Una actividad pensada para despertar la curiosidad de los niños por las plantas y su entorno natural Jueves 30 de Julio a las 11:30 hs. | Actividad gratuita INFO E INSCRIPCIONES: Mandando mail a info@pinamar.com.ar Vivero Pinamar S.A, Av. Shaw y Boulevard Fiorentino Ameghino, Pinamar"
+  },
+  {
     "titulo": "VACACIONES DE PELÍCULA",
     "fecha": "30 JUL",
     "horario": "15 hs",
@@ -403,6 +421,15 @@
     "descripcion": "Teatro de la Torre | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/miracine-4/",
     "detalle": "Estas Vacaciones de invierno, MIRACINE celebra a uno de los grandes actores del cine argentino con un Ciclo Homenaje a Luis Brandoni. Dos películas inolvidables que muestran el talento, el humor y la versatilidad de Luis Brandoni, figura fundamental del cine y el teatro nacional. Una propuesta ideal para disfrutar en estas vacaciones de invierno, en pantalla grande y junto al público de Miracine Pinamar. Jueves 30 de julio – 20:00 h «Esperando la carroza» Teatro de la Torre Entrada libre y gratuita."
+  },
+  {
+    "titulo": "VISITA GUIADA AL VIVERO",
+    "fecha": "31 JUL",
+    "horario": "11:30 hs",
+    "imagen": "imagenes/visita-guiada-al-vivero-2.jpg",
+    "descripcion": "Vivero Forestal Pinamar S.A | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/visita-guiada-al-vivero-2/",
+    "detalle": "Conocé la nursery que le dió origen a los pinos de la ciudad hace mas de 80 años. Viernes 24 y 31 de Julio a las 11:30 hs. | Actividad gratuita INSCRIPCIONES: Mandando mail a info@pinamar.com.ar Vivero de Pinamar S.A., Av. Shaw y Boulevard Florencio Ameghino, Pinamar."
   },
   {
     "titulo": "VACACIONES DE PELÍCULA",
@@ -496,10 +523,10 @@
   },
   {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "21 NOV",
-    "horario": "A confirmar",
+    "fecha": "3 OCT",
+    "horario": "16 hs",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 31 JUL | GREGORIO EL ESCARABAJO | Teatro de la Torre | 16 hs | Pago | 31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | 16 hs | Actividad libre y gratuita | 1 AGO | CLINICA DE DESARROLLO DEPORTIVO | Polideportivo Pinamar | 13 hs | Pago | 1 AGO | LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE | Teatro de la Torre | 16 hs | Pago | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "30 JUL | MIRACINE INFANTIL | Teatro de la Torre | 18 hs | Libre y gratuito | 30 JUL | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 31 JUL | VISITA GUIADA AL VIVERO | Vivero Forestal Pinamar S.A | 11:30 hs | Libre y Gratuito | 31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 31 JUL | GREGORIO EL ESCARABAJO | Teatro de la Torre | Pago | 31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita | 1 AGO | CLINICA DE DESARROLLO DEPORTIVO | Polideportivo Pinamar | 13 hs | Pago | 1 AGO | LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE | Teatro de la Torre | Pago | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 2 AGO | BAILALANA | Teatro de la Torre | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -535,7 +562,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "31 JUL | VACACIONES DE PELÍCULA | Centro Cultural Ostende | 15 hs | Libre y Gratuito | 31 JUL | GREGORIO EL ESCARABAJO | Teatro de la Torre | 16 hs | Pago | 31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | 16 hs | Actividad libre y gratuita | 1 AGO | CLINICA DE DESARROLLO DEPORTIVO | Polideportivo Pinamar | 13 hs | Pago | 1 AGO | LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE | Teatro de la Torre | 16 hs | Pago | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
