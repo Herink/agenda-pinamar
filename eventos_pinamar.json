@@ -1,68 +1,5 @@
 [
   {
-    "titulo": "VACACIONES DE PELÍCULA",
-    "fecha": "23 JUL",
-    "horario": "15 hs",
-    "imagen": "imagenes/vacaciones-de-pelicula-2.jpeg",
-    "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-2/",
-    "detalle": "Programación vacaciones de invierno: 23/7 | 15 hs. | El Gato con Botas (2011) 82 min. 24/7 | 15 hs. | Paddington en Perú (2024) 106 min. 29/7 | 15 hs. | Un Jefe en Pañales (2017) 97 min. 30/7 | 15 hs. | Planeta 51 ( 2017) 97 min. 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
-  },
-  {
-    "titulo": "TARDE DE COLLAGE",
-    "fecha": "23 JUL",
-    "horario": "16 hs",
-    "imagen": "imagenes/tarde-de-collage.jpeg",
-    "descripcion": "Casa Melfi | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/tarde-de-collage/",
-    "detalle": "Actividad y colación Casa Melfi De las Hesperides 1454 Coordina Marce Melfi Contacto: 1161687235"
-  },
-  {
-    "titulo": "MIRACINE INFANTIL",
-    "fecha": "23 JUL",
-    "horario": "16 hs",
-    "imagen": "imagenes/miracine-infantil-6.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-infantil-6/",
-    "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
-  },
-  {
-    "titulo": "MIRACINE INFANTIL",
-    "fecha": "23 JUL",
-    "horario": "18 hs",
-    "imagen": "imagenes/miracine-infantil-10.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-infantil-10/",
-    "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
-  },
-  {
-    "titulo": "MIRACINE",
-    "fecha": "23 JUL",
-    "horario": "20 hs",
-    "imagen": "imagenes/miracine-3.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-3/",
-    "detalle": "Estas Vacaciones de invierno, MIRACINE celebra a uno de los grandes actores del cine argentino con un Ciclo Homenaje a Luis Brandoni. Dos películas inolvidables que muestran el talento, el humor y la versatilidad de Luis Brandoni, figura fundamental del cine y el teatro nacional. Una propuesta ideal para disfrutar en estas vacaciones de invierno, en pantalla grande y junto al público de Miracine Pinamar. Jueves 23 de julio, 20:00 h «Mi obra maestra» Jueves 30 de julio – 20:00 h «Esperando la carroza» Teatro de la Torre Entrada libre y gratuita."
-  },
-  {
-    "titulo": "AN ESPIL & SECCHES23",
-    "fecha": "23 JUL",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/an-espil-secches23.jpeg",
-    "descripcion": "El Refugio Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/an-espil-secches23/",
-    "detalle": "El Refugio Pinamar 23 JUL 21:30 hs Pago AN ESPIL & SECCHES MÚSICA DE CHARLY GARCIA El Refugio Pinamar Contacto: 2254 624123"
-  },
-  {
-    "titulo": "EL CUARTO SODA",
-    "fecha": "23 JUL",
-    "horario": "22 hs",
-    "imagen": "imagenes/el-cuarto-soda.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/el-cuarto-soda/",
-    "detalle": "Templeton Music Bar Boyero 1498 . Feria del Bosque. Carilo Reserva por IG: @templetonmusicbarok"
-  },
-  {
     "titulo": "VISITA GUIADA AL VIVERO",
     "fecha": "24 JUL",
     "horario": "11:30 hs",
@@ -160,6 +97,24 @@
     "descripcion": "Garden Coffee | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/una-tarde-con-estilo/",
     "detalle": "Garden Coffee 25 JUL 16 hs Pago Una merienda distinta Qué vas a encontrar? -Merienda buffet -charlas de skincare autocuidado e imagen -Actividades recreativas y premios -Desfile de moda -Coffe rave Reserva tu lugar al 2254 44-0196 | 02254 59-7202"
+  },
+  {
+    "titulo": "PINTURA EN VIVO POR ALEJANDRA TREBINO",
+    "fecha": "25 JUL",
+    "horario": "17 hs",
+    "imagen": "imagenes/pintura-en-vivo-por-alejandra-trebino.jpeg",
+    "descripcion": "Cariló | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/pintura-en-vivo-por-alejandra-trebino/",
+    "detalle": "Cariló 25 JUL 17 hs Libre y Gratuito Vacaciones de Invierno | Ciclo de Arte en Vivo Hoy presentamos a Alejandra Trebino, una de las artistas de Cariló que mejor logra plasmar, a través de su pintura, la belleza de este paisaje: sus bosques, sus cielos y el mar. Te invitamos a vivir la experiencia única de verla crear una obra en vivo y descubrir de cerca su proceso creativo. 📅 Sábado | 17 h 📍 Paseo Los Arcos – Boyero 1420, Cariló Actividad libre y gratuita para toda la familia. ¡Los esperamos para compartir una tarde de arte y encuentro!"
+  },
+  {
+    "titulo": "FIESTA DEL AMIGO INVISIBLE",
+    "fecha": "25 JUL",
+    "horario": "20 hs",
+    "imagen": "imagenes/fiesta-del-amigo-invisible.jpeg",
+    "descripcion": "El Barcete Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/fiesta-del-amigo-invisible/",
+    "detalle": "¡¡Traes un regalo y te llevas otro!! Música de los 80/90 con DJ ROBY Menú amigable, comen 2 y paga 1 $40.000 Reserva tu mesa al 11-59691001 El Barcete – Pinamar Beach Resort – Av. del Mar 1185"
   },
   {
     "titulo": "FULL PIANO BAR",
@@ -423,6 +378,15 @@
     "detalle": "2 de agosto a las 16 horas en el Teatro de la Torre, Constitución 687 Pago. Serafina es una niña que quiere ver el mundo, porque sabe que hay algo más que lo que ve. Tan fuerte es su deseo que ocurre un hecho maravilloso: la Bailalana se le presenta en su sueño para invitarla a la aventura. Bailalana es la bailarina cósmica que va tejiendo todo a su paso, es una personificación de la vida misma haciéndolo todo. La imaginación de Serafina está en función de la libertad, y eso es lo que la hace crecer, que es el gran deseo de la niñez. Bailalana se apoya en los mitos de las culturas de el mundo, que son los SUEÑOS del mundo."
   },
   {
+    "titulo": "1° EDICIÓN TEAM CUP PINAMAR",
+    "fecha": "9 AGO",
+    "horario": "10 hs",
+    "imagen": "imagenes/1-edicion-team-cup-pinamar.jpeg",
+    "descripcion": "8 | Links Pinamar Golf | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/1-edicion-team-cup-pinamar/",
+    "detalle": "Links Pinamar Golf 8 | 9 AGO 10 hs Pago 1º EDICIÓN TEAM CUP PINAMAR – LINKS PINAMAR ¡Vení a representara tu club! 8 y 9 de agosto Categorías Juveniles y menores. Pro Junior Experience by Santiago Bauni Sábado 8 Práctica libre + Mano a mano con Santiago Bauni. Domingo 9 * 10hs Clínica + Charla Técnica. * 11hs Forma de juego: Four ball e individual. * 16hs Entrega de premios. Inscripciones abiertas 2267-53759 | 2254-491815 golfpinamar.com.ar"
+  },
+  {
     "titulo": "CARRERA «EL DESAFIO PINAMAR 2026»",
     "fecha": "9 AGO",
     "horario": "",
@@ -454,7 +418,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -490,7 +454,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
