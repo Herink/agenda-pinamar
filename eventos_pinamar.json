@@ -1,86 +1,5 @@
 [
   {
-    "titulo": "COPA MAGRET",
-    "fecha": "25 JUL",
-    "horario": "7 hs",
-    "imagen": "imagenes/copa-magret.jpeg",
-    "descripcion": "Links Pinamar Golf | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/copa-magret/",
-    "detalle": "Modalidad 18 Hoyos Medal Play Entrega de premios y cocktail 17:30 Hs Inscripciones abiertas 2267 537599 | 2254 491815"
-  },
-  {
-    "titulo": "YOGA AL AIRE LIBRE",
-    "fecha": "25 JUL",
-    "horario": "11 hs",
-    "imagen": "imagenes/yoga-al-aire-libre.jpg",
-    "descripcion": "Gardenias Pinamar | Libre y Gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/yoga-al-aire-libre/",
-    "detalle": "Te invitamos a compartir una clase de yoga junto a @movimientonaturaleza Sábado 25 de Julio a las 11 hs. | Actividad gratuita INFO E INSCRIPCIONES: Por Instagram a @gardenias.delimarket Gardenias Pinamar, De los Aromos 971, Pinamar."
-  },
-  {
-    "titulo": "EXPLORADORES DE PINAMAR",
-    "fecha": "25 JUL",
-    "horario": "15 hs",
-    "imagen": "imagenes/exploradores-de-pinamar.jpeg",
-    "descripcion": "Av. Bunge y Marco Polo | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/exploradores-de-pinamar/",
-    "detalle": "No es una caminata. Es una aventura para descubrir Pinamar en familia. Desafíos, curiosidades, secretos y una experiencia pensada para que grandes y chicos se diviertan juntos. Certificado de Explorador + dulce sorpresa para cada niño. ¡Reservá tu lugar! Duración: 2 horas Punto de encuentro: Av. Bunge y Marco Polo Precio: Adultos $14.000 / Menores de 12 años: sin cargo Información y reservas: 2254 44 0112 * Se suspende por lluvia"
-  },
-  {
-    "titulo": "LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE",
-    "fecha": "25 JUL",
-    "horario": "16 hs",
-    "imagen": "imagenes/lunaria-memoria-de-una-noche-flotante.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/lunaria-memoria-de-una-noche-flotante/",
-    "detalle": "El sábados 25 de julio y 1 de agosto, a las 16 horas, en el Teatro de la Torre, Constitución 687 Pago “Lunaria, memoria de una noche flotante” en el Teatro de la Torre de Pinamar. La obra propone una travesía poética pensada para infancias, familias y espectadores de todas las edades, combinando teatro, música y una cuidada puesta visual. A través de una historia cargada de imaginación, la propuesta invita a reflexionar sobre el paso del tiempo, los encuentros, las despedidas y la forma en que miramos el mundo. Inspirada en el universo literario de Italo Calvino, la obra construye un viaje escénico donde la fantasía y la emoción ocupan un lugar central. El espectáculo cuenta con actuaciones de Constanza Michia, Gabriel Hefner y Ana López Muro, dirección de Nicolás Olea y música original compuesta por Gabriel Hefner. También incorpora animación en stop motion y un trabajo escenográfico especialmente diseñado para acompañar esta experiencia teatral."
-  },
-  {
-    "titulo": "UNA TARDE CON ESTILO",
-    "fecha": "25 JUL",
-    "horario": "16 hs",
-    "imagen": "imagenes/una-tarde-con-estilo.jpeg",
-    "descripcion": "Garden Coffee | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/una-tarde-con-estilo/",
-    "detalle": "Garden Coffee 25 JUL 16 hs Pago Una merienda distinta Qué vas a encontrar? -Merienda buffet -charlas de skincare autocuidado e imagen -Actividades recreativas y premios -Desfile de moda -Coffe rave Reserva tu lugar al 2254 44-0196 | 02254 59-7202"
-  },
-  {
-    "titulo": "PINTURA EN VIVO POR ALEJANDRA TREBINO",
-    "fecha": "25 JUL",
-    "horario": "17 hs",
-    "imagen": "imagenes/pintura-en-vivo-por-alejandra-trebino.jpeg",
-    "descripcion": "Cariló | Libre y Gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/pintura-en-vivo-por-alejandra-trebino/",
-    "detalle": "Cariló 25 JUL 17 hs Libre y Gratuito Vacaciones de Invierno | Ciclo de Arte en Vivo Hoy presentamos a Alejandra Trebino, una de las artistas de Cariló que mejor logra plasmar, a través de su pintura, la belleza de este paisaje: sus bosques, sus cielos y el mar. Te invitamos a vivir la experiencia única de verla crear una obra en vivo y descubrir de cerca su proceso creativo. 📅 Sábado | 17 h 📍 Paseo Los Arcos – Boyero 1420, Cariló Actividad libre y gratuita para toda la familia. ¡Los esperamos para compartir una tarde de arte y encuentro!"
-  },
-  {
-    "titulo": "FIESTA DEL AMIGO INVISIBLE",
-    "fecha": "25 JUL",
-    "horario": "20 hs",
-    "imagen": "imagenes/fiesta-del-amigo-invisible.jpeg",
-    "descripcion": "El Barcete Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/fiesta-del-amigo-invisible/",
-    "detalle": "¡¡Traes un regalo y te llevas otro!! Música de los 80/90 con DJ ROBY Menú amigable, comen 2 y paga 1 $40.000 Reserva tu mesa al 11-59691001 El Barcete – Pinamar Beach Resort – Av. del Mar 1185"
-  },
-  {
-    "titulo": "FULL PIANO BAR",
-    "fecha": "25 JUL",
-    "horario": "21 hs",
-    "imagen": "imagenes/full-piano-bar.jpeg",
-    "descripcion": "El Refugio Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/full-piano-bar/",
-    "detalle": "XSANTIGONELLA El Refugio Pinamar Contacto: 2254 624123"
-  },
-  {
-    "titulo": "ROSE . GUN TRIBUTE",
-    "fecha": "25 JUL",
-    "horario": "22 hs",
-    "imagen": "imagenes/rose-gun-tribute.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/rose-gun-tribute/",
-    "detalle": "Templeton Music Bar Boyero 1498 . Feria del Bosque. Carilo Reserva por IG: @templetonmusicbarok"
-  },
-  {
     "titulo": "TORNEO ARQUERÍA 3D",
     "fecha": "26 JUL",
     "horario": "9 hs",
@@ -88,15 +7,6 @@
     "descripcion": "Cet Pinamar | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-arqueria-3d/",
     "detalle": "Federal y Homologatorio 24 Estaciones Más de 100 arqueros Acceso Ruta 11 o Tranquera de Martín Pescador"
-  },
-  {
-    "titulo": "PINAMAR EXPOCAR",
-    "fecha": "26 JUL",
-    "horario": "12 hs",
-    "imagen": "imagenes/pinamar-expocar.jpeg",
-    "descripcion": "Av. Arquitecto Bunge y Av. del Libertador | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/pinamar-expocar/",
-    "detalle": "Una experiencia que reúne la pasión por los motores en el corazón de Pinamar. Show de Drift Exposición de autos por categorías Sector UTV Stands interactivos DJS y muchas sorpresas más Un evento pensado para disfrutar en familia, compartir con amigos y vivir de cerca la cultura y pasión por los «fierros» de forma segura y entretenida. 26 de julio de 2026 De 12:00 a 17:00 hs Av. Arquitecto Bunge y Av. del Libertador -Pinamar Entrada gratuita"
   },
   {
     "titulo": "LOS RUMBITOS",
@@ -388,10 +298,10 @@
   },
   {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "19 SEP",
-    "horario": "10 hs",
+    "fecha": "21 NOV",
+    "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "31 JUL | WORKSHOP INFANTIL: MONSTRUOS DE CERÁMICA | Valeria del Mar | 15 hs | Pago | 31 JUL | GREGORIO EL ESCARABAJO | Teatro de la Torre | 16 hs | Pago | 31 JUL | CINE CLUB PARA LA FAMILIA | Biblioteca Popular Manuel Belgrano | 16 hs | Actividad libre y gratuita | 1 AGO | PINAMAR EXPOCAR | Av. Bunge y Av. Libertador | 12 hs | Libre y Gratuito | 1 AGO | CLINICA DE DESARROLLO DEPORTIVO | Polideportivo Pinamar | 13 hs | Pago | 1 AGO | LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE | Teatro de la Torre | 16 hs | Pago | 1 AGO | RADIO CATÁSTROFE | Biblioteca Popular Manuel Belgrano | 17 hs | Pago | 2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 8 | 9 AGO | 1° EDICIÓN TEAM CUP PINAMAR | Links Pinamar Golf | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | Pago | 18 | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago",
+    "descripcion": "14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -436,7 +346,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
