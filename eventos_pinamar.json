@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "RADIO CATÁSTROFE",
-    "fecha": "27 JUL",
-    "horario": "16 hs",
-    "imagen": "imagenes/radio-catastrofe-2.jpeg",
-    "descripcion": "Teatro de la Torre | A la gorra",
-    "url_evento": "https://agenda.pinamar.gob.ar/radio-catastrofe-2/",
-    "detalle": "Teatro · Humor · Radioteatro El lunes 27 de julio a las 16 horas en el Teatro de la Torre, Constitución 687 A la gorra ¡Bienvenidos al mundo de Radiocuentos! Dos payasos intentan llevar adelante un programa de radio… y fallan estrepitosamente en el intento. A través del humor, el clown y la imaginación, el espectáculo da vida a historias que reflexionan sobre la libertad, la democracia y la diversidad. Con efectos de sonido analógicos creados en vivo con objetos cotidianos, Radio Catástrofe invita al público a sumergirse en una experiencia teatral única, bizarra y muy divertida, donde el radioteatro cobra cuerpo y juego en escena."
-  },
-  {
     "titulo": "CONFECCIÓN DE ANTIFACES",
     "fecha": "28 JUL",
     "horario": "16 hs",
@@ -27,6 +18,15 @@
     "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
   },
   {
+    "titulo": "TE CANTO, TE CUENTO",
+    "fecha": "28 JUL",
+    "horario": "18 hs",
+    "imagen": "imagenes/te-canto-te-cuento.jpeg",
+    "descripcion": "El Ojo y el Diamante | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/te-canto-te-cuento/",
+    "detalle": "Será un encuentro donde la poesía y la música hacen un contrapunto. Alicia Ortolani escribe poesía, tiene sus poemarios editados A orillas del alma, de botella al mar y Hasra el umbral edición la yunta ,uno y otro han sido presentados el Valparaíso chile y Valencia España. Colabora con el rincón poético de la voz de la casita literaria programa de radio de Radio Simphony, Co-directora de la muestra itinerante Imagen y palabra, participó de varias antologías internacionales en cuento y poesía y recibió premios en ambas categorías Mabel Ciancio, cantante, ha participado de varias presentaciones en el Espacio cultural Marín de San Isidro, Pasaje Bollini y es miembro en en aérea musical de Imagen y Palabra, habiendo acompañado a Alicia Ortolani en la presentación dd sus poemarios también en el extranjero. RESERVAS: WhatsApp +54 9 2267 63-0311 El Ojo y el Diamante, Somellera 74, Valeria del Mar"
+  },
+  {
     "titulo": "MIRACINE INFANTIL",
     "fecha": "28 JUL",
     "horario": "18 hs",
@@ -43,6 +43,15 @@
     "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-4/",
     "detalle": "Programación vacaciones de invierno: 29/7 | 15 hs. | Un Jefe en Pañales (2017) 97 min. 30/7 | 15 hs. | Planeta 51 ( 2017) 97 min. 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
+  },
+  {
+    "titulo": "SILBATOS CERÁMICOS ANCESTRALES",
+    "fecha": "29 JUL",
+    "horario": "15:30 hs",
+    "imagen": "imagenes/silbatos-ceramicos-ancestrales.jpeg",
+    "descripcion": "Experiencias Allona | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/silbatos-ceramicos-ancestrales/",
+    "detalle": "Los silbatos cerámicos forman parte del legado de las culturas prehispánicas de América. Más que instrumentos sonoros, fueron objetos cargados de simbolismo, donde la cerámica, el sonido y la naturaleza se unían en una misma pieza. ¿Qué vamos a hacer? Después de una breve presentación sobre el origen de estas piezas, nos sumergiremos en la práctica. Modelaremos silbatos globulares en arcilla y aprenderemos, paso a paso, a construir el sistema que le da sonido. Al finalizar, cada participante habrá creado su propio instrumento cerámico. 📅 Miércoles 8 de julio | 🕔 17:00 a 19:30 hs Valor: $20.000 (Alumnos del taller $15.000) Incluye los materiales y la horneada de la pieza. RESERVAS: WhatsApp +54 9 2267 66-9987 (Cupos limitados) Experiencias Allona (Taller Orosco), Intermédanos 615, Pinamar"
   },
   {
     "titulo": "MIRACINE INFANTIL",
@@ -88,6 +97,15 @@
     "descripcion": "Centro Cultural Ostende | Libre y Gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/vacaciones-de-pelicula-5/",
     "detalle": "Programación vacaciones de invierno: 30/7 | 15 hs. | Planeta 51 ( 2017) 97 min. 31/7 | 15 hs. | Madagascar 3 (2014) 92 min. Entrada libre y gratuita Centro Cultural Ostende, Gaona y Mons"
+  },
+  {
+    "titulo": "ACUARELA: CASONAS",
+    "fecha": "30 JUL",
+    "horario": "15 hs",
+    "imagen": "imagenes/acuarela-casonas.jpeg",
+    "descripcion": "Experiencias Allona | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/acuarela-casonas/",
+    "detalle": "Clase especial de 15 a 18 hs. No necesitas experiencia previa | Materiales incluidos RESERVAS: WhatsApp +54 9 2267 41-6094 | IG @experiencias.allona Experiencias Allona (Taller Orosco), Intermédanos 615, Pinamar"
   },
   {
     "titulo": "MIRACINE INFANTIL",
@@ -178,6 +196,15 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
     "url_evento": "https://agenda.pinamar.gob.ar/cine-club-para-la-familia/",
     "detalle": "Una aventura para toda la familia con una de las películas animadas más queridas de Disney. Te esperamos el viernes 31 para disfrutar todos juntos de la película “El planeta del tesoro”. ¡Entrada libre y gratuita! Requiere inscripción previa al 2254 620162 o en la Biblio"
+  },
+  {
+    "titulo": "THE BLACK QUEEN",
+    "fecha": "31 JUL",
+    "horario": "21 hs",
+    "imagen": "imagenes/the-black-queen.jpg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/the-black-queen/",
+    "detalle": "Templeton Music Bar 31 JUL 21 hs Pago ¡VIVE LA EXPERIENCIA QUEEN EN CARILÓ! Este invierno se despide con la mejor selección de temas de Queen en vivo. Prepárate para repasar los discos más icónicos de la banda que cambió la historia de la música. No te quedes afuera del mejor plan para cerrar tus vacaciones de invierno. ¡La combinación perfecta de buena música, excelente ambiente y la mejor gastronomía! 🍔🍻 🎟️ CUPOS LIMITADOS RESERVAS: WhatsApp +54 9 2267 67-6400 Templeton Music Bar, Boyero 1498, Feria del Bosque, Cariló"
   },
   {
     "titulo": "PINAMAR EXPOCAR",
@@ -274,7 +301,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -319,7 +346,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
