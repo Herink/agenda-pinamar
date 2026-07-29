@@ -1,41 +1,5 @@
 [
   {
-    "titulo": "CONFECCIÓN DE ANTIFACES",
-    "fecha": "28 JUL",
-    "horario": "16 hs",
-    "imagen": "imagenes/confeccion-de-antifaces-2.jpeg",
-    "descripcion": "Casa Melfi | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/confeccion-de-antifaces-2/",
-    "detalle": "Actividad y colación Casa Melfi De las Hesperides 1454 Coordina Marce Melfi Contacto: 1161687235"
-  },
-  {
-    "titulo": "MIRACINE INFANTIL",
-    "fecha": "28 JUL",
-    "horario": "16 hs",
-    "imagen": "imagenes/miracine-infantil-9.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-infantil-9/",
-    "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
-  },
-  {
-    "titulo": "TE CANTO, TE CUENTO",
-    "fecha": "28 JUL",
-    "horario": "18 hs",
-    "imagen": "imagenes/te-canto-te-cuento.jpeg",
-    "descripcion": "El Ojo y el Diamante | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/te-canto-te-cuento/",
-    "detalle": "Será un encuentro donde la poesía y la música hacen un contrapunto. Alicia Ortolani escribe poesía, tiene sus poemarios editados A orillas del alma, de botella al mar y Hasra el umbral edición la yunta ,uno y otro han sido presentados el Valparaíso chile y Valencia España. Colabora con el rincón poético de la voz de la casita literaria programa de radio de Radio Simphony, Co-directora de la muestra itinerante Imagen y palabra, participó de varias antologías internacionales en cuento y poesía y recibió premios en ambas categorías Mabel Ciancio, cantante, ha participado de varias presentaciones en el Espacio cultural Marín de San Isidro, Pasaje Bollini y es miembro en en aérea musical de Imagen y Palabra, habiendo acompañado a Alicia Ortolani en la presentación dd sus poemarios también en el extranjero. RESERVAS: WhatsApp +54 9 2267 63-0311 El Ojo y el Diamante, Somellera 74, Valeria del Mar"
-  },
-  {
-    "titulo": "MIRACINE INFANTIL",
-    "fecha": "28 JUL",
-    "horario": "18 hs",
-    "imagen": "imagenes/miracine-infantil-11.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-infantil-11/",
-    "detalle": "Estas vacaciones de invierno, el Teatro de la Torre abre sus puertas para disfrutar del mejor cine infantil en familia. Gracias al acompañamiento de Sensa, Telpin, durante todos los martes, miércoles y jueves de las vacaciones habrá dos funciones diarias con entrada libre y gratuita, hasta agotar la capacidad de la sala. A las 16 h, una selección de películas animadas especialmente pensada para los más pequeños, llena de humor, imaginación y personajes inolvidables que ya forman parte del corazón de varias generaciones. A las 18 h, grandes aventuras para toda la familia, con héroes inesperados, mundos fantásticos y relatos que invitan a soñar, emocionarse y descubrir nuevas historias. Todas las funciones serán dobladas al castellano para que grandes y chicos puedan disfrutar de la experiencia del cine en pantalla grande. Una alternativa cultural y de entretenimiento para residentes y visitantes que fortalece la oferta de actividades para las familias durante el invierno en Pinamar. Prepárense para disfrutar juntos de unas vacaciones de invierno llenas de cine, en el Teatro de la Torre."
-  },
-  {
     "titulo": "VACACIONES DE PELÍCULA",
     "fecha": "29 JUL",
     "horario": "15 hs",
@@ -135,6 +99,15 @@
     "detalle": "Te esperamos el jueves 30 con una propuesta para los mas chicos. Van a poder crear con las manos, experimentar materiales y llevarse una producción propia. La actividad estará coordinada por Beatriz Dominguez. ¡Entrada libre y gratuita! Requiere inscripción previa al 2254 620162 o en la Biblio"
   },
   {
+    "titulo": "INVIERNO EN SEPÍAS",
+    "fecha": "30 JUL",
+    "horario": "17 hs",
+    "imagen": "imagenes/invierno-en-sepias.jpeg",
+    "descripcion": "Paseo Los Arcos | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/invierno-en-sepias/",
+    "detalle": "Vacaciones de Invierno | Pintura en Vivo Este jueves, el ciclo de Pintura en Vivo recibe a la querida y reconocida artista de la localidad de Pinamar, Patricia Brandalisio, quien realizará una obra en vivo perteneciente a su nueva serie Invierno en Sepias, una propuesta donde la abstracción y el paisaje se encuentran en una atmósfera de gran sensibilidad. Te invitamos a compartir una hermosa tarde junto a la artista, conocer de cerca su proceso creativo y disfrutar de una experiencia única. Jueves 30 de julio 17 hs Paseo Los Arcos – Cariló Actividad libre y gratuita para toda la familia."
+  },
+  {
     "titulo": "MIRACINE INFANTIL",
     "fecha": "30 JUL",
     "horario": "18 hs",
@@ -198,6 +171,15 @@
     "detalle": "Una aventura para toda la familia con una de las películas animadas más queridas de Disney. Te esperamos el viernes 31 para disfrutar todos juntos de la película “El planeta del tesoro”. ¡Entrada libre y gratuita! Requiere inscripción previa al 2254 620162 o en la Biblio"
   },
   {
+    "titulo": "TAROT, PASTA & VINO",
+    "fecha": "31 JUL",
+    "horario": "20:30 hs",
+    "imagen": "imagenes/tarot-pasta-vino.jpeg",
+    "descripcion": "Parentela | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/tarot-pasta-vino/",
+    "detalle": "Descubrí tu suerte bajo el plato Parentela Reservas: 2254 594000"
+  },
+  {
     "titulo": "THE BLACK QUEEN",
     "fecha": "31 JUL",
     "horario": "21 hs",
@@ -241,6 +223,24 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/radio-catastrofe/",
     "detalle": "Un programa de radio payaso con hermosos cuentos, historias y juegos para toda la familia. Radiocuentos nos lleva a un mundo de historias que hablan de la libertad y del poderoso mundo de la imaginación. Reservas e informes por WhatsApp al 221-609-5006 ¡Descuento para socios y promociones para grupos familiares!"
+  },
+  {
+    "titulo": "CENA FRANCESA",
+    "fecha": "1 AGO",
+    "horario": "21 hs",
+    "imagen": "imagenes/cena-francesa.jpeg",
+    "descripcion": "Negroni Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/cena-francesa/",
+    "detalle": "Cena de pasos Cupos limitados Reservas: 11 2370 9500"
+  },
+  {
+    "titulo": "PARTY WINES",
+    "fecha": "1 AGO",
+    "horario": "21:30 hs",
+    "imagen": "imagenes/party-wines.jpeg",
+    "descripcion": "El Atelier | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/party-wines/",
+    "detalle": "Una experiencia en el Atelier Cupos limitados El Atelier. Azopardo 150. Valeria del Mar"
   },
   {
     "titulo": "BAILALANA",
@@ -288,6 +288,15 @@
     "detalle": "Descubrí la historia del hombre que imaginó Pinamar en una experiencia guiada por el histórico barrio del golf. Un recorrido entre médanos, bosque, arquitectura fundacional y paisajes únicos para conocer las ideas, la visión y el legado de Jorge Bunge. 📅 Sábado 15 de agosto 🕞 15:30 h 📍 Punto de encuentro: Vieja cancha de golf (De los Aromos y De las Artes) 👥 Grupos reducidos 💲 Valor: $15.000 por persona 📲 Reservas: 2254 44 0112 * Se suspende por lluvia"
   },
   {
+    "titulo": "VALERIA DEL MAR",
+    "fecha": "29 AGO",
+    "horario": "15 hs",
+    "imagen": "imagenes/valeria-del-mar.jpeg",
+    "descripcion": "Av. Espora y Azopardo | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/valeria-del-mar/",
+    "detalle": "Valeria del Mar celebra su 76º aniversario con una experiencia guiada para descubrir el legado de su fundadora, Valeria Guerrero. Un recorrido por los paisajes fundacionales, la historia y el patrimonio de una localidad con identidad propia. Incluye un podcast exclusivo para seguir disfrutando la experiencia. Fecha: 29 de agosto Hora: 15:00 h Punto de encuentro: Av. Espora y Azopardo – Valeria del Mar Precio. $ 15.000 por persona. Menores de 12 años sin cargo Duración: 1 h 30 minutos Se suspende por lluvia Incluye un podcast exclusivo de obsequio para seguir disfrutando la experiencia"
+  },
+  {
     "titulo": "ENDURO DEL INVIERNO",
     "fecha": "30 AGO",
     "horario": "A confirmar",
@@ -301,7 +310,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -346,7 +355,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
