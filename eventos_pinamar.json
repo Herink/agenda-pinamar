@@ -1,113 +1,5 @@
 [
   {
-    "titulo": "GREGORIO EL ESCARABAJO",
-    "fecha": "31 JUL",
-    "horario": "16 hs",
-    "imagen": "imagenes/gregorio-el-escarabajo.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/gregorio-el-escarabajo/",
-    "detalle": "(Títeres) 31 de julio a las 16 horas en el Teatro de la Torre, Constitución 687 Pago Gregorio es un niño feliz, hasta que una mañana se despierta convertido en… ¡un escarabajo gigante y rojizo! Sin embargo, nadie parece darse cuenta: ni sus padres, ni su hermana, ni la directora de la escuela. Solo Octavio, su mejor amigo, nota el cambio y quiere ayudarlo. ¿Cómo pudo pasar esto? ¿Por qué nadie lo nota? Gregorio está cansado de ser un escarabajo, ¡extraña ser un niño!"
-  },
-  {
-    "titulo": "CLINICA DE DESARROLLO DEPORTIVO",
-    "fecha": "1 AGO",
-    "horario": "13 hs",
-    "imagen": "imagenes/clinica-de-desarrollo-deportivo.jpeg",
-    "descripcion": "Polideportivo Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/clinica-de-desarrollo-deportivo/",
-    "detalle": "Cupos limitados. Grupos por niveles Tecnica Mirta Portillo 2254 538157 Natalia Ferrari"
-  },
-  {
-    "titulo": "EQUINOMANCIA V",
-    "fecha": "1 AGO",
-    "horario": "13 hs",
-    "imagen": "imagenes/equinomancia-v.jpeg",
-    "descripcion": "Centro Ecuestre Las Margaritas | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/equinomancia-v/",
-    "detalle": "Centro Ecuestre Las Margaritas Gral Madariaga Cupos limitados Informes: Sandra 1141476056"
-  },
-  {
-    "titulo": "EXPLORADORES DE PINAMAR",
-    "fecha": "1 AGO",
-    "horario": "",
-    "imagen": "imagenes/exploradores-de-pinamar.jpeg",
-    "descripcion": "Av. Bunge y Marco Polo | 15 hs. | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/exploradores-de-pinamar/",
-    "detalle": "No es una caminata. Es una aventura para descubrir Pinamar en familia. Desafíos, curiosidades, secretos y una experiencia pensada para que grandes y chicos se diviertan juntos. Certificado de Explorador + dulce sorpresa para cada niño. ¡Reservá tu lugar! Sábado 1/8 15:00 h Duración: 2 horas Punto de encuentro: Av. Bunge y Marco Polo Precio: Adultos $14.000 / Menores de 12 años: sin cargo Información y reservas: 2254 44 0112 * Se suspende por lluvia"
-  },
-  {
-    "titulo": "LUNARIA, MEMORIA DE UNA NOCHE FLOTANTE",
-    "fecha": "1 AGO",
-    "horario": "16 hs",
-    "imagen": "imagenes/lunaria-memoria-de-una-noche-flotante-2.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/lunaria-memoria-de-una-noche-flotante-2/",
-    "detalle": "El 1 de agosto, a las 16 horas, en el Teatro de la Torre, Constitución 687 Pago “Lunaria, memoria de una noche flotante” en el Teatro de la Torre de Pinamar. La obra propone una travesía poética pensada para infancias, familias y espectadores de todas las edades, combinando teatro, música y una cuidada puesta visual. A través de una historia cargada de imaginación, la propuesta invita a reflexionar sobre el paso del tiempo, los encuentros, las despedidas y la forma en que miramos el mundo. Inspirada en el universo literario de Italo Calvino, la obra construye un viaje escénico donde la fantasía y la emoción ocupan un lugar central. El espectáculo cuenta con actuaciones de Constanza Michia, Gabriel Hefner y Ana López Muro, dirección de Nicolás Olea y música original compuesta por Gabriel Hefner. También incorpora animación en stop motion y un trabajo escenográfico especialmente diseñado para acompañar esta experiencia teatral."
-  },
-  {
-    "titulo": "RADIO CATÁSTROFE",
-    "fecha": "1 AGO",
-    "horario": "17 hs",
-    "imagen": "imagenes/radio-catastrofe.jpg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/radio-catastrofe/",
-    "detalle": "Un programa de radio payaso con hermosos cuentos, historias y juegos para toda la familia. Radiocuentos nos lleva a un mundo de historias que hablan de la libertad y del poderoso mundo de la imaginación. Reservas e informes por WhatsApp al 221-609-5006 ¡Descuento para socios y promociones para grupos familiares!"
-  },
-  {
-    "titulo": "CENA FRANCESA",
-    "fecha": "1 AGO",
-    "horario": "21 hs",
-    "imagen": "imagenes/cena-francesa.jpeg",
-    "descripcion": "Negroni Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/cena-francesa/",
-    "detalle": "Cena de pasos Cupos limitados Reservas: 11 2370 9500"
-  },
-  {
-    "titulo": "PARTY WINES",
-    "fecha": "1 AGO",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/party-wines.jpeg",
-    "descripcion": "El Atelier | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/party-wines/",
-    "detalle": "Una experiencia en el Atelier Cupos limitados El Atelier. Azopardo 150. Valeria del Mar"
-  },
-  {
-    "titulo": "REMOLINOS",
-    "fecha": "1 AGO",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/remolinos.jpeg",
-    "descripcion": "Refugio Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/remolinos/",
-    "detalle": "Universo Soda & Cerati Reserva: 2254 624123 Refugio Pinamar"
-  },
-  {
-    "titulo": "ANDEN",
-    "fecha": "1 AGO",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/anden.jpeg",
-    "descripcion": "Fuegos | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/anden/",
-    "detalle": "Fuegos. Av. Bunge 324 Reserva: 2254 631997"
-  },
-  {
-    "titulo": "AL TOQUE",
-    "fecha": "1 AGO",
-    "horario": "22 hs",
-    "imagen": "imagenes/al-toque.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/al-toque/",
-    "detalle": "Música Acústica Funcional Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló Reserva: @templetonmusicbarok"
-  },
-  {
-    "titulo": "HOTEL MORRISON",
-    "fecha": "1 AGO",
-    "horario": "00 hs",
-    "imagen": "imagenes/hotel-morrison.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/hotel-morrison/",
-    "detalle": "The Doors Music Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló Reserva: @templetonmusicbarok"
-  },
-  {
     "titulo": "BAILALANA",
     "fecha": "2 AGO",
     "horario": "16 hs",
@@ -226,12 +118,21 @@
   },
   {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "21 NOV",
-    "horario": "A confirmar",
+    "fecha": "12 SEP",
+    "horario": "11 hs",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "8 AGO | WILLI PIANCIOLI | Refugio Pinamar | 21:30 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 9 AGO | EL MAPA DE LO POSIBLE | Fuegos | 16 hs | Pago | 10 AGO | YOGA | Belvedere Hotel Holístico | 18 hs | Libre y gratuito | 14 AGO | FABIANA CIANFANELLI | Biblioteca Popular Manuel Belgrano | 18 hs | Libre y gratuito | 14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | JORNADA DE PESCA | Muelle de Pinamar | 14 hs | Libre y gratuito | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago",
+    "descripcion": "2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 8 | 9 AGO | 1° EDICIÓN TEAM CUP PINAMAR | Links Pinamar Golf | 10 hs | Pago | 8 AGO | EL QUINTO ELEMENTO | Fuegos | 21 hs | Pago | 8 AGO | WILLI PIANCIOLI | Refugio Pinamar | 21:30 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 9 AGO | EL MAPA DE LO POSIBLE | Fuegos | 16 hs | Pago | 10 AGO | YOGA | Belvedere Hotel Holístico | 18 hs | Libre y gratuito | 14 AGO | FABIANA CIANFANELLI | Biblioteca Popular Manuel Belgrano | 18 hs | Libre y gratuito | 14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | JORNADA DE PESCA | Muelle de Pinamar | 14 hs | Libre y gratuito | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | INSPIR ARTE | Cariló Arte | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
+  },
+  {
+    "titulo": "INSPIR ARTE",
+    "fecha": "12 SEP",
+    "horario": "11 hs",
+    "imagen": "imagenes/inspir-arte.jpeg",
+    "descripcion": "Cariló Arte | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/inspir-arte/",
+    "detalle": "Silvina Lamorte + respiración consciente + arte Sábado 12 de septiembre a las 11hs en @cariloarte Entrada $30.000 (cupos limitados) Más info en @silvinalamorte"
   },
   {
     "titulo": "5º ENCUENTRO DE NEWCOM EN PINAMAR",
@@ -271,10 +172,10 @@
   },
   {
     "titulo": "TORNEO SEVEN PINAMAR",
-    "fecha": "",
+    "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "",
+    "descripcion": "18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
