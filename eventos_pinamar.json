@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "BAILALANA",
-    "fecha": "2 AGO",
-    "horario": "16 hs",
-    "imagen": "imagenes/bailalana.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/bailalana/",
-    "detalle": "2 de agosto a las 16 horas en el Teatro de la Torre, Constitución 687 Pago. Serafina es una niña que quiere ver el mundo, porque sabe que hay algo más que lo que ve. Tan fuerte es su deseo que ocurre un hecho maravilloso: la Bailalana se le presenta en su sueño para invitarla a la aventura. Bailalana es la bailarina cósmica que va tejiendo todo a su paso, es una personificación de la vida misma haciéndolo todo. La imaginación de Serafina está en función de la libertad, y eso es lo que la hace crecer, que es el gran deseo de la niñez. Bailalana se apoya en los mitos de las culturas de el mundo, que son los SUEÑOS del mundo."
-  },
-  {
     "titulo": "1° EDICIÓN TEAM CUP PINAMAR",
     "fecha": "9 AGO",
     "horario": "10 hs",
@@ -118,10 +109,10 @@
   },
   {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "12 SEP",
+    "fecha": "19 SEP",
     "horario": "11 hs",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "2 AGO | BAILALANA | Teatro de la Torre | 16 hs | Pago | 8 | 9 AGO | 1° EDICIÓN TEAM CUP PINAMAR | Links Pinamar Golf | 10 hs | Pago | 8 AGO | EL QUINTO ELEMENTO | Fuegos | 21 hs | Pago | 8 AGO | WILLI PIANCIOLI | Refugio Pinamar | 21:30 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 9 AGO | EL MAPA DE LO POSIBLE | Fuegos | 16 hs | Pago | 10 AGO | YOGA | Belvedere Hotel Holístico | 18 hs | Libre y gratuito | 14 AGO | FABIANA CIANFANELLI | Biblioteca Popular Manuel Belgrano | 18 hs | Libre y gratuito | 14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | JORNADA DE PESCA | Muelle de Pinamar | 14 hs | Libre y gratuito | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | INSPIR ARTE | Cariló Arte | Pago",
+    "descripcion": "8 | 9 AGO | 1° EDICIÓN TEAM CUP PINAMAR | Links Pinamar Golf | 10 hs | Pago | 8 AGO | EL QUINTO ELEMENTO | Fuegos | 21 hs | Pago | 8 AGO | WILLI PIANCIOLI | Refugio Pinamar | 21:30 hs | Pago | 9 AGO | CARRERA «EL DESAFIO PINAMAR 2026» | Pinamar Norte | Pago | 9 AGO | EL MAPA DE LO POSIBLE | Fuegos | 16 hs | Pago | 10 AGO | YOGA | Belvedere Hotel Holístico | 18 hs | Libre y gratuito | 14 AGO | FABIANA CIANFANELLI | Biblioteca Popular Manuel Belgrano | 18 hs | Libre y gratuito | 14 AGO | TITA Y RODHESIA | Teatro de la Torre | 20 hs | Pago | 15 AGO | JORNADA DE PESCA | Muelle de Pinamar | 14 hs | Libre y gratuito | 15 AGO | TRAS LAS HUELLAS DE JORGE BUNGE | Vieja cancha de golf | 15:30 hs | Pago | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | Pago | 18 | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -175,7 +166,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
