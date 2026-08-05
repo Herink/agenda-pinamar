@@ -9,6 +9,15 @@
     "detalle": "Links Pinamar Golf 8 | 9 AGO 10 hs Pago 1º EDICIÓN TEAM CUP PINAMAR – LINKS PINAMAR ¡Vení a representara tu club! 8 y 9 de agosto Categorías Juveniles y menores. Pro Junior Experience by Santiago Bauni Sábado 8 Práctica libre + Mano a mano con Santiago Bauni. Domingo 9 * 10hs Clínica + Charla Técnica. * 11hs Forma de juego: Four ball e individual. * 16hs Entrega de premios. Inscripciones abiertas 2267-53759 | 2254-491815 golfpinamar.com.ar"
   },
   {
+    "titulo": "HABANA MIA",
+    "fecha": "8 AGO",
+    "horario": "20 hs",
+    "imagen": "imagenes/habana-mia.jpeg",
+    "descripcion": "El Barcete Pinamar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/habana-mia/",
+    "detalle": "Directo de Cuba DJ Roby Con tu entrada de cena participas del sorteo El Barcete Pinamar Beach Resort Av. Del Mar 1185 esquina Tobías"
+  },
+  {
     "titulo": "EL QUINTO ELEMENTO",
     "fecha": "8 AGO",
     "horario": "21 hs",
@@ -108,6 +117,15 @@
     "detalle": "Fuegos. Av. Bunge 324 Reserva: 2254 631997"
   },
   {
+    "titulo": "TONY COLEMAN & AEROPHONICOS",
+    "fecha": "15 AGO",
+    "horario": "22 hs",
+    "imagen": "imagenes/tony-coleman-aerophonicos.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/tony-coleman-aerophonicos/",
+    "detalle": "Entradas a la venta Escribiendo al 2267 676400 Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló"
+  },
+  {
     "titulo": "MIRACINE",
     "fecha": "20 AGO",
     "horario": "20 hs",
@@ -115,6 +133,15 @@
     "descripcion": "Teatro de la Torre | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/miracine/",
     "detalle": "Presenta a Eduardo Coutinho, LA HISTORIA DE LOS OTROS Figura central del documental brasileño y una de las voces más influyentes del cine de no ficción en América Latina, Eduardo Coutinho transformó la manera de filmar a las personas. Coutinho hace de la presencia, el tiempo compartido y de la escucha los pilares de un lenguaje cinematográfico único. Sus películas exploran la memoria íntima y colectiva, la historia social, la relación entre verdad y representación y la potencia del relato como experiencia humana. Este ciclo propone recorrer tres obras esenciales de su filmografía. 20/8 – Jogo de Cena (2007) 28/8 – Últimas Conversas (2015) A las 20hs, en el Teatro de la Torre. Entrada libre y gratuita, hasya agotar espacio en la sala. Este ciclo es posible gracias al apoyo de la Embajada de Brasil en Buenos Aires, el Instituto Guimarães Rosa y VideoFilmes."
+  },
+  {
+    "titulo": "ACELERANDO",
+    "fecha": "21 AGO",
+    "horario": "21 hs",
+    "imagen": "imagenes/acelerando.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/acelerando/",
+    "detalle": "Rodri Lussich Teatro de la Torre Av. Constitución 687"
   },
   {
     "titulo": "LA SINGLE MALT",
@@ -157,7 +184,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -211,7 +238,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
