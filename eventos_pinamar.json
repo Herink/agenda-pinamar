@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "EL GRAN SHOWMAN",
+    "fecha": "7 AGO",
+    "horario": "18:30 hs",
+    "imagen": "imagenes/el-gran-showman.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/el-gran-showman/",
+    "detalle": "Cine Club de la Biblio: El gran showman Te esperamos para disfrutar de un musical deslumbrante sobre la ambición, la inclusión y la magia de perseguir grandes sueños. Al finalizar la proyección, compartiremos nuestras impresiones sobre el film. ¡Entrada libre y gratuita!"
+  },
+  {
+    "titulo": "EXUDUS REGGAE MUSIC",
+    "fecha": "7 AGO",
+    "horario": "22 hs",
+    "imagen": "imagenes/exudus-reggae-music.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/exudus-reggae-music/",
+    "detalle": "Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló Contacto: 2267 676400"
+  },
+  {
     "titulo": "1° EDICIÓN TEAM CUP PINAMAR",
     "fecha": "9 AGO",
     "horario": "10 hs",
@@ -7,6 +25,15 @@
     "descripcion": "8 | Links Pinamar Golf | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/1-edicion-team-cup-pinamar/",
     "detalle": "Links Pinamar Golf 8 | 9 AGO 10 hs Pago 1º EDICIÓN TEAM CUP PINAMAR – LINKS PINAMAR ¡Vení a representara tu club! 8 y 9 de agosto Categorías Juveniles y menores. Pro Junior Experience by Santiago Bauni Sábado 8 Práctica libre + Mano a mano con Santiago Bauni. Domingo 9 * 10hs Clínica + Charla Técnica. * 11hs Forma de juego: Four ball e individual. * 16hs Entrega de premios. Inscripciones abiertas 2267-53759 | 2254-491815 golfpinamar.com.ar"
+  },
+  {
+    "titulo": "SAL Y SEDA",
+    "fecha": "8 AGO",
+    "horario": "19 hs",
+    "imagen": "imagenes/sal-y-seda.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/sal-y-seda/",
+    "detalle": "Inauguración Muestra de Arte: «Sal y Seda» de Caro Fornes Te invitamos a la apertura de esta muestra que reúne la fascinación por la moda y la estética con el vínculo profundo del mar y la naturaleza de Pinamar. La exposición podrá visitarse hasta el 25/08. ¡Entrada libre y gratuita!"
   },
   {
     "titulo": "HABANA MIA",
@@ -36,6 +63,24 @@
     "detalle": "Los Tipitos Reserva: 2254 624123 Refugio Pinamar"
   },
   {
+    "titulo": "CARRASCAL TRIO",
+    "fecha": "8 AGO",
+    "horario": "22 hs",
+    "imagen": "imagenes/carrascal-trio.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/carrascal-trio/",
+    "detalle": "Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló Contacto: 2267 676400"
+  },
+  {
+    "titulo": "CIELO INDIO",
+    "fecha": "8 AGO",
+    "horario": "00 hs",
+    "imagen": "imagenes/cielo-indio.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/cielo-indio/",
+    "detalle": "Una noche Redonda Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló Contacto: 2267 676400"
+  },
+  {
     "titulo": "CARRERA «EL DESAFIO PINAMAR 2026»",
     "fecha": "9 AGO",
     "horario": "",
@@ -54,6 +99,15 @@
     "detalle": "Recorta, imagina, manifesta Fuegos. Av. Bunge 324 Reserva: 2254 530683 | 11 61657532"
   },
   {
+    "titulo": "TALLER DE CANTO COLECTIVO LA PALOMA",
+    "fecha": "9 AGO",
+    "horario": "18 hs",
+    "imagen": "imagenes/taller-de-canto-colectivo-la-paloma.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | A la gorra",
+    "url_evento": "https://agenda.pinamar.gob.ar/taller-de-canto-colectivo-la-paloma/",
+    "detalle": "Llega desde General Madariaga esta propuesta dirigida por Celeste Durando, que reúne voces de mujeres para compartir la música. La jornada contará con la participación especial de la artista invitada Sofía Montenegro. ¡Contribución voluntaria!"
+  },
+  {
     "titulo": "YOGA",
     "fecha": "10 AGO",
     "horario": "18 hs",
@@ -61,6 +115,15 @@
     "descripcion": "Belvedere Hotel Holístico | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/yoga/",
     "detalle": "Clase en Pinamar Flexibilidad | Fuerza | Equilibrio 11 52629256 @aldiacunia Belvedere Hotel Holístico"
+  },
+  {
+    "titulo": "MUCHO MÁS QUE MASCOTAS",
+    "fecha": "12 AGO",
+    "horario": "18:30 hs",
+    "imagen": "imagenes/mucho-mas-que-mascotas.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/mucho-mas-que-mascotas/",
+    "detalle": "Una propuesta a cargo de Gisela Zeballos (@almastransmutando) para descubrir una mirada más profunda y consciente sobre el vínculo con nuestros compañeros animales y la comunicación interespecies. ¡Actividad libre y gratuita!"
   },
   {
     "titulo": "MIRACINE",
@@ -72,9 +135,18 @@
     "detalle": "Presenta a Eduardo Coutinho, LA HISTORIA DE LOS OTROS Figura central del documental brasileño y una de las voces más influyentes del cine de no ficción en América Latina, Eduardo Coutinho transformó la manera de filmar a las personas. Coutinho hace de la presencia, el tiempo compartido y de la escucha los pilares de un lenguaje cinematográfico único. Sus películas exploran la memoria íntima y colectiva, la historia social, la relación entre verdad y representación y la potencia del relato como experiencia humana. Este ciclo propone recorrer tres obras esenciales de su filmografía. 13/8 – As Canções (2011) 20/8 – Jogo de Cena (2007) 28/8 – Últimas Conversas (2015) A las 20 hs, en el Teatro de la Torre. Entrada libre y gratuita, hasta agotar espacio en la sala. Este ciclo es posible gracias al apoyo de la Embajada de Brasil en Buenos Aires, el Instituto Guimarães Rosa y VideoFilmes."
   },
   {
+    "titulo": "EDUCACIÓN FINANCIERA PARA TODOS",
+    "fecha": "14 AGO",
+    "horario": "16 hs",
+    "imagen": "imagenes/educacion-financiera-para-todos.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/educacion-financiera-para-todos/",
+    "detalle": "Te invitamos a esta charla abierta a cargo de Adriana Czerwony para aprender a organizar tus ingresos y tomar decisiones más conscientes sobre tu economía cotidiana. Organizan Asociación Conciencia Pinamar junto a la Comisaría de la Mujer y la Familia. ¡Entrada libre y gratuita!"
+  },
+  {
     "titulo": "FABIANA CIANFANELLI",
     "fecha": "14 AGO",
-    "horario": "18 hs",
+    "horario": "18:30 hs",
     "imagen": "imagenes/fabiana-cianfanelli.jpeg",
     "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/fabiana-cianfanelli/",
@@ -108,6 +180,15 @@
     "detalle": "Descubrí la historia del hombre que imaginó Pinamar en una experiencia guiada por el histórico barrio del golf. Un recorrido entre médanos, bosque, arquitectura fundacional y paisajes únicos para conocer las ideas, la visión y el legado de Jorge Bunge. 📅 Sábado 15 de agosto 🕞 15:30 h 📍 Punto de encuentro: Vieja cancha de golf (De los Aromos y De las Artes) 👥 Grupos reducidos 💲 Valor: $15.000 por persona 📲 Reservas: 2254 44 0112 * Se suspende por lluvia"
   },
   {
+    "titulo": "RECITAL DE MÚSICA Y POESÍA",
+    "fecha": "15 AGO",
+    "horario": "19 hs",
+    "imagen": "imagenes/recital-de-musica-y-poesia.jpg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/recital-de-musica-y-poesia/",
+    "detalle": "Isa Moreno en vivo + Eliana M. Shapasnikoff Te invitamos a una noche única que combina canciones folclóricas y latinoamericanas con lecturas de textos poéticos en un formato íntimo y cálido. Entradas:General $13.000 / Anticipadas $10.000 (Socios: 20% de descuento) Reservás al: 223 594 4951"
+  },
+  {
     "titulo": "5 BAJO CERO",
     "fecha": "15 AGO",
     "horario": "21:30 hs",
@@ -124,6 +205,15 @@
     "descripcion": "Templeton Music Bar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/tony-coleman-aerophonicos/",
     "detalle": "Entradas a la venta Escribiendo al 2267 676400 Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló"
+  },
+  {
+    "titulo": "FIESTA DÍA DEL NIÑO",
+    "fecha": "16 AGO",
+    "horario": "12 hs",
+    "imagen": "imagenes/fiesta-dia-del-nino.jpeg",
+    "descripcion": "Skatepark Pinamar | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/fiesta-dia-del-nino/",
+    "detalle": "Skatepark Pinamar Una tarde de diversión para toda la familia Show y música Paseo gastronómico Chocolatada Expo de autos y motos RecreaciónBúsqueda del tesoro"
   },
   {
     "titulo": "MIRACINE",
@@ -184,7 +274,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -238,7 +328,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
