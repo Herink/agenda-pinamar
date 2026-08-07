@@ -54,6 +54,15 @@
     "detalle": "Gastronomía, vino, música, arte y moda Fuegos. Av. Bunge 324 Reserva: 2254 631997"
   },
   {
+    "titulo": "DUO UNOMASUNO",
+    "fecha": "8 AGO",
+    "horario": "21:30 hs",
+    "imagen": "imagenes/duo-unomasuno.jpeg",
+    "descripcion": "El Atelier | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/duo-unomasuno/",
+    "detalle": "El Atelier Azopardo 150. Valeria del Mar Reservas: 2254 423993"
+  },
+  {
     "titulo": "WILLI PIANCIOLI",
     "fecha": "8 AGO",
     "horario": "21:30 hs",
@@ -180,6 +189,15 @@
     "detalle": "Descubrí la historia del hombre que imaginó Pinamar en una experiencia guiada por el histórico barrio del golf. Un recorrido entre médanos, bosque, arquitectura fundacional y paisajes únicos para conocer las ideas, la visión y el legado de Jorge Bunge. 📅 Sábado 15 de agosto 🕞 15:30 h 📍 Punto de encuentro: Vieja cancha de golf (De los Aromos y De las Artes) 👥 Grupos reducidos 💲 Valor: $15.000 por persona 📲 Reservas: 2254 44 0112 * Se suspende por lluvia"
   },
   {
+    "titulo": "🎬BAFICI ITINERANTE PINAMAR 2026",
+    "fecha": "15 AGO",
+    "horario": "16 hs",
+    "imagen": "imagenes/🎬bafici-itinerante-pinamar-2026.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/🎬bafici-itinerante-pinamar-2026/",
+    "detalle": "Teatro de la Torre 15 AGO 16 hs Libre y Gratuito 🎬 BAFICI Itinerante Pinamar 2026 El 15 y 16 de agosto llega una nueva edición del BAFICI Itinerante Pinamar, con una selección de lo más destacado de la 27.° edición del BAFICI. Durante dos jornadas se proyectarán 18 películas, entre largometrajes y cortometrajes nacionales e internacionales, y se realizarán encuentros con directores, productores e invitados especiales para compartir el detrás de escena de cada obra. En el Teatro de la Torre, con entrada libre y gratuita. PROGRAMACIÓN 15/8 16H CEREMONIA DE APERTURA «Machado» | Julián Tagle | 72′ | Argentina 2026 17:30H CORTOMETRAJES – Bloque 1 «Banho María» | Gabriel Faccini | 14´| Brasil, 2026 «Yegua» | Virginia Scaro | 9´| Argentina, 2026 «El frío camina con Celia» | Felipe Wein | 14´| Argentina, 2026 «El estirón» | Guido Montini | 15´| Argentina, 2026 «No Skate!» | Guil Sela | 24´| Francia, 2025 19H FRANJA NACIONAL 19H «Plata o mierda» Toia Bonino y Marcos Joubert | 88´| Argentina, Colombia, 2025 20:45H «Gente de la Ruta» Lucas Kozarinski | 67´| Argentina, 2026 22:00H FRANJA INTERNACIONAL"
+  },
+  {
     "titulo": "RECITAL DE MÚSICA Y POESÍA",
     "fecha": "15 AGO",
     "horario": "19 hs",
@@ -214,6 +232,15 @@
     "descripcion": "Skatepark Pinamar | Actividad libre y gratuita",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-dia-del-nino/",
     "detalle": "Skatepark Pinamar Una tarde de diversión para toda la familia Show y música Paseo gastronómico Chocolatada Expo de autos y motos RecreaciónBúsqueda del tesoro"
+  },
+  {
+    "titulo": "🎬BAFICI ITINERANTE PINAMAR 2026",
+    "fecha": "16 AGO",
+    "horario": "16 hs",
+    "imagen": "imagenes/🎬bafici-itinerante-pinamar-2026-2.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y Gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/🎬bafici-itinerante-pinamar-2026-2/",
+    "detalle": "Teatro de la Torre 16 AGO 16 hs Libre y Gratuito 🎬 BAFICI Itinerante Pinamar 2026 El 15 y 16 de agosto llega una nueva edición del BAFICI Itinerante Pinamar, con una selección de lo más destacado de la 27.ª edición del BAFICI. Durante dos jornadas se proyectarán 18 películas, entre largometrajes y cortometrajes nacionales e internacionales, y se realizarán encuentros con directores, productores e invitados especiales para compartir el detrás de escena de cada obra. En el Teatro de la Torre, con entrada libre y gratuita. PROGRAMACIÓN 16/8 16H «La amiga de mi amigo» | Matías Szulansky | 66´| Argentina 2026 17:30H CORTOMETRAJES – Bloque 2 «CineFaketógrafo Lumiere» | Tetsuo Lumiere | 6´| Argentina, 2026 «La lámpara de Happy Together» | Jimena Rodriguez Berisso | 19´| Argentina, 2026 «Easter Day» | Mykola Zasielev | 17´| Ucrania, Francia, 2025 «Salteadores Nocturnos» | Joaquín Ferra| 20´| Argentina, 2026 19H FRANJA NACIONAL 19H «El Tren Fluvial» Lorenzo Ferro y Lucas Vignale | 75´| Argentina, 2026 20:45H «Los Vencedores» Pablo Aparo | 96´| Argentina, Reino Unido 2026 22:00H FRANJA INTERNACIONAL «Vade Retro» | Antonio Peretjatko | 95´| Francia, 2026 23:00H TRASNOCHE"
   },
   {
     "titulo": "MIRACINE",
@@ -274,7 +301,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 21 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -295,6 +322,15 @@
     "descripcion": "18 | Polideportivo Pinamar | Consultar cronograma | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/5o-encuentro-de-newcom-en-pinamar/",
     "detalle": "CUPOS LIMITADOS VIERNES 18 DE SEPTIEMBRE * CAT + 68 MIXTA * CAT + 60 MIXTA SÁBADO 19 DE SEPTIEMBRE * CAT + 50 MIXTA * CAT + 50 FEMENINA LIBRE * CAT + 40 MASCULINO LIBRE POLIDEPORTIVO DE PINAMAR INFO MARIANA 02254457215"
+  },
+  {
+    "titulo": "SOY TU ÁNGEL",
+    "fecha": "21 SEP",
+    "horario": "21 hs",
+    "imagen": "imagenes/soy-tu-angel.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/soy-tu-angel/",
+    "detalle": "German Kraus | Silvia Peyrou Teatro de la Torre Av. Constitución 687"
   },
   {
     "titulo": "FASHION CARILÓ",
@@ -328,7 +364,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 21 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
