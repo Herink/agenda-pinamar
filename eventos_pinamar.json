@@ -1,23 +1,5 @@
 [
   {
-    "titulo": "EL GRAN SHOWMAN",
-    "fecha": "7 AGO",
-    "horario": "18:30 hs",
-    "imagen": "imagenes/el-gran-showman.jpg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
-    "url_evento": "https://agenda.pinamar.gob.ar/el-gran-showman/",
-    "detalle": "Cine Club de la Biblio: El gran showman Te esperamos para disfrutar de un musical deslumbrante sobre la ambición, la inclusión y la magia de perseguir grandes sueños. Al finalizar la proyección, compartiremos nuestras impresiones sobre el film. ¡Entrada libre y gratuita!"
-  },
-  {
-    "titulo": "EXUDUS REGGAE MUSIC",
-    "fecha": "7 AGO",
-    "horario": "22 hs",
-    "imagen": "imagenes/exudus-reggae-music.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/exudus-reggae-music/",
-    "detalle": "Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló Contacto: 2267 676400"
-  },
-  {
     "titulo": "1° EDICIÓN TEAM CUP PINAMAR",
     "fecha": "9 AGO",
     "horario": "10 hs",
@@ -34,6 +16,15 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
     "url_evento": "https://agenda.pinamar.gob.ar/sal-y-seda/",
     "detalle": "Inauguración Muestra de Arte: «Sal y Seda» de Caro Fornes Te invitamos a la apertura de esta muestra que reúne la fascinación por la moda y la estética con el vínculo profundo del mar y la naturaleza de Pinamar. La exposición podrá visitarse hasta el 25/08. ¡Entrada libre y gratuita!"
+  },
+  {
+    "titulo": "GESTIÓN DEL AGUA Y SOSTENIBILIDAD",
+    "fecha": "8 AGO",
+    "horario": "17 hs",
+    "imagen": "imagenes/gestion-del-agua-y-sostenibilidad.jpeg",
+    "descripcion": "Auditorio Cariló Village Apart Hotel & Spa | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/gestion-del-agua-y-sostenibilidad/",
+    "detalle": "Charla del geólogo Dr. Leandro Rodrigues Capitulo Auditorio Cariló Village Boyero y Avellano Para participar de la charla comunicate por ig: @carilo_village Cupos limitados"
   },
   {
     "titulo": "HABANA MIA",
@@ -198,6 +189,15 @@
     "detalle": "Teatro de la Torre 15 AGO 16 hs Libre y Gratuito 🎬 BAFICI Itinerante Pinamar 2026 El 15 y 16 de agosto llega una nueva edición del BAFICI Itinerante Pinamar, con una selección de lo más destacado de la 27.° edición del BAFICI. Durante dos jornadas se proyectarán 18 películas, entre largometrajes y cortometrajes nacionales e internacionales, y se realizarán encuentros con directores, productores e invitados especiales para compartir el detrás de escena de cada obra. En el Teatro de la Torre, con entrada libre y gratuita. PROGRAMACIÓN 15/8 16H CEREMONIA DE APERTURA «Machado» | Julián Tagle | 72′ | Argentina 2026 17:30H CORTOMETRAJES – Bloque 1 «Banho María» | Gabriel Faccini | 14´| Brasil, 2026 «Yegua» | Virginia Scaro | 9´| Argentina, 2026 «El frío camina con Celia» | Felipe Wein | 14´| Argentina, 2026 «El estirón» | Guido Montini | 15´| Argentina, 2026 «No Skate!» | Guil Sela | 24´| Francia, 2025 19H FRANJA NACIONAL 19H «Plata o mierda» Toia Bonino y Marcos Joubert | 88´| Argentina, Colombia, 2025 20:45H «Gente de la Ruta» Lucas Kozarinski | 67´| Argentina, 2026 22:00H FRANJA INTERNACIONAL"
   },
   {
+    "titulo": "TORNEO DE ARMADO DE ROMPECABEZAS PINAMAR",
+    "fecha": "15 AGO",
+    "horario": "17 hs",
+    "imagen": "imagenes/torneo-de-armado-de-rompecabezas-pinamar.jpeg",
+    "descripcion": "Hito | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/torneo-de-armado-de-rompecabezas-pinamar/",
+    "detalle": "Nos complace presentar el Primer Torneo de Armado de Rompecabezas de Pinamar, una propuesta recreativa para disfrutar en familia o con amigos. El evento se realizará el 15 de agosto a las 17:00 hs en HITO (Jason 1055). Los participantes podrán merendar, divertirse, competir por premios y participar de sorteos, llevándose además el rompecabezas que armen durante el torneo . Habrá categorías para parejas y grupos. Los menores de 8 años no abonan inscripción y, si lo desean, también contarán con un rompecabezas para participar. Las inscripciones pueden realizarse mediante el código QR del flyer, por WhatsApp al 2267 40-9894 o a través de Instagram @juegoslc. Además, este fin de semana comenzará un sorteo de un rompecabezas de 1000 piezas entre quienes sigan nuestra cuenta de Instagram."
+  },
+  {
     "titulo": "RECITAL DE MÚSICA Y POESÍA",
     "fecha": "15 AGO",
     "horario": "19 hs",
@@ -261,6 +261,15 @@
     "detalle": "Rodri Lussich Teatro de la Torre Av. Constitución 687"
   },
   {
+    "titulo": "UNIVERSIDAD DE LA FELICIDAD",
+    "fecha": "22 AGO",
+    "horario": "17:30 hs",
+    "imagen": "imagenes/universidad-de-la-felicidad.jpeg",
+    "descripcion": "Playas Art Hotel | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/universidad-de-la-felicidad/",
+    "detalle": "La vida que construís depende de la persona en la que te convertís Una experiencia para mujeres que quieren desarrollar su potencial y diseñar una vida que les guste más. Inscripción previa @la.ufe_ 02254 606470"
+  },
+  {
     "titulo": "LA SINGLE MALT",
     "fecha": "22 AGO",
     "horario": "21:30 hs",
@@ -297,11 +306,20 @@
     "detalle": "El Monster Energy Enduro del lnvierno llega a Pinamar. 34 años después, volvemos al lugar donde todo comenzó. 29 y 30 de agosto de 2026 Cuarta edición Apertura de inscripciones: 15 de julio vía web"
   },
   {
+    "titulo": "SOY TU ÁNGEL",
+    "fecha": "4 SEP",
+    "horario": "21 hs",
+    "imagen": "imagenes/soy-tu-angel.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/soy-tu-angel/",
+    "detalle": "German Kraus | Silvia Peyrou Teatro de la Torre Av. Constitución 687"
+  },
+  {
     "titulo": "FIESTA DE LA PESCADILLA",
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 21 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -322,15 +340,6 @@
     "descripcion": "18 | Polideportivo Pinamar | Consultar cronograma | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/5o-encuentro-de-newcom-en-pinamar/",
     "detalle": "CUPOS LIMITADOS VIERNES 18 DE SEPTIEMBRE * CAT + 68 MIXTA * CAT + 60 MIXTA SÁBADO 19 DE SEPTIEMBRE * CAT + 50 MIXTA * CAT + 50 FEMENINA LIBRE * CAT + 40 MASCULINO LIBRE POLIDEPORTIVO DE PINAMAR INFO MARIANA 02254457215"
-  },
-  {
-    "titulo": "SOY TU ÁNGEL",
-    "fecha": "21 SEP",
-    "horario": "21 hs",
-    "imagen": "imagenes/soy-tu-angel.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/soy-tu-angel/",
-    "detalle": "German Kraus | Silvia Peyrou Teatro de la Torre Av. Constitución 687"
   },
   {
     "titulo": "FASHION CARILÓ",
@@ -364,7 +373,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 21 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
