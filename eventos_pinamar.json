@@ -9,15 +9,6 @@
     "detalle": "Links Pinamar Golf 8 | 9 AGO 10 hs Pago 1º EDICIÓN TEAM CUP PINAMAR – LINKS PINAMAR ¡Vení a representara tu club! 8 y 9 de agosto Categorías Juveniles y menores. Pro Junior Experience by Santiago Bauni Sábado 8 Práctica libre + Mano a mano con Santiago Bauni. Domingo 9 * 10hs Clínica + Charla Técnica. * 11hs Forma de juego: Four ball e individual. * 16hs Entrega de premios. Inscripciones abiertas 2267-53759 | 2254-491815 golfpinamar.com.ar"
   },
   {
-    "titulo": "SAL Y SEDA",
-    "fecha": "8 AGO",
-    "horario": "19 hs",
-    "imagen": "imagenes/sal-y-seda.jpg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
-    "url_evento": "https://agenda.pinamar.gob.ar/sal-y-seda/",
-    "detalle": "Inauguración Muestra de Arte: «Sal y Seda» de Caro Fornes Te invitamos a la apertura de esta muestra que reúne la fascinación por la moda y la estética con el vínculo profundo del mar y la naturaleza de Pinamar. La exposición podrá visitarse hasta el 25/08. ¡Entrada libre y gratuita!"
-  },
-  {
     "titulo": "GESTIÓN DEL AGUA Y SOSTENIBILIDAD",
     "fecha": "8 AGO",
     "horario": "17 hs",
@@ -25,60 +16,6 @@
     "descripcion": "Auditorio Cariló Village Apart Hotel & Spa | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/gestion-del-agua-y-sostenibilidad/",
     "detalle": "Charla del geólogo Dr. Leandro Rodrigues Capitulo Auditorio Cariló Village Boyero y Avellano Para participar de la charla comunicate por ig: @carilo_village Cupos limitados"
-  },
-  {
-    "titulo": "HABANA MIA",
-    "fecha": "8 AGO",
-    "horario": "20 hs",
-    "imagen": "imagenes/habana-mia.jpeg",
-    "descripcion": "El Barcete Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/habana-mia/",
-    "detalle": "Directo de Cuba DJ Roby Con tu entrada de cena participas del sorteo El Barcete Pinamar Beach Resort Av. Del Mar 1185 esquina Tobías"
-  },
-  {
-    "titulo": "EL QUINTO ELEMENTO",
-    "fecha": "8 AGO",
-    "horario": "21 hs",
-    "imagen": "imagenes/el-quinto-elemento.jpeg",
-    "descripcion": "Fuegos | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/el-quinto-elemento/",
-    "detalle": "Gastronomía, vino, música, arte y moda Fuegos. Av. Bunge 324 Reserva: 2254 631997"
-  },
-  {
-    "titulo": "DUO UNOMASUNO",
-    "fecha": "8 AGO",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/duo-unomasuno.jpeg",
-    "descripcion": "El Atelier | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/duo-unomasuno/",
-    "detalle": "El Atelier Azopardo 150. Valeria del Mar Reservas: 2254 423993"
-  },
-  {
-    "titulo": "WILLI PIANCIOLI",
-    "fecha": "8 AGO",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/willi-piancioli.jpeg",
-    "descripcion": "Refugio Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/willi-piancioli/",
-    "detalle": "Los Tipitos Reserva: 2254 624123 Refugio Pinamar"
-  },
-  {
-    "titulo": "CARRASCAL TRIO",
-    "fecha": "8 AGO",
-    "horario": "22 hs",
-    "imagen": "imagenes/carrascal-trio.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/carrascal-trio/",
-    "detalle": "Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló Contacto: 2267 676400"
-  },
-  {
-    "titulo": "CIELO INDIO",
-    "fecha": "8 AGO",
-    "horario": "00 hs",
-    "imagen": "imagenes/cielo-indio.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/cielo-indio/",
-    "detalle": "Una noche Redonda Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló Contacto: 2267 676400"
   },
   {
     "titulo": "CARRERA «EL DESAFIO PINAMAR 2026»",
@@ -124,6 +61,15 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
     "url_evento": "https://agenda.pinamar.gob.ar/mucho-mas-que-mascotas/",
     "detalle": "Una propuesta a cargo de Gisela Zeballos (@almastransmutando) para descubrir una mirada más profunda y consciente sobre el vínculo con nuestros compañeros animales y la comunicación interespecies. ¡Actividad libre y gratuita!"
+  },
+  {
+    "titulo": "MÚSICA EN VIVO, VINO Y BUENA COCINA",
+    "fecha": "12 AGO",
+    "horario": "21 hs",
+    "imagen": "imagenes/musica-en-vivo-vino-y-buena-cocina.jpeg",
+    "descripcion": "Mosto | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/musica-en-vivo-vino-y-buena-cocina/",
+    "detalle": "Mosto 12 AGO 21 hs Pago La Oncena Trío en Mosto 🎶 Miércoles 12 Este miércoles recibimos a La Oncena Trío, que comienza su nueva gira con Pinamar como primera parada. Desde Mar del Plata, Lucas Pereyra, Juanba Sánchez y Pepe Stroile llegan con una propuesta de dos guitarras y bombo, recorriendo grandes clásicos del cancionero popular argentino. 🍷 Una noche de música en vivo, vinos y buena cocina. 🗓️ Miércoles 12 de agosto 🕘 21 hs 📍 Mosto Casa de Vinos | Eneas 670, Pinamar 📲 Reservas por WhatsApp: 2254 59-1829 ¡Los esperamos para compartir el comienzo de esta gira con una copa de vino y buena música! 🍷🎶"
   },
   {
     "titulo": "MIRACINE",
@@ -240,7 +186,7 @@
     "imagen": "imagenes/🎬bafici-itinerante-pinamar-2026-2.jpeg",
     "descripcion": "Teatro de la Torre | Libre y Gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/🎬bafici-itinerante-pinamar-2026-2/",
-    "detalle": "Teatro de la Torre 16 AGO 16 hs Libre y Gratuito 🎬 BAFICI Itinerante Pinamar 2026 El 15 y 16 de agosto llega una nueva edición del BAFICI Itinerante Pinamar, con una selección de lo más destacado de la 27.ª edición del BAFICI. Durante dos jornadas se proyectarán 18 películas, entre largometrajes y cortometrajes nacionales e internacionales, y se realizarán encuentros con directores, productores e invitados especiales para compartir el detrás de escena de cada obra. En el Teatro de la Torre, con entrada libre y gratuita. PROGRAMACIÓN 16/8 16H «La amiga de mi amigo» | Matías Szulansky | 66´| Argentina 2026 17:30H CORTOMETRAJES – Bloque 2 «CineFaketógrafo Lumiere» | Tetsuo Lumiere | 6´| Argentina, 2026 «La lámpara de Happy Together» | Jimena Rodriguez Berisso | 19´| Argentina, 2026 «Easter Day» | Mykola Zasielev | 17´| Ucrania, Francia, 2025 «Salteadores Nocturnos» | Joaquín Ferra| 20´| Argentina, 2026 19H FRANJA NACIONAL 19H «El Tren Fluvial» Lorenzo Ferro y Lucas Vignale | 75´| Argentina, 2026 20:45H «Los Vencedores» Pablo Aparo | 96´| Argentina, Reino Unido 2026 22:00H FRANJA INTERNACIONAL «Vade Retro» | Antonio Peretjatko | 95´| Francia, 2026 23:00H TRASNOCHE"
+    "detalle": "Teatro de la Torre 16 AGO 16 hs Libre y Gratuito 🎬 BAFICI Itinerante Pinamar 2026 El 15 y 16 de agosto llega una nueva edición del BAFICI Itinerante Pinamar, con una selección de lo más destacado de la 27.ª edición del BAFICI. Durante dos jornadas se proyectarán 18 películas, entre largometrajes y cortometrajes nacionales e internacionales, y se realizarán encuentros con directores, productores e invitados especiales para compartir el detrás de escena de cada obra. En el Teatro de la Torre, con entrada libre y gratuita. PROGRAMACIÓN 16/8 16H «La amiga de mi amigo» | Matías Szulansky | 66´| Argentina 2026 17:30H CORTOMETRAJES – Bloque 2 «CineFaketógrafo Lumiere» | Tetsuo Lumiere | 6´| Argentina, 2026 «La lámpara de Happy Together» | Jimena Rodriguez Berisso | 19´| Argentina, 2026 «Easter Day» | Mykola Zasielev | 17´| Ucrania, Francia, 2025 «Salteadores Nocturnos» | Joaquín Ferra| 20´| Argentina, 2026 19H FRANJA NACIONAL 19H «El Tren Fluvial» Lorenzo Ferro y Lucas Vignale | 75´| Argentina, 2026 20:45H «Los Vencedores» Pablo Aparo | 96´| Argentina, Reino Unido 2026 22:00H FRANJA INTERNACIONAL «Vade Retro» | Antonio Peretjatko | 95´| Francia, 2026 23:30H TRASNOCHE"
   },
   {
     "titulo": "MIRACINE",
@@ -316,10 +262,10 @@
   },
   {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "21 NOV",
-    "horario": "A confirmar",
+    "fecha": "4 SEP",
+    "horario": "10 hs",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "15 AGO | TORNEO DE ARMADO DE ROMPECABEZAS PINAMAR | Hito | 17 hs | Pago | 15 AGO | RECITAL DE MÚSICA Y POESÍA | Biblioteca Popular Manuel Belgrano | 19 hs | Pago | 15 AGO | 5 BAJO CERO | Fuegos | 21:30 hs | Pago | 15 AGO | TONY COLEMAN & AEROPHONICOS | Templeton Music Bar | 22 hs | Pago | 16 AGO | FIESTA DÍA DEL NIÑO | Skatepark Pinamar | 12 hs | Actividad libre y gratuita | 16 AGO | 🎬BAFICI ITINERANTE PINAMAR 2026 | Teatro de la Torre | 16 hs | Libre y Gratuito | 20 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | UNIVERSIDAD DE LA FELICIDAD | Playas Art Hotel | 17:30 hs | Libre y gratuito | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -373,7 +319,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
