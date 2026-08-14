@@ -1,41 +1,5 @@
 [
   {
-    "titulo": "MUCHO MÁS QUE MASCOTAS",
-    "fecha": "12 AGO",
-    "horario": "18:30 hs",
-    "imagen": "imagenes/mucho-mas-que-mascotas.jpg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
-    "url_evento": "https://agenda.pinamar.gob.ar/mucho-mas-que-mascotas/",
-    "detalle": "Una propuesta a cargo de Gisela Zeballos (@almastransmutando) para descubrir una mirada más profunda y consciente sobre el vínculo con nuestros compañeros animales y la comunicación interespecies. ¡Actividad libre y gratuita!"
-  },
-  {
-    "titulo": "MÚSICA EN VIVO, VINO Y BUENA COCINA",
-    "fecha": "12 AGO",
-    "horario": "21 hs",
-    "imagen": "imagenes/musica-en-vivo-vino-y-buena-cocina.jpeg",
-    "descripcion": "Mosto | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/musica-en-vivo-vino-y-buena-cocina/",
-    "detalle": "Mosto 12 AGO 21 hs Pago La Oncena Trío en Mosto 🎶 Miércoles 12 Este miércoles recibimos a La Oncena Trío, que comienza su nueva gira con Pinamar como primera parada. Desde Mar del Plata, Lucas Pereyra, Juanba Sánchez y Pepe Stroile llegan con una propuesta de dos guitarras y bombo, recorriendo grandes clásicos del cancionero popular argentino. 🍷 Una noche de música en vivo, vinos y buena cocina. 🗓️ Miércoles 12 de agosto 🕘 21 hs 📍 Mosto Casa de Vinos | Eneas 670, Pinamar 📲 Reservas por WhatsApp: 2254 59-1829 ¡Los esperamos para compartir el comienzo de esta gira con una copa de vino y buena música! 🍷🎶"
-  },
-  {
-    "titulo": "FÚTBOL FORMATIVO",
-    "fecha": "13 AGO",
-    "horario": "9 hs",
-    "imagen": "imagenes/futbol-formativo.jpeg",
-    "descripcion": "Polideportivo Municipal | Actividad libre y gratuita",
-    "url_evento": "https://agenda.pinamar.gob.ar/futbol-formativo/",
-    "detalle": "Polideportivo Municipal"
-  },
-  {
-    "titulo": "MIRACINE",
-    "fecha": "13 AGO",
-    "horario": "20 hs",
-    "imagen": "imagenes/miracine-2.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-2/",
-    "detalle": "Presenta a Eduardo Coutinho, LA HISTORIA DE LOS OTROS Figura central del documental brasileño y una de las voces más influyentes del cine de no ficción en América Latina, Eduardo Coutinho transformó la manera de filmar a las personas. Coutinho hace de la presencia, el tiempo compartido y de la escucha los pilares de un lenguaje cinematográfico único. Sus películas exploran la memoria íntima y colectiva, la historia social, la relación entre verdad y representación y la potencia del relato como experiencia humana. Este ciclo propone recorrer tres obras esenciales de su filmografía. 13/8 – As Canções (2011) 20/8 – Jogo de Cena (2007) 28/8 – Últimas Conversas (2015) A las 20 hs, en el Teatro de la Torre. Entrada libre y gratuita, hasta agotar espacio en la sala. Este ciclo es posible gracias al apoyo de la Embajada de Brasil en Buenos Aires, el Instituto Guimarães Rosa y VideoFilmes."
-  },
-  {
     "titulo": "EDUCACIÓN FINANCIERA PARA TODOS",
     "fecha": "14 AGO",
     "horario": "16 hs",
@@ -202,7 +166,7 @@
     "fecha": "22 AGO",
     "horario": "17:30 hs",
     "imagen": "imagenes/universidad-de-la-felicidad.jpeg",
-    "descripcion": "Playas Art Hotel | Libre y gratuito",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/universidad-de-la-felicidad/",
     "detalle": "La vida que construís depende de la persona en la que te convertís Una experiencia para mujeres que quieren desarrollar su potencial y diseñar una vida que les guste más. Inscripción previa @la.ufe_ 02254 606470"
   },
@@ -262,10 +226,10 @@
   },
   {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "4 SEP",
-    "horario": "10 hs",
+    "fecha": "26 SEP",
+    "horario": "16 hs",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "15 AGO | 5 BAJO CERO | Fuegos | 21:30 hs | Pago | 15 AGO | TONY COLEMAN & AEROPHONICOS | Templeton Music Bar | 22 hs | Pago | 16 AGO | FIESTA DÍA DEL NIÑO | Skatepark Pinamar | 12 hs | Actividad libre y gratuita | 16 AGO | 🎬BAFICI ITINERANTE PINAMAR 2026 | Teatro de la Torre | 16 hs | Libre y Gratuito | 20 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | COVISIONARTE | Biblioteca Popular Manuel Belgrano | 14 hs | Pago | 22 AGO | UNIVERSIDAD DE LA FELICIDAD | Playas Art Hotel | 17:30 hs | Libre y gratuito | 22 AGO | EL DUEÑO DE LOS DESEOS | Casa Melfi | 19:30 hs | Pago | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | Pago",
+    "descripcion": "20 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | COVISIONARTE | Biblioteca Popular Manuel Belgrano | 14 hs | Pago | 22 AGO | UNIVERSIDAD DE LA FELICIDAD | Teatro de la Torre | 17:30 hs | Libre y gratuito | 22 AGO | EL DUEÑO DE LOS DESEOS | Casa Melfi | 19:30 hs | Pago | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | 10º FIN DE SEMANA DEL BIENESTAR MUNDIAL | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 25 | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -289,12 +253,21 @@
   },
   {
     "titulo": "10º FIN DE SEMANA DEL BIENESTAR MUNDIAL",
-    "fecha": "21 NOV",
-    "horario": "A confirmar",
-    "imagen": "imagenes/10o-fin-de-semana-del-bienestar-mundial.png",
-    "descripcion": "12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "fecha": "26 SEP",
+    "horario": "16 hs",
+    "imagen": "imagenes/10o-fin-de-semana-del-bienestar-mundial.jpeg",
+    "descripcion": "20 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | COVISIONARTE | Biblioteca Popular Manuel Belgrano | 14 hs | Pago | 22 AGO | UNIVERSIDAD DE LA FELICIDAD | Teatro de la Torre | 17:30 hs | Libre y gratuito | 22 AGO | EL DUEÑO DE LOS DESEOS | Casa Melfi | 19:30 hs | Pago | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 25 | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/10o-fin-de-semana-del-bienestar-mundial/",
     "detalle": "Queremos invitarte a ser parte de un evento muy especial. El World Wellness Weekend es un movimiento internacional sin fines de lucro que se celebra cada tercer fin de semana de septiembre de manera simultánea en más de 190 países. Su propósito es acercar el bienestar a toda la comunidad a través de actividades abiertas, inclusivas y gratuitas, promoviendo hábitos saludables, el equilibrio entre cuerpo y mente, la conexión con la naturaleza y una mejor calidad de vida para todas las personas. Cada año, miles de municipios, hoteles, universidades, clubes, instituciones educativas, profesionales del bienestar y organizaciones sociales se suman a esta iniciativa ofreciendo experiencias vinculadas con la salud, el movimiento, la alimentación consciente, el arte, la cultura, el midfulness, la recreación, la solidaridad y el cuidado del ambiente. Con el acompañamiento de la Secretaría de Turismo, Cultura y Deporte de Pinamar y el apoyo de Pinamar S.A., estamos organizando una edición muy especial para los días 18, 19 y 20 de septiembre, con una programación que invita a vecinos y visitantes a vivir un fin de semana dedicado al bienestar. Nos encantaría que seas parte de esta propuesta. Todas las actividades serán abiertas, libres y gratuitas para el público, permitiendo que cualquier persona pueda acercarse, participar y descubrir nuevas herramientas para mejorar su bienestar físico, emocional y social. CRONOGRAMA: -18 de septiembre Golf Pinamar 16:00 hs Apertura – Espacio Calma- Silvina Ferandez Grenno 16:15 hs Crioterapia- Pablo Santana 16:45 hs Chapuzón helado-Flavia Sirena Blanco 17:15 hs Calistenia-Marina Romano 17:45 hs Nutricionista deportóloga- Danila Condotti 18:45 hs Chara Fitness- Nahuel Martinez 19:15 hs Actividac Fitness- Walter de León 20:15 hs Meditación- Espacio Calma- Silyina Ferandez Grenno. -19 de septiembre Playas Art Hotel 6:00 hs Chapuzón al amanecer en el Balneario Marbella- Flavia Sirena Blanco 16:00 hs Charla de Arte- Sebastian Chelia+invitados 16:30 hs Charla «En proceso» Fund. Arco Iris – Lala Cornide 17:00 hs Ejercicio de escritura «Antiestres y desconexión» -Cristina Daniele 18:00 hs Libertad Financiera – Mabel Dolhare 18:30 hs Charla Nutrición- Natalia Zagurak"
+  },
+  {
+    "titulo": "WINE EXPERIENCE PINAMAR 2026",
+    "fecha": "26 SEP",
+    "horario": "16 hs",
+    "imagen": "imagenes/wine-experience-pinamar.jpeg",
+    "descripcion": "25 | Playas Art Hotel | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/wine-experience-pinamar/",
+    "detalle": "El vino argentino vuelve a encontrarse con el mar. Preventa de entradas por IG:@winw.experience.pinamar"
   },
   {
     "titulo": "FASHION CARILÓ",
@@ -328,7 +301,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | 10º FIN DE SEMANA DEL BIENESTAR MUNDIAL | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
