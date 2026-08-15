@@ -1,32 +1,5 @@
 [
   {
-    "titulo": "EDUCACIÓN FINANCIERA PARA TODOS",
-    "fecha": "14 AGO",
-    "horario": "16 hs",
-    "imagen": "imagenes/educacion-financiera-para-todos.jpg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
-    "url_evento": "https://agenda.pinamar.gob.ar/educacion-financiera-para-todos/",
-    "detalle": "Te invitamos a esta charla abierta a cargo de Adriana Czerwony para aprender a organizar tus ingresos y tomar decisiones más conscientes sobre tu economía cotidiana. Organizan Asociación Conciencia Pinamar junto a la Comisaría de la Mujer y la Familia. ¡Entrada libre y gratuita!"
-  },
-  {
-    "titulo": "FABIANA CIANFANELLI",
-    "fecha": "14 AGO",
-    "horario": "18:30 hs",
-    "imagen": "imagenes/fabiana-cianfanelli.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/fabiana-cianfanelli/",
-    "detalle": "Presentación + Firma Presenta: Valeria Vermiglio"
-  },
-  {
-    "titulo": "TITA Y RODHESIA",
-    "fecha": "14 AGO",
-    "horario": "20 hs",
-    "imagen": "imagenes/tita-y-rodhesia.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/tita-y-rodhesia/",
-    "detalle": "Teatro de la Torre 14 AGO 20 hs Pago «Tita y Rodhesia» Laura Azcurra y Valeria Stilman. 14 de agosto, 20hs. Podes adquirir tus entradas en la boletería del teatro. Teatro De La Torre – Constitución 687, Pinamar."
-  },
-  {
     "titulo": "JORNADA DE PESCA",
     "fecha": "15 AGO",
     "horario": "14 hs",
@@ -117,6 +90,15 @@
     "detalle": "Entradas a la venta Escribiendo al 2267 676400 Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló"
   },
   {
+    "titulo": "JUECES DE MÁRMOL",
+    "fecha": "15 AGO",
+    "horario": "00 hs",
+    "imagen": "imagenes/jueces-de-marmol.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/jueces-de-marmol/",
+    "detalle": "Templeton Music Bar 15 AGO 00 hs Pago JUECES DE MARMOL Templeton Music Bar Contacto: 2267 676400 Boyero 1498. Feria del Bosque. Cariló"
+  },
+  {
     "titulo": "FIESTA DÍA DEL NIÑO",
     "fecha": "16 AGO",
     "horario": "12 hs",
@@ -135,6 +117,33 @@
     "detalle": "Teatro de la Torre 16 AGO 16 hs Libre y Gratuito 🎬 BAFICI Itinerante Pinamar 2026 El 15 y 16 de agosto llega una nueva edición del BAFICI Itinerante Pinamar, con una selección de lo más destacado de la 27.ª edición del BAFICI. Durante dos jornadas se proyectarán 18 películas, entre largometrajes y cortometrajes nacionales e internacionales, y se realizarán encuentros con directores, productores e invitados especiales para compartir el detrás de escena de cada obra. En el Teatro de la Torre, con entrada libre y gratuita. PROGRAMACIÓN 16/8 16H «La amiga de mi amigo» | Matías Szulansky | 66´| Argentina 2026 17:30H CORTOMETRAJES – Bloque 2 «CineFaketógrafo Lumiere» | Tetsuo Lumiere | 6´| Argentina, 2026 «La lámpara de Happy Together» | Jimena Rodriguez Berisso | 19´| Argentina, 2026 «Easter Day» | Mykola Zasielev | 17´| Ucrania, Francia, 2025 «Salteadores Nocturnos» | Joaquín Ferra| 20´| Argentina, 2026 19H FRANJA NACIONAL 19H «El Tren Fluvial» Lorenzo Ferro y Lucas Vignale | 75´| Argentina, 2026 20:45H «Los Vencedores» Pablo Aparo | 96´| Argentina, Reino Unido 2026 22:00H FRANJA INTERNACIONAL «Vade Retro» | Antonio Peretjatko | 95´| Francia, 2026 23:30H TRASNOCHE"
   },
   {
+    "titulo": "FEDE MOURA",
+    "fecha": "16 AGO",
+    "horario": "22 hs",
+    "imagen": "imagenes/fede-moura.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/fede-moura/",
+    "detalle": "Templeton Music Bar Contacto: 2267 676400 Boyero 1498. Feria del Bosque. Cariló"
+  },
+  {
+    "titulo": "ALMA BLUES",
+    "fecha": "16 AGO",
+    "horario": "00 hs",
+    "imagen": "imagenes/alma-blues.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/alma-blues/",
+    "detalle": "Templeton Music Bar Contacto: 2267 676400 Boyero 1498. Feria del Bosque. Cariló"
+  },
+  {
+    "titulo": "ACERCAMIENTO AL BIOMAGNETISMO",
+    "fecha": "20 AGO",
+    "horario": "18 hs",
+    "imagen": "imagenes/acercamiento-al-biomagnetismo.jpeg",
+    "descripcion": "De las Medusas 1230 | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/acercamiento-al-biomagnetismo/",
+    "detalle": "Una invitación a conocer los principios básicos del biomagnetismo a través de un encuentro teórico-práctico, pensado para quienes desean dar sus primeros pasos en esta disciplina. Durante las tres horas de taller, cada participante recibirá un par de imanes y aprenderá aplicaciones básicas para comenzar a utilizarlos, además de incorporar herramientas de autocuidado y protocolos sencillos para el uso personal. El biomagnetismo propone un abordaje orientado al equilibrio del organismo y es utilizado por muchas personas como práctica complementaria para acompañar el bienestar cotidiano. El taller estará a cargo de Fátima Vercelli. De las Medusas 1230, Pinamar"
+  },
+  {
     "titulo": "MIRACINE",
     "fecha": "20 AGO",
     "horario": "20 hs",
@@ -142,6 +151,24 @@
     "descripcion": "Teatro de la Torre | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/miracine/",
     "detalle": "Presenta a Eduardo Coutinho, LA HISTORIA DE LOS OTROS Figura central del documental brasileño y una de las voces más influyentes del cine de no ficción en América Latina, Eduardo Coutinho transformó la manera de filmar a las personas. Coutinho hace de la presencia, el tiempo compartido y de la escucha los pilares de un lenguaje cinematográfico único. Sus películas exploran la memoria íntima y colectiva, la historia social, la relación entre verdad y representación y la potencia del relato como experiencia humana. Este ciclo propone recorrer tres obras esenciales de su filmografía. 20/8 – Jogo de Cena (2007) 28/8 – Últimas Conversas (2015) A las 20hs, en el Teatro de la Torre. Entrada libre y gratuita, hasya agotar espacio en la sala. Este ciclo es posible gracias al apoyo de la Embajada de Brasil en Buenos Aires, el Instituto Guimarães Rosa y VideoFilmes."
+  },
+  {
+    "titulo": "SEMINARIO INTENSIVO DE REIKI",
+    "fecha": "21 AGO",
+    "horario": "17 hs",
+    "imagen": "imagenes/seminario-intensivo-de-reiki-usui.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/seminario-intensivo-de-reiki-usui/",
+    "detalle": "Nivel 1 Una invitación a dar los primeros pasos en la práctica del Reiki, una disciplina de origen japonés que propone el trabajo consciente con la energía a través de la imposición de manos, con el propósito de favorecer el bienestar y el equilibrio personal. Durante este encuentro intensivo, Carolina Salvador realizará la iniciación de Nivel 1, compartirá los principios fundamentales de la práctica y enseñará las técnicas básicas para comenzar el camino del Reiki. Además, quienes participen podrán formar parte de un grupo de acompañamiento, pensado para continuar practicando, intercambiar experiencias y realizar encuentros y envíos de Reiki en comunidad. Biblioteca Popular y Centro Cultural Manuel Belgrano De las Medusas 1230, Pinamar Informes y reservas: 11 2637-0646 Un primer encuentro para conocer una práctica que, desde hace más de un siglo, invita a cultivar la presencia, el autocuidado y el encuentro con otros desde"
+  },
+  {
+    "titulo": "SING STREET",
+    "fecha": "21 AGO",
+    "horario": "18:30 hs",
+    "imagen": "imagenes/sing-street.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/sing-street/",
+    "detalle": "Sing Street (2016) Hay películas que cuentan una historia. Y hay otras que te dejan una banda sonora para siempre. En agosto continúa el ciclo «Cine que se canta» con Sing Street, una entrañable historia ambientada en el Dublín de los años 80, donde un grupo de adolescentes descubre que la música puede ser una forma de amistad, libertad y crecimiento. Con canciones originales, humor y mucha sensibilidad, es una película que habla de animarse a crear, incluso cuando todo parece estar en contra. Ciclo «Cine que se canta» De las Medusas 1230 Entrada libre y gratuita"
   },
   {
     "titulo": "ACELERANDO",
@@ -171,6 +198,15 @@
     "detalle": "La vida que construís depende de la persona en la que te convertís Una experiencia para mujeres que quieren desarrollar su potencial y diseñar una vida que les guste más. Inscripción previa @la.ufe_ 02254 606470"
   },
   {
+    "titulo": "ESCRITURA, EDICIÓN Y CORRECCIÓN DE TEXTOS",
+    "fecha": "22 AGO",
+    "horario": "18:30 hs",
+    "imagen": "imagenes/escritura-edicion-y-correccion-de-textos.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/escritura-edicion-y-correccion-de-textos/",
+    "detalle": "Presentación del libro Escritura, edición y corrección de textos Escribir un texto es apenas el comienzo. Editarlo, revisarlo, corregirlo y encontrar la mejor forma de decir también son parte del proceso. La Biblioteca Popular y Centro Cultural Manuel Belgrano invita a la presentación de Escritura, edición y corrección de textos, el nuevo libro de Laura Pérgola, una obra que reúne herramientas, criterios y reflexiones sobre el trabajo editorial en un momento atravesado por la transformación digital y la inteligencia artificial. Dirigido a escritores, editores, correctores, docentes, traductores, estudiantes y a todas las personas interesadas en el lenguaje, el libro propone una mirada actual sobre el oficio de escribir y editar, recordándonos que, más allá de las herramientas disponibles, el criterio sigue siendo irremplazable. La presentación estará a cargo de Gabriela Galar De las Medusas 1230, Pinamar Actividad libre y gratuita."
+  },
+  {
     "titulo": "EL DUEÑO DE LOS DESEOS",
     "fecha": "22 AGO",
     "horario": "19:30 hs",
@@ -187,6 +223,24 @@
     "descripcion": "Fuegos | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/la-single-malt/",
     "detalle": "Fuegos. Av. Bunge 324 Reserva: 2254 631997"
+  },
+  {
+    "titulo": "EL TIEMPO SUSPENDIDO",
+    "fecha": "27 AGO",
+    "horario": "19 hs",
+    "imagen": "imagenes/el-tiempo-suspendido.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/el-tiempo-suspendido/",
+    "detalle": "Nueva muestra de arte en la Biblio La Biblioteca Popular y Centro Cultural Manuel Belgrano presenta una nueva exposición del artista plástico Raúl Rubini, una invitación a recorrer una obra donde la luz, el color y la emoción dialogan en cada pintura. Inspiradas en la naturaleza, los animales y la figura humana, sus obras revelan una mirada sensible y profundamente poética sobre el mundo cotidiano, invitando a detenerse, observar y dejarse atravesar por la belleza de lo simple. Los invitamos a compartir la inauguración, conocer al artista y recorrer la muestra. Y para celebrar el cierre de la exposición, los esperamos en un vernissage, un nuevo encuentro para disfrutar del arte, conversar y despedir la muestra junto a su autor. Vernissage: sábado 29 de agosto | 19 hs Biblioteca Popular y Centro Cultural Manuel Belgrano De las Medusas 1230, Pinamar Entrada libre y gratuita."
+  },
+  {
+    "titulo": "VELADA POÉTICA",
+    "fecha": "28 AGO",
+    "horario": "19 hs",
+    "imagen": "imagenes/velada-poetica.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/velada-poetica/",
+    "detalle": "Una nueva edición de la velada poética en la Biblio Abrimos el micrófono: venite con poemas (o canciones) propios o prestados, o simplemente con tus ganas de escuchar, acompañar y dejarte llevar por la poesía. Trae algo para compartir y nosotros ponemos el brindis De las Medusas 1230, Pinamar Actividad libre y gratuita Coordina Eliana Martinez Shapasnikoff @elimsha_mar.y.letras"
   },
   {
     "titulo": "MIRACINE",
@@ -226,10 +280,10 @@
   },
   {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "26 SEP",
-    "horario": "16 hs",
+    "fecha": "21 NOV",
+    "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "20 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | COVISIONARTE | Biblioteca Popular Manuel Belgrano | 14 hs | Pago | 22 AGO | UNIVERSIDAD DE LA FELICIDAD | Teatro de la Torre | 17:30 hs | Libre y gratuito | 22 AGO | EL DUEÑO DE LOS DESEOS | Casa Melfi | 19:30 hs | Pago | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | 10º FIN DE SEMANA DEL BIENESTAR MUNDIAL | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 25 | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | Pago",
+    "descripcion": "4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | 10º FIN DE SEMANA DEL BIENESTAR MUNDIAL | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -253,12 +307,21 @@
   },
   {
     "titulo": "10º FIN DE SEMANA DEL BIENESTAR MUNDIAL",
-    "fecha": "26 SEP",
-    "horario": "16 hs",
+    "fecha": "21 NOV",
+    "horario": "A confirmar",
     "imagen": "imagenes/10o-fin-de-semana-del-bienestar-mundial.jpeg",
-    "descripcion": "20 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 21 AGO | ACELERANDO | Teatro de la Torre | 21 hs | Pago | 22 AGO | COVISIONARTE | Biblioteca Popular Manuel Belgrano | 14 hs | Pago | 22 AGO | UNIVERSIDAD DE LA FELICIDAD | Teatro de la Torre | 17:30 hs | Libre y gratuito | 22 AGO | EL DUEÑO DE LOS DESEOS | Casa Melfi | 19:30 hs | Pago | 22 AGO | LA SINGLE MALT | Fuegos | 21:30 hs | Pago | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 25 | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | Pago",
+    "descripcion": "4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/10o-fin-de-semana-del-bienestar-mundial/",
     "detalle": "Queremos invitarte a ser parte de un evento muy especial. El World Wellness Weekend es un movimiento internacional sin fines de lucro que se celebra cada tercer fin de semana de septiembre de manera simultánea en más de 190 países. Su propósito es acercar el bienestar a toda la comunidad a través de actividades abiertas, inclusivas y gratuitas, promoviendo hábitos saludables, el equilibrio entre cuerpo y mente, la conexión con la naturaleza y una mejor calidad de vida para todas las personas. Cada año, miles de municipios, hoteles, universidades, clubes, instituciones educativas, profesionales del bienestar y organizaciones sociales se suman a esta iniciativa ofreciendo experiencias vinculadas con la salud, el movimiento, la alimentación consciente, el arte, la cultura, el midfulness, la recreación, la solidaridad y el cuidado del ambiente. Con el acompañamiento de la Secretaría de Turismo, Cultura y Deporte de Pinamar y el apoyo de Pinamar S.A., estamos organizando una edición muy especial para los días 18, 19 y 20 de septiembre, con una programación que invita a vecinos y visitantes a vivir un fin de semana dedicado al bienestar. Nos encantaría que seas parte de esta propuesta. Todas las actividades serán abiertas, libres y gratuitas para el público, permitiendo que cualquier persona pueda acercarse, participar y descubrir nuevas herramientas para mejorar su bienestar físico, emocional y social. CRONOGRAMA: -18 de septiembre Golf Pinamar 16:00 hs Apertura – Espacio Calma- Silvina Ferandez Grenno 16:15 hs Crioterapia- Pablo Santana 16:45 hs Chapuzón helado-Flavia Sirena Blanco 17:15 hs Calistenia-Marina Romano 17:45 hs Nutricionista deportóloga- Danila Condotti 18:45 hs Chara Fitness- Nahuel Martinez 19:15 hs Actividac Fitness- Walter de León 20:15 hs Meditación- Espacio Calma- Silyina Ferandez Grenno. -19 de septiembre Playas Art Hotel 6:00 hs Chapuzón al amanecer en el Balneario Marbella- Flavia Sirena Blanco 16:00 hs Charla de Arte- Sebastian Chelia+invitados 16:30 hs Charla «En proceso» Fund. Arco Iris – Lala Cornide 17:00 hs Ejercicio de escritura «Antiestres y desconexión» -Cristina Daniele 18:00 hs Libertad Financiera – Mabel Dolhare 18:30 hs Charla Nutrición- Natalia Zagurak"
+  },
+  {
+    "titulo": "EXPOCAR PINAMAR",
+    "fecha": "19 SEP",
+    "horario": "12 hs",
+    "imagen": "imagenes/expocar-pinamar.jpeg",
+    "descripcion": "Av. Bunge y Av. Libertador | Actividad libre y gratuita",
+    "url_evento": "https://agenda.pinamar.gob.ar/expocar-pinamar/",
+    "detalle": "Expositores con autos deportivos, clásicos, tuning y TC. Show de Drift con piloto profesional Sector UTV con paseos educativos junto a un instructor. DJs en vivo. Stands comerciales y automotrices. Feria de artesanos locales Entretenimiento. Espacio de educación y concientización vial Av. Bunge y Av. del Libertador – Pinamar Entrada libre y gratuita."
   },
   {
     "titulo": "WINE EXPERIENCE PINAMAR 2026",
@@ -301,7 +364,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | 10º FIN DE SEMANA DEL BIENESTAR MUNDIAL | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
