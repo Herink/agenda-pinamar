@@ -1,23 +1,5 @@
 [
   {
-    "titulo": "DÍA DEL NIÑO",
-    "fecha": "23 AGO",
-    "horario": "14 hs",
-    "imagen": "imagenes/dia-del-nino.png",
-    "descripcion": "Valeria del Mar | Libre y Gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/dia-del-nino/",
-    "detalle": "Un evento gratuito y abierto a toda la comunidad de Valeria del Mar y alrededores DESDE LAS 14 HS Organizan: Animar / Forjando Sueños / Carnicería La Mejor Av. Espora e/ Arcachón y Loria, Valeria del Mar"
-  },
-  {
-    "titulo": "FUNCIÓN Y MERIENDA",
-    "fecha": "23 AGO",
-    "horario": "17 hs",
-    "imagen": "imagenes/funcion-y-merienda.jpeg",
-    "descripcion": "Casa Melfi | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/funcion-y-merienda/",
-    "detalle": "«A los que vendrán» de Bertolt Brecht Solo con entrada anticipada $15.000 (alias: marce.melfi) enviar comprobante al 11-61687235 Casa Melfi – Teatro de living De las Hespérides 1454, Pinamar."
-  },
-  {
     "titulo": "EL TIEMPO SUSPENDIDO",
     "fecha": "27 AGO",
     "horario": "19 hs",
@@ -73,10 +55,10 @@
   },
   {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "3 OCT",
-    "horario": "16 hs",
+    "fecha": "21 NOV",
+    "horario": "A confirmar",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "23 AGO | DÍA DEL NIÑO | Valeria del Mar | 14 hs | Libre y Gratuito | 23 AGO | FUNCIÓN Y MERIENDA | Casa Melfi | 17 hs | Pago | 27 AGO | EL TIEMPO SUSPENDIDO | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 28 AGO | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | 10º FIN DE SEMANA DEL BIENESTAR MUNDIAL | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | Pago | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | Pago",
+    "descripcion": "27 AGO | EL TIEMPO SUSPENDIDO | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 28 AGO | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | 10º FIN DE SEMANA DEL BIENESTAR MUNDIAL | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -100,10 +82,10 @@
   },
   {
     "titulo": "10º FIN DE SEMANA DEL BIENESTAR MUNDIAL",
-    "fecha": "3 OCT",
-    "horario": "16 hs",
+    "fecha": "21 NOV",
+    "horario": "A confirmar",
     "imagen": "imagenes/10o-fin-de-semana-del-bienestar-mundial.jpeg",
-    "descripcion": "23 AGO | DÍA DEL NIÑO | Valeria del Mar | 14 hs | Libre y Gratuito | 23 AGO | FUNCIÓN Y MERIENDA | Casa Melfi | 17 hs | Pago | 27 AGO | EL TIEMPO SUSPENDIDO | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 28 AGO | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | A confirmar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | Pago | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | Pago",
+    "descripcion": "27 AGO | EL TIEMPO SUSPENDIDO | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 28 AGO | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 28 AGO | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 AGO | VALERIA DEL MAR | Av. Espora y Azopardo | 15 hs | Pago | 29 | 30 AGO | ENDURO DEL INVIERNO | Pinamar | Pago | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/10o-fin-de-semana-del-bienestar-mundial/",
     "detalle": "Queremos invitarte a ser parte de un evento muy especial. El World Wellness Weekend es un movimiento internacional sin fines de lucro que se celebra cada tercer fin de semana de septiembre de manera simultánea en más de 190 países. Su propósito es acercar el bienestar a toda la comunidad a través de actividades abiertas, inclusivas y gratuitas, promoviendo hábitos saludables, el equilibrio entre cuerpo y mente, la conexión con la naturaleza y una mejor calidad de vida para todas las personas. Cada año, miles de municipios, hoteles, universidades, clubes, instituciones educativas, profesionales del bienestar y organizaciones sociales se suman a esta iniciativa ofreciendo experiencias vinculadas con la salud, el movimiento, la alimentación consciente, el arte, la cultura, el midfulness, la recreación, la solidaridad y el cuidado del ambiente. Con el acompañamiento de la Secretaría de Turismo, Cultura y Deporte de Pinamar y el apoyo de Pinamar S.A., estamos organizando una edición muy especial para los días 18, 19 y 20 de septiembre, con una programación que invita a vecinos y visitantes a vivir un fin de semana dedicado al bienestar. Nos encantaría que seas parte de esta propuesta. Todas las actividades serán abiertas, libres y gratuitas para el público, permitiendo que cualquier persona pueda acercarse, participar y descubrir nuevas herramientas para mejorar su bienestar físico, emocional y social. CRONOGRAMA: -18 de septiembre Golf Pinamar Apertura 16:00 hs Espacio Calma. Toma de conciencia corporal – Silvina Ferandez Grenno 16:15 hs Charla sobre Crioterapia- Ejercicios de respiración. Pablo Santana 16:45 hs Chapuzón helado-Flavia Sirena Blanco 17:15 hs Té de bosque. Reseteo Digital. Fernanda Spinello 18:15 hs Nutricionista deportóloga- Danila Condotti 18:45 hs Charla y actividad Fitness- Nahuel Martinez | Walter de León Gimnasio “ROW” 19:45 hs Meditación- Espacio Calma- Silvina Ferandez Grenno. -19 de septiembre Playas Art Hotel 6:00 hs Chapuzón al amanecer en el Balneario Marbella- Flavia Sirena Blanco 16:00 hs Espacio de arte – Invitados especiales. Gaby Piatti. Analia Fontana. Jesi Santi. Agustina Santos. Sebastian Chelia. Teresa Morando. 16:30 hs Charla «En proceso» Fundación. Azul Arco Iris – Lala Cornide 17:00 hs Ejercicio de escritura «Antiestres y desconexión» -Cristina Daniele 18:00 hs Charla Nutrición- Natalia Zagurak 18:30 hs Libertad Financiera – Mabel Dolhare 19:00 hs Ejercicio coaching – Lorena Marino 19:30 hs Astróloga Determinación Divina- Eliana Bertino"
   },
@@ -154,10 +136,10 @@
   },
   {
     "titulo": "TORNEO SEVEN PINAMAR",
-    "fecha": "21 NOV",
+    "fecha": "",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
