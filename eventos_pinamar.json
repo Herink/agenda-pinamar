@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "MIRACINE: «PERROS DE LA CALLE»",
-    "fecha": "3 SEP",
-    "horario": "20 hs",
-    "imagen": "imagenes/miracine-perros-de-la-calle.jpeg",
-    "descripcion": "Teatro de la Torre | Actividad libre y gratuita",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-perros-de-la-calle/",
-    "detalle": "MIRACINE , junto a Sensa y Telpin, presenta INDIE BOOM : cuando el cine independiente irrumpió en Hollywood. A comienzos de los años 90, una nueva generación de cineastas revolucionó el cine estadounidense con historias originales, personales y una mirada diferente. Sundance se convirtió en el punto de encuentro de esas nuevas voces que, poco a poco, conquistaron al público y dejaron su huella en la historia del cine. Durante cuatro jueves, INDIE BOOM propone volver a disfrutar en pantalla grande algunas de las películas y directores que marcaron el espíritu de aquella época: 3 de septiembre: Perros de la calle — Quentin Tarantino (1992). 99 min. +18. 10 de septiembre: Fargo — Joel y Ethan Coen (1996). 98 min. +18. 17 de septiembre: Magnolia — Paul Thomas Anderson (1999). 188 min. +18. 24 de septiembre: El plan perfecto — Spike Lee (2006). 129 min. +18. Todos los jueves de septiembre a las 20 hs Entrada libre y gratuita Teatro de la Torre, Av. Constitución 687, Pinamar"
-  },
-  {
     "titulo": "X MACHINA",
     "fecha": "4 SEP",
     "horario": "18:30 hs",
@@ -18,13 +9,13 @@
     "detalle": "¿Qué significa ser humano cuando una máquina puede pensar, sentir y parecerlo? Este viernes, el Cine Club de la Biblio inaugura su ciclo de septiembre: CIENCIA FICCIÓN con Ex Machina (2014), el inquietante thriller de ciencia ficción dirigido por Alex Garland. Un joven programador es elegido para participar de un experimento: deberá evaluar las capacidades y cualidades humanas de un sofisticado robot con inteligencia artificial. Pero lo que comienza como una prueba tecnológica pronto se convierte en un juego mucho más complejo, donde aparecen preguntas sobre la conciencia, el deseo, el poder y los límites entre lo humano y lo artificial. Viernes 4 de septiembre 18:30 hs De las Medusas 1230, Pinamar Entrada libre y gratuita."
   },
   {
-    "titulo": "SOY TU ÁNGEL",
+    "titulo": "AL TOQUE",
     "fecha": "4 SEP",
-    "horario": "21 hs",
-    "imagen": "imagenes/soy-tu-angel.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/soy-tu-angel/",
-    "detalle": "German Kraus | Silvia Peyrou Teatro de la Torre Av. Constitución 687"
+    "horario": "22 hs",
+    "imagen": "imagenes/al-toque.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/al-toque/",
+    "detalle": "Templeton Music Bar Boyero 1498 . Feria del Bosque. Cariló Contacto: 2267 676400"
   },
   {
     "titulo": "COVISIONARTE",
@@ -54,6 +45,33 @@
     "detalle": "Negroni Pinamar Cupos limitados Reservas: +54 9 11 2370 9500"
   },
   {
+    "titulo": "SOF SKETCH Y LUA NASCIMENTO",
+    "fecha": "5 SEP",
+    "horario": "21:30 hs",
+    "imagen": "imagenes/sof-sketch-y-lua-nascimento.jpeg",
+    "descripcion": "El Atelier | Entrada a la gorra",
+    "url_evento": "https://agenda.pinamar.gob.ar/sof-sketch-y-lua-nascimento/",
+    "detalle": "Música en vivo Artista invitado Facu Rivas El Atelier Azopardo 150 Valeria del Mar"
+  },
+  {
+    "titulo": "NICO FURMAN",
+    "fecha": "5 SEP",
+    "horario": "22 hs",
+    "imagen": "imagenes/nico-furman.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/nico-furman/",
+    "detalle": "Templeton Music Bar Boyero 1498 . Feria del Bosque. Cariló Contacto: 2267 676400"
+  },
+  {
+    "titulo": "SUPERNOVA",
+    "fecha": "5 SEP",
+    "horario": "00 hs",
+    "imagen": "imagenes/supernova.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/supernova/",
+    "detalle": "Templeton Music Bar Boyero 1498 . Feria del Bosque. Cariló Contacto: 2267 676400"
+  },
+  {
     "titulo": "PEÑA FOLKLÓRICA",
     "fecha": "6 SEP",
     "horario": "12 hs",
@@ -64,10 +82,10 @@
   },
   {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "13 SEP",
-    "horario": "13 hs",
+    "fecha": "12 SEP",
+    "horario": "12 hs",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "3 SEP | MIRACINE: «PERROS DE LA CALLE» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 4 SEP | X MACHINA | Biblioteca Popular Manuel Belgrano | 18:30 hs | Libre y gratuito | 4 SEP | SOY TU ÁNGEL | Teatro de la Torre | 21 hs | Pago | 5 SEP | COVISIONARTE | Biblioteca Popular Manuel Belgrano | 14 hs | Pago | 05 SEP | PRESENTACIÓN DEL LIBRO «LA ÚLTIMA BATALLA» DE EDGARDO ESTEBAN | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 5 SEP | CENA ALEMANA | Negroni Pinamar | 21 hs | Pago | 6 SEP | PEÑA FOLKLÓRICA | Club Pinamar | 12 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 10 SEP | MIRACINE: «FARGO» | Teatro de la Torre | 20 hs | Libre y Gratuito | 11 SEP | EL UMBRAL DE LA VERDAD | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 12 SEP | TALLER INTENSIVO DE VASIJAS SILBADORAS | Taller Orosco | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 12 SEP | ORQUESTA MUNICIPAL | Teatro de la Torre | 21 hs | A la gorra | 12 SEP | MR PC SKA JAZZ | Refugio Pinamar | 21 hs | Libre | VIVENCIAR EQUINOMANCIA | Centro Ecuestre Las Margaritas | Pago",
+    "descripcion": "4 SEP | X MACHINA | Biblioteca Popular Manuel Belgrano | 18:30 hs | Libre y gratuito | 4 SEP | AL TOQUE | Templeton Music Bar | 22 hs | Pago | 5 SEP | COVISIONARTE | Biblioteca Popular Manuel Belgrano | 14 hs | Pago | 05 SEP | PRESENTACIÓN DEL LIBRO «LA ÚLTIMA BATALLA» DE EDGARDO ESTEBAN | Biblioteca Popular Manuel Belgrano | 19 hs | Actividad libre y gratuita | 5 SEP | CENA ALEMANA | Negroni Pinamar | 21 hs | Pago | 5 SEP | SOF SKETCH Y LUA NASCIMENTO | El Atelier | 21:30 hs | Entrada a la gorra | 5 SEP | NICO FURMAN | Templeton Music Bar | 22 hs | Pago | 5 SEP | SUPERNOVA | Templeton Music Bar | 00 hs | Pago | 6 SEP | PEÑA FOLKLÓRICA | Club Pinamar | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 10 SEP | MIRACINE: «FARGO» | Teatro de la Torre | 20 hs | Libre y Gratuito | 11 SEP | EL UMBRAL DE LA VERDAD | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | TALLER INTENSIVO DE VASIJAS SILBADORAS | Taller Orosco | 10 hs | Pago | INSPIR ARTE | Cariló Arte | 11 hs | Pago | ARIEL ZURDO | JUAN BOCCIA | Biblioteca Popular Manuel Belgrano | Entrada a la gorra",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -108,6 +126,15 @@
     "detalle": "Silvina Lamorte + respiración consciente + arte Sábado 12 de septiembre a las 11hs en @cariloarte Entrada $30.000 (cupos limitados) Más info en @silvinalamorte"
   },
   {
+    "titulo": "ARIEL ZURDO | JUAN BOCCIA",
+    "fecha": "12 SEP",
+    "horario": "12 hs",
+    "imagen": "imagenes/ariel-zurdo-juan-boccia.jpg",
+    "descripcion": "ARIEL ZURDO | JUAN BOCCIA | Biblioteca Popular Manuel Belgrano | Entrada a la gorra",
+    "url_evento": "https://agenda.pinamar.gob.ar/ariel-zurdo-juan-boccia/",
+    "detalle": "Música popular con Ariel Zurdo, Juan Pablo Boccia + invitados Te invitamos a compartir una noche en la Biblio junto a artistas de la escena de Mar Azul y la región. Un recorrido por la música popular y el candombe con canciones, ritmos latinoamericanos y músicos invitados en vivo. ¡Entrada a la gorra!"
+  },
+  {
     "titulo": "ORQUESTA MUNICIPAL",
     "fecha": "12 SEP",
     "horario": "21 hs",
@@ -144,6 +171,15 @@
     "detalle": "MIRACINE , junto a Sensa y Telpin, presenta INDIE BOOM : cuando el cine independiente irrumpió en Hollywood. A comienzos de los años 90, una nueva generación de cineastas revolucionó el cine estadounidense con historias originales, personales y una mirada diferente. Sundance se convirtió en el punto de encuentro de esas nuevas voces que, poco a poco, conquistaron al público y dejaron su huella en la historia del cine. Durante cuatro jueves, INDIE BOOM propone volver a disfrutar en pantalla grande algunas de las películas y directores que marcaron el espíritu de aquella época: 3 de septiembre: Perros de la calle — Quentin Tarantino (1992). 99 min. +18. 10 de septiembre: Fargo — Joel y Ethan Coen (1996). 98 min. +18. 17 de septiembre: Magnolia — Paul Thomas Anderson (1999). 188 min. +18. 24 de septiembre: El plan perfecto — Spike Lee (2006). 129 min. +18. Todos los jueves de septiembre a las 20 hs Entrada libre y gratuita Teatro de la Torre, Av. Constitución 687, Pinamar"
   },
   {
+    "titulo": "EVERYTHING EVERYWHERE ALL AT ONCE",
+    "fecha": "18 SEP",
+    "horario": "18:30 hs",
+    "imagen": "imagenes/everything-everywhere-all-at-once.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/everything-everywhere-all-at-once/",
+    "detalle": "¿Y si todas las posibilidades de tu vida existieran al mismo tiempo? Seguimos con el ciclo de septiembre: CIENCIA FICCIÓN con Everything Everywhere All at Once (2022), una película inclasificable que combina ciencia ficción, acción, humor y drama para llevarnos por un viaje a través del multiverso. Una heroína inesperada descubre que debe enfrentarse a peligros provenientes de universos paralelos y utilizar sus nuevos poderes para intentar salvar su mundo. Una aventura delirante y emocionante que juega con la idea de las infinitas posibilidades, las decisiones que tomamos y las vidas que podríamos haber vivido. Viernes 18 de septiembre 18:30 hs De las Medusas 1230, Pinamar Entrada libre y gratuita."
+  },
+  {
     "titulo": "5º ENCUENTRO DE NEWCOM EN PINAMAR",
     "fecha": "19 SEP",
     "horario": "",
@@ -154,10 +190,10 @@
   },
   {
     "titulo": "10º FIN DE SEMANA DEL BIENESTAR MUNDIAL",
-    "fecha": "21 NOV",
-    "horario": "A confirmar",
+    "fecha": "26 SEP",
+    "horario": "20 hs",
     "imagen": "imagenes/10o-fin-de-semana-del-bienestar-mundial.jpeg",
-    "descripcion": "17 SEP | MIRACINE: «MAGNOLIA» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 19 SEP | FESTIVAL DE BREVE TEATRO | Teatro de la Torre | 20:30 hs | A la gorra | 24 SEP | MIRACINE: «EL PLAN PERFECTO» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | 26 SEP | ENCUENTRO CORAL | Biblioteca Popular Manuel Belgrano | 20 hs | Libre y gratuito | 30 SEP | BOTIQUÍN NATURAL Y FITOTERAPIA APLICADA | Biblioteca Popular Manuel Belgrano | 9 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | Pago",
+    "descripcion": "12 SEP | ORQUESTA MUNICIPAL | Teatro de la Torre | 21 hs | A la gorra | 12 SEP | MR PC SKA JAZZ | Refugio Pinamar | 21 hs | Libre | 13 SEP | VIVENCIAR EQUINOMANCIA | Centro Ecuestre Las Margaritas | 13 hs | Pago | 17 SEP | MIRACINE: «MAGNOLIA» | Teatro de la Torre | Actividad libre y gratuita | 18 SEP | EVERYTHING EVERYWHERE ALL AT ONCE | Biblioteca Popular Manuel Belgrano | 18:30 hs | Libre y gratuito | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 19 SEP | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 19 SEP | FESTIVAL DE BREVE TEATRO | Teatro de la Torre | 20:30 hs | A la gorra | 20 SEP | SENTIR PARA TRANSFORMAR | Biblioteca Popular Manuel Belgrano | 16 hs | Libre y gratuito | 24 SEP | MIRACINE: «EL PLAN PERFECTO» | Teatro de la Torre | Actividad libre y gratuita | 25 | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | FESTIVAL DE NARRADORES ORALES | Biblioteca Popular Manuel Belgrano | 17:30 hs | Libre y gratuito | ENCUENTRO CORAL | Biblioteca Popular Manuel Belgrano | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/10o-fin-de-semana-del-bienestar-mundial/",
     "detalle": "Queremos invitarte a ser parte de un evento muy especial. El World Wellness Weekend es un movimiento internacional sin fines de lucro que se celebra cada tercer fin de semana de septiembre de manera simultánea en más de 190 países. Su propósito es acercar el bienestar a toda la comunidad a través de actividades abiertas, inclusivas y gratuitas, promoviendo hábitos saludables, el equilibrio entre cuerpo y mente, la conexión con la naturaleza y una mejor calidad de vida para todas las personas. Cada año, miles de municipios, hoteles, universidades, clubes, instituciones educativas, profesionales del bienestar y organizaciones sociales se suman a esta iniciativa ofreciendo experiencias vinculadas con la salud, el movimiento, la alimentación consciente, el arte, la cultura, el midfulness, la recreación, la solidaridad y el cuidado del ambiente. Con el acompañamiento de la Secretaría de Turismo, Cultura y Deporte de Pinamar y el apoyo de Pinamar S.A., estamos organizando una edición muy especial para los días 18, 19 y 20 de septiembre, con una programación que invita a vecinos y visitantes a vivir un fin de semana dedicado al bienestar. Nos encantaría que seas parte de esta propuesta. Todas las actividades serán abiertas, libres y gratuitas para el público, permitiendo que cualquier persona pueda acercarse, participar y descubrir nuevas herramientas para mejorar su bienestar físico, emocional y social. CRONOGRAMA: -18 de septiembre Golf Pinamar Apertura 16:00 hs Espacio Calma. Toma de conciencia corporal – Silvina Ferandez Grenno 16:15 hs Charla sobre Crioterapia- Ejercicios de respiración. Pablo Santana 16:45 hs Chapuzón helado-Flavia Sirena Blanco 17:15 hs Té de bosque. Reseteo Digital. Fernanda Spinello 18:15 hs Nutricionista deportóloga- Danila Condotti 18:45 hs Charla y actividad Fitness- Nahuel Martinez | Walter de León Gimnasio “ROW” 19:45 hs Meditación- Espacio Calma- Silvina Ferandez Grenno. -19 de septiembre Playas Art Hotel 6:00 hs Chapuzón al amanecer en el Balneario Marbella- Flavia Sirena Blanco 16:00 hs Espacio de arte – Invitados especiales. Gaby Piatti. Analia Fontana. Jesi Santi. Agustina Santos. Sebastian Chelia. Teresa Morando. 16:30 hs Charla «En proceso» Fundación. Azul Arco Iris – Lala Cornide 17:00 hs Ejercicio de escritura «Antiestres y desconexión» -Cristina Daniele 18:00 hs Charla Nutrición- Natalia Zagurak 18:30 hs Libertad Financiera – Mabel Dolhare 19:00 hs Ejercicio coaching – Lorena Marino 19:30 hs Astróloga Determinación Divina- Eliana Bertino"
   },
@@ -171,6 +207,15 @@
     "detalle": "Expositores con autos deportivos, clásicos, tuning y TC. Show de Drift con piloto profesional Sector UTV con paseos educativos junto a un instructor. DJs en vivo. Stands comerciales y automotrices. Feria de artesanos locales Entretenimiento. Espacio de educación y concientización vial Av. Bunge y Av. del Libertador – Pinamar Entrada libre y gratuita."
   },
   {
+    "titulo": "VELADA POÉTICA",
+    "fecha": "19 SEP",
+    "horario": "19 hs",
+    "imagen": "imagenes/velada-poetica.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/velada-poetica/",
+    "detalle": "Llega la primavera y en la Biblio vuelve a florecer la poesía. Un encuentro sensible, abierto y humano, donde nos convocamos para ponerle palabras al alma. Acercate, trae algo para compartir en el break Podés leer tus poemas, los de otros o venir a cantar con la guitarra. Sábado 19/09 19 hs De las Medusas 1230, Pinamar"
+  },
+  {
     "titulo": "FESTIVAL DE BREVE TEATRO",
     "fecha": "19 SEP",
     "horario": "20:30 hs",
@@ -178,6 +223,15 @@
     "descripcion": "Teatro de la Torre | A la gorra",
     "url_evento": "https://agenda.pinamar.gob.ar/festival-de-breve-teatro/",
     "detalle": "El formato de “breve teatro” propone piezas de entre 15 y 20 minutos que condensan historias potentes en poco tiempo. Con una narrativa directa, conflictos claros y una fuerte carga emocional, este tipo de obras rompe con la estructura tradicional: elimina distancias, acerca al espectador y lo convierte casi en parte de la escena. Obras: «La voz inhumana» de Rubén Darío Basconcel «¿Cómo vas a llamar a metrogas?» de Pablo Nasti «Y eso no es nada» de Maru Silva «De cuando Abelardo conoció a Gumersinda y viceversa» de Jorge Becherini «Playera» de Sofía Soler y Facundo Vrdoljak «Secreto en la chocotorta» de Darío Ian Bas y Leandra De Filippis Entrada a la gorra | Organiza @breveteatropinamar Teatro de la Torre, Av. Constitución 687, Pinamar"
+  },
+  {
+    "titulo": "SENTIR PARA TRANSFORMAR",
+    "fecha": "20 SEP",
+    "horario": "16 hs",
+    "imagen": "imagenes/sentir-para-transformar.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/sentir-para-transformar/",
+    "detalle": "Una Experiencia de Bienestar TE ESPERAMOS el domingo 20/09 16 hs. En La Biblioteca Popular de PINAMAR DE LAS MEDUSAS 1230 Vamos a Conectar, Conocer, Observar, Sentir y Transformar lo que hay adentro nuestro. Porque todas las respuestas están allí! Evento abierto y gratuito Reserva tu lugar @mariasoledadgaspari o en la Biblio"
   },
   {
     "titulo": "MIRACINE: «EL PLAN PERFECTO»",
@@ -196,6 +250,15 @@
     "descripcion": "25 | Playas Art Hotel | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/wine-experience-pinamar/",
     "detalle": "El vino argentino vuelve a encontrarse con el mar. Preventa de entradas por IG:@winw.experience.pinamar"
+  },
+  {
+    "titulo": "FESTIVAL DE NARRADORES ORALES",
+    "fecha": "26 SEP",
+    "horario": "17:30 hs",
+    "imagen": "imagenes/festival-de-narradores-orales.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/festival-de-narradores-orales/",
+    "detalle": "Festival Internacional de Narración Oral en la Costa “Cuentos en el Aire y el Mar” Después de una recorrida por distintos espacios de la comunidad, llega el momento de cerrar el 11.º Festival de Narradores Orales en la Biblioteca Popular Manuel Belgrano. Una tarde para escuchar, imaginar y compartir historias, con una propuesta pensada para toda la familia: tendremos un sector especialmente destinado a niños y otro para adultos. Porque no hay una edad para dejarse llevar por una buena historia. Solo hace falta sentarse, escuchar… y dejar que la palabra haga su magia. Viernes 26 de septiembre 17:30 hs De las Medusas 1230, Pinamar Sector para niños Sector para adultos Actividad abierta, libre y gratuita."
   },
   {
     "titulo": "ENCUENTRO CORAL",
@@ -256,7 +319,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "17 SEP | MIRACINE: «MAGNOLIA» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | 10º FIN DE SEMANA DEL BIENESTAR MUNDIAL | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 19 SEP | FESTIVAL DE BREVE TEATRO | Teatro de la Torre | 20:30 hs | A la gorra | 24 SEP | MIRACINE: «EL PLAN PERFECTO» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | 26 SEP | ENCUENTRO CORAL | Biblioteca Popular Manuel Belgrano | 20 hs | Libre y gratuito | 30 SEP | BOTIQUÍN NATURAL Y FITOTERAPIA APLICADA | Biblioteca Popular Manuel Belgrano | 9 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "30 SEP | BOTIQUÍN NATURAL Y FITOTERAPIA APLICADA | Biblioteca Popular Manuel Belgrano | 9 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
