@@ -1,19 +1,10 @@
 [
   {
-    "titulo": "AL TOQUE",
-    "fecha": "4 SEP",
-    "horario": "22 hs",
-    "imagen": "imagenes/al-toque.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/al-toque/",
-    "detalle": "Templeton Music Bar Boyero 1498 . Feria del Bosque. Cariló Contacto: 2267 676400"
-  },
-  {
     "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "18 SEP",
-    "horario": "18:30 hs",
+    "fecha": "19 SEP",
+    "horario": "8 hs",
     "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "4 SEP | AL TOQUE | Templeton Music Bar | 22 hs | Pago | 10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 10 SEP | MIRACINE: «FARGO» | Teatro de la Torre | 20 hs | Libre y Gratuito | 11 SEP | TARDE DE JUEGOS | Hito | 17:30 hs | Pago | 11 SEP | EL UMBRAL DE LA VERDAD | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 12 SEP | TALLER INTENSIVO DE VASIJAS SILBADORAS | Taller Orosco | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 12 SEP | HASTA AQUÍ LLEGAMOS | Biblioteca Popular Manuel Belgrano | 11:30 hs | Libre y gratuito | 12 SEP | ARIEL ZURDO | JUAN BOCCIA | Biblioteca Popular Manuel Belgrano | 12 hs | Entrada a la gorra | 12 SEP | ORQUESTA MUNICIPAL | Teatro de la Torre | 21 hs | A la gorra | 12 SEP | MR PC SKA JAZZ | Refugio Pinamar | 21 hs | Libre | 13 SEP | VIVENCIAR EQUINOMANCIA | Centro Ecuestre Las Margaritas | 13 hs | Pago | 15 SEP | FESTIVAL INTERNACIONAL DE CINE | Montfleuri-Sur-Mer Casa de Artistas | 20 hs | Libre y gratuito | 17 SEP | MIRACINE: «MAGNOLIA» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | EVERYTHING EVERYWHERE ALL AT ONCE | Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "descripcion": "10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 10 SEP | MIRACINE: «FARGO» | Teatro de la Torre | 20 hs | Libre y Gratuito | 11 SEP | TARDE DE JUEGOS | Hito | 17:30 hs | Pago | 11 SEP | EL UMBRAL DE LA VERDAD | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 12 SEP | TALLER INTENSIVO DE VASIJAS SILBADORAS | Taller Orosco | 10 hs | Pago | 12 SEP | INSPIR ARTE | Cariló Arte | 11 hs | Pago | 12 SEP | HASTA AQUÍ LLEGAMOS | Biblioteca Popular Manuel Belgrano | 11:30 hs | Libre y gratuito | 12 SEP | ARIEL ZURDO | JUAN BOCCIA | Biblioteca Popular Manuel Belgrano | 12 hs | Entrada a la gorra | 12 SEP | ORQUESTA MUNICIPAL | Teatro de la Torre | 21 hs | A la gorra | 12 SEP | MR PC SKA JAZZ | Refugio Pinamar | 21 hs | Libre | 13 SEP | VIVENCIAR EQUINOMANCIA | Centro Ecuestre Las Margaritas | 13 hs | Pago | 15 SEP | FESTIVAL INTERNACIONAL DE CINE | Montfleuri-Sur-Mer Casa de Artistas | 20 hs | Libre y gratuito | 17 SEP | MIRACINE: «MAGNOLIA» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 18 SEP | EVERYTHING EVERYWHERE ALL AT ONCE | Biblioteca Popular Manuel Belgrano | 18:30 hs | Libre y gratuito | COPA ALIANZA | Links Pinamar Golf | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
     "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
   },
@@ -135,6 +126,15 @@
     "detalle": "¿Y si todas las posibilidades de tu vida existieran al mismo tiempo? Seguimos con el ciclo de septiembre: CIENCIA FICCIÓN con Everything Everywhere All at Once (2022), una película inclasificable que combina ciencia ficción, acción, humor y drama para llevarnos por un viaje a través del multiverso. Una heroína inesperada descubre que debe enfrentarse a peligros provenientes de universos paralelos y utilizar sus nuevos poderes para intentar salvar su mundo. Una aventura delirante y emocionante que juega con la idea de las infinitas posibilidades, las decisiones que tomamos y las vidas que podríamos haber vivido. Viernes 18 de septiembre 18:30 hs De las Medusas 1230, Pinamar Entrada libre y gratuita."
   },
   {
+    "titulo": "COPA ALIANZA",
+    "fecha": "19 SEP",
+    "horario": "8 hs",
+    "imagen": "imagenes/copa-alianza.jpeg",
+    "descripcion": "Links Pinamar Golf | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/copa-alianza/",
+    "detalle": "Modalidades: Fourball | Scramble | Medal Play | Match Play Inscripción individual con asignación a uno de los cuatro equipos oficiales del torneo. 2267 537599 | 2254 491815 Links Pinamar"
+  },
+  {
     "titulo": "5º ENCUENTRO DE NEWCOM EN PINAMAR",
     "fecha": "19 SEP",
     "horario": "",
@@ -145,10 +145,10 @@
   },
   {
     "titulo": "10º FIN DE SEMANA DEL BIENESTAR MUNDIAL",
-    "fecha": "29 SEP",
-    "horario": "18 hs",
+    "fecha": "26 SEP",
+    "horario": "22 hs",
     "imagen": "imagenes/10o-fin-de-semana-del-bienestar-mundial.jpeg",
-    "descripcion": "18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 19 SEP | TORNEO DE ROMPECABEZAS | Hito | 17 hs | Pago | 19 SEP | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 19 SEP | CUENTOS Y LEYENDAS DE PINAMAR | Casa de Artista, Casa Melfi | 20 hs | Pago | 19 SEP | FESTIVAL DE BREVE TEATRO | Teatro de la Torre | 20:30 hs | A la gorra | 20 SEP | SENTIR PARA TRANSFORMAR | Biblioteca Popular Manuel Belgrano | 16 hs | Libre y gratuito | 24 SEP | MIRACINE: «EL PLAN PERFECTO» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 25 | 26 SEP | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | 25 SEP | ENTRE LÍNEAS | Biblioteca Popular Manuel Belgrano | 19 hs | Pago | 26 SEP | FESTIVAL DE NARRADORES ORALES | Biblioteca Popular Manuel Belgrano | 17:30 hs | Libre y gratuito | 26 SEP | ENCUENTRO CORAL | Biblioteca Popular Manuel Belgrano | 20 hs | Libre y gratuito | 26 SEP | JAVIER MALOSETTI TRIO | Templeton Music Bar | 22 hs | Pago | EL ARTE DE CREAR EXPERIENCIAS | Teatro de la Torre | Libre y gratuito",
+    "descripcion": "18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 19 SEP | TORNEO DE ROMPECABEZAS | Hito | 17 hs | Pago | 19 SEP | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 19 SEP | CUENTOS Y LEYENDAS DE PINAMAR | Casa de Artista, Casa Melfi | 20 hs | Pago | 19 SEP | FESTIVAL DE BREVE TEATRO | Teatro de la Torre | 20:30 hs | A la gorra | 20 SEP | SENTIR PARA TRANSFORMAR | Biblioteca Popular Manuel Belgrano | 16 hs | Libre y gratuito | 24 SEP | MIRACINE: «EL PLAN PERFECTO» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 25 | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | 16 hs | Pago | 25 SEP | ENTRE LÍNEAS | Biblioteca Popular Manuel Belgrano | 19 hs | Pago | WINE EXPERIENCE PINAMAR | Links Pinamar Golf | 8 hs | Pago | FESTIVAL DE NARRADORES ORALES | Biblioteca Popular Manuel Belgrano | 17:30 hs | Libre y gratuito | ENCUENTRO CORAL | Biblioteca Popular Manuel Belgrano | 20 hs | Libre y gratuito | JAVIER MALOSETTI TRIO | Templeton Music Bar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/10o-fin-de-semana-del-bienestar-mundial/",
     "detalle": "Queremos invitarte a ser parte de un evento muy especial. El World Wellness Weekend es un movimiento internacional sin fines de lucro que se celebra cada tercer fin de semana de septiembre de manera simultánea en más de 190 países. Su propósito es acercar el bienestar a toda la comunidad a través de actividades abiertas, inclusivas y gratuitas, promoviendo hábitos saludables, el equilibrio entre cuerpo y mente, la conexión con la naturaleza y una mejor calidad de vida para todas las personas. Cada año, miles de municipios, hoteles, universidades, clubes, instituciones educativas, profesionales del bienestar y organizaciones sociales se suman a esta iniciativa ofreciendo experiencias vinculadas con la salud, el movimiento, la alimentación consciente, el arte, la cultura, el midfulness, la recreación, la solidaridad y el cuidado del ambiente. Con el acompañamiento de la Secretaría de Turismo, Cultura y Deporte de Pinamar y el apoyo de Pinamar S.A., estamos organizando una edición muy especial para los días 18, 19 y 20 de septiembre, con una programación que invita a vecinos y visitantes a vivir un fin de semana dedicado al bienestar. Nos encantaría que seas parte de esta propuesta. Todas las actividades serán abiertas, libres y gratuitas para el público, permitiendo que cualquier persona pueda acercarse, participar y descubrir nuevas herramientas para mejorar su bienestar físico, emocional y social. CRONOGRAMA: -18 de septiembre Golf Pinamar Apertura 16:00 hs Espacio Calma. Toma de conciencia corporal – Silvina Ferandez Grenno 16:15 hs Charla sobre Crioterapia- Ejercicios de respiración. Pablo Santana 16:45 hs Chapuzón helado-Flavia Sirena Blanco 17:15 hs Té de bosque. Reseteo Digital. Fernanda Spinello 18:15 hs Nutricionista deportóloga- Danila Condotti 18:45 hs Charla y actividad Fitness- Nahuel Martinez | Walter de León Gimnasio “ROW” 19:45 hs Meditación- Espacio Calma- Silvina Ferandez Grenno. -19 de septiembre Playas Art Hotel 6:00 hs Chapuzón al amanecer en el Balneario Marbella- Flavia Sirena Blanco 16:00 hs Espacio de arte – Invitados especiales. Gaby Piatti. Analia Fontana. Jesi Santi. Agustina Santos. Sebastian Chelia. Teresa Morando. 16:30 hs Charla «En proceso» Fundación. Azul Arco Iris – Lala Cornide 17:00 hs Ejercicio de escritura «Antiestres y desconexión» -Cristina Daniele 18:00 hs Charla Nutrición- Natalia Zagurak 18:30 hs Libertad Financiera – Mabel Dolhare 19:00 hs Ejercicio coaching – Lorena Marino 19:30 hs Astróloga Determinación Divina- Eliana Bertino"
   },
@@ -232,6 +232,15 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/entre-lineas/",
     "detalle": "Un show de música y poesía clásica y contemporánea académico y rock Hecho en Rusia Elizaveta AKBALKAN (violin, voz) Danila ABDRAKIPOV (guitarra, voz) Sergey KRASILNIKOV (guitarra) Eliana M. SHAPASNIKOFF (lectura de poemas) Viernes 25/09 9:00 hs Biblioteca Popular Manuel Belgrano De las Medusas 1230, Pinamar Anticipadas +54 911 76319051 https://akbalkan.art Entradas: Generales: 10.000 / Socios: 8.000"
+  },
+  {
+    "titulo": "WINE EXPERIENCE PINAMAR",
+    "fecha": "26 SEP",
+    "horario": "8 hs",
+    "imagen": "imagenes/wineexperience-pinamar.jpeg",
+    "descripcion": "Links Pinamar Golf | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/wineexperience-pinamar/",
+    "detalle": "Links Pinamar Golf 26 SEP 8 hs Pago WINEEXPERIENCE PINAMAR Modalidad 18 Hoyos Medal Play Degustación de vinos en cancha Inscripción abierta 2267 537599 | 2254 491815"
   },
   {
     "titulo": "FESTIVAL DE NARRADORES ORALES",
@@ -319,7 +328,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "30 SEP | BOTIQUÍN NATURAL Y FITOTERAPIA APLICADA | Biblioteca Popular Manuel Belgrano | 9 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "29 SEP | EL ARTE DE CREAR EXPERIENCIAS | Teatro de la Torre | 18 hs | Libre y gratuito | 30 SEP | BOTIQUÍN NATURAL Y FITOTERAPIA APLICADA | Biblioteca Popular Manuel Belgrano | 9 hs | Pago | 3 OCT | FASHION CARILÓ | Cariló Village Apart Hotel & Spa | 16 hs | Pago | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
