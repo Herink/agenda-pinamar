@@ -1,23 +1,5 @@
 [
   {
-    "titulo": "FIESTA DE LA PESCADILLA",
-    "fecha": "20 SEP",
-    "horario": "16 hs",
-    "imagen": "imagenes/fiesta-de-la-pescadilla.jpeg",
-    "descripcion": "10 | 11 | 12 y 13 SEP | Pinamar | 10 hs | Pago | 13 SEP | VIVENCIAR EQUINOMANCIA | Centro Ecuestre Las Margaritas | 13 hs | Pago | 15 SEP | FESTIVAL INTERNACIONAL DE CINE | Montfleuri-Sur-Mer Casa de Artistas | 20 hs | Libre y gratuito | 17 SEP | MIRACINE: «MAGNOLIA» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 18 SEP | EVERYTHING EVERYWHERE ALL AT ONCE | Biblioteca Popular Manuel Belgrano | 18:30 hs | Libre y gratuito | 19 SEP | COPA ALIANZA | Links Pinamar Golf | 8 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | 10º FIN DE SEMANA DEL BIENESTAR MUNDIAL | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 19 SEP | TORNEO DE ROMPECABEZAS | Hito | 17 hs | Pago | 19 SEP | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 19 SEP | CUENTOS Y LEYENDAS DE PINAMAR | Casa de Artista, Casa Melfi | 20 hs | Pago | 19 SEP | FESTIVAL DE BREVE TEATRO | Teatro de la Torre | 20:30 hs | A la gorra | 19 SEP | CINCO BAJO CERO | Fuegos | 21:30 hs | Pago | SENTIR PARA TRANSFORMAR | Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/fiesta-de-la-pescadilla/",
-    "detalle": "16º Edición 10 | 11 | 12 y 13 de septiembre Ganador del torneo Titano Endurance 4×4 Sorteo anticipadas Fiat Argo Dinero en efectivo para los ganadores del segundo premio al veinte"
-  },
-  {
-    "titulo": "VIVENCIAR EQUINOMANCIA",
-    "fecha": "13 SEP",
-    "horario": "13 hs",
-    "imagen": "imagenes/vivenciar-equinomancia.jpeg",
-    "descripcion": "Centro Ecuestre Las Margaritas | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/vivenciar-equinomancia/",
-    "detalle": "Vivir es un largo camino de felicidad y sinsabores. Saber manejarse en esa maraña de sentimientos no es sencillo. Con los caballos se aprende de esa calma y de esa energía. Ellos no mienten, son espejo y vida. La equinomancia nos da herramientas para empezar a vernos en sus ojos. Te invitamos a compartir esta Terapia asistida x caballos el 13 de septiembre en el Centro Ecuestre Las Margaritas. General Madariaga. Juntos. En manada. Escribime al WhatsApp 1141476056"
-  },
-  {
     "titulo": "FESTIVAL INTERNACIONAL DE CINE",
     "fecha": "15 SEP",
     "horario": "20 hs",
@@ -64,10 +46,10 @@
   },
   {
     "titulo": "10º FIN DE SEMANA DEL BIENESTAR MUNDIAL",
-    "fecha": "20 SEP",
+    "fecha": "26 SEP",
     "horario": "16 hs",
     "imagen": "imagenes/10o-fin-de-semana-del-bienestar-mundial.jpeg",
-    "descripcion": "10 | 11 | 12 y 13 SEP | FIESTA DE LA PESCADILLA | Pinamar | 10 hs | Pago | 13 SEP | VIVENCIAR EQUINOMANCIA | Centro Ecuestre Las Margaritas | 13 hs | Pago | 15 SEP | FESTIVAL INTERNACIONAL DE CINE | Montfleuri-Sur-Mer Casa de Artistas | 20 hs | Libre y gratuito | 17 SEP | MIRACINE: «MAGNOLIA» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 18 SEP | EVERYTHING EVERYWHERE ALL AT ONCE | Biblioteca Popular Manuel Belgrano | 18:30 hs | Libre y gratuito | 19 SEP | COPA ALIANZA | Links Pinamar Golf | 8 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 19 SEP | TORNEO DE ROMPECABEZAS | Hito | 17 hs | Pago | 19 SEP | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 19 SEP | CUENTOS Y LEYENDAS DE PINAMAR | Casa de Artista, Casa Melfi | 20 hs | Pago | 19 SEP | FESTIVAL DE BREVE TEATRO | Teatro de la Torre | 20:30 hs | A la gorra | 19 SEP | CINCO BAJO CERO | Fuegos | 21:30 hs | Pago | SENTIR PARA TRANSFORMAR | Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "descripcion": "15 SEP | FESTIVAL INTERNACIONAL DE CINE | Montfleuri-Sur-Mer Casa de Artistas | 20 hs | Libre y gratuito | 17 SEP | MIRACINE: «MAGNOLIA» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 18 SEP | EVERYTHING EVERYWHERE ALL AT ONCE | Biblioteca Popular Manuel Belgrano | 18:30 hs | Libre y gratuito | 19 SEP | COPA ALIANZA | Links Pinamar Golf | 8 hs | Pago | 18 | 19 SEP | 5º ENCUENTRO DE NEWCOM EN PINAMAR | Polideportivo Pinamar | Consultar cronograma | Pago | 18 | 19 y 20 SEP | Pinamar | Cariló | Consultar cronograma | Actividad libre y gratuita | 19 SEP | EXPOCAR PINAMAR | Av. Bunge y Av. Libertador | 12 hs | Actividad libre y gratuita | 19 SEP | TORNEO DE ROMPECABEZAS | Hito | 17 hs | Pago | 19 SEP | VELADA POÉTICA | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 19 SEP | CUENTOS Y LEYENDAS DE PINAMAR | Casa de Artista, Casa Melfi | 20 hs | Pago | 19 SEP | FESTIVAL DE BREVE TEATRO | Teatro de la Torre | 20:30 hs | A la gorra | 19 SEP | CINCO BAJO CERO | Fuegos | 21:30 hs | Pago | 20 SEP | SENTIR PARA TRANSFORMAR | Biblioteca Popular Manuel Belgrano | Libre y gratuito | 24 SEP | MIRACINE: «EL PLAN PERFECTO» | Teatro de la Torre | 20 hs | Actividad libre y gratuita | 25 | WINE EXPERIENCE PINAMAR 2026 | Playas Art Hotel | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/10o-fin-de-semana-del-bienestar-mundial/",
     "detalle": "Queremos invitarte a ser parte de un evento muy especial. El World Wellness Weekend es un movimiento internacional sin fines de lucro que se celebra cada tercer fin de semana de septiembre de manera simultánea en más de 190 países. Su propósito es acercar el bienestar a toda la comunidad a través de actividades abiertas, inclusivas y gratuitas, promoviendo hábitos saludables, el equilibrio entre cuerpo y mente, la conexión con la naturaleza y una mejor calidad de vida para todas las personas. Cada año, miles de municipios, hoteles, universidades, clubes, instituciones educativas, profesionales del bienestar y organizaciones sociales se suman a esta iniciativa ofreciendo experiencias vinculadas con la salud, el movimiento, la alimentación consciente, el arte, la cultura, el midfulness, la recreación, la solidaridad y el cuidado del ambiente. Con el acompañamiento de la Secretaría de Turismo, Cultura y Deporte de Pinamar y el apoyo de Pinamar S.A., estamos organizando una edición muy especial para los días 18, 19 y 20 de septiembre, con una programación que invita a vecinos y visitantes a vivir un fin de semana dedicado al bienestar. Nos encantaría que seas parte de esta propuesta. Todas las actividades serán abiertas, libres y gratuitas para el público, permitiendo que cualquier persona pueda acercarse, participar y descubrir nuevas herramientas para mejorar su bienestar físico, emocional y social. CRONOGRAMA: -18 de septiembre Golf Pinamar Apertura 16:00 hs Espacio Calma. Toma de conciencia corporal – Silvina Ferandez Grenno 16:15 hs Charla sobre Crioterapia- Ejercicios de respiración. Pablo Santana 16:45 hs Chapuzón helado-Flavia Sirena Blanco 17:15 hs Té de bosque. Reseteo Digital. Fernanda Spinello 18:15 hs Nutricionista deportóloga- Danila Condotti 18:45 hs Charla y actividad Fitness- Nahuel Martinez | Walter de León Gimnasio “ROW” 19:45 hs Meditación- Espacio Calma- Silvina Ferandez Grenno. -19 de septiembre Playas Art Hotel 6:00 hs Chapuzón al amanecer en el Balneario Marbella- Flavia Sirena Blanco 16:00 hs Espacio de arte – Invitados especiales. Gaby Piatti. Analia Fontana. Jesi Santi. Agustina Santos. Sebastian Chelia. Teresa Morando. 16:30 hs Charla «En proceso» Fundación. Azul Arco Iris – Lala Cornide 17:00 hs Ejercicio de escritura «Antiestres y desconexión» -Cristina Daniele 18:00 hs Charla Nutrición- Natalia Zagurak 18:30 hs Libertad Financiera – Mabel Dolhare 19:00 hs Ejercicio coaching – Lorena Marino 19:30 hs Astróloga Determinación Divina- Eliana Bertino"
   },
@@ -258,7 +240,7 @@
     "imagen": "imagenes/equipamiento-servicios.jpeg",
     "descripcion": "29 | 30 | Howard Johnson Hotel & Convention Center | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/equipamiento-servicios/",
-    "detalle": "Todo para la Hotelería y la gastronomía Howard Johnson Madariaga | Cariló"
+    "detalle": "Todo para la Hotelería y la gastronomía Howard Johnson Madariaga | Cariló ​Pinamar: Se palpita la 13° Edición de la Expo Equipamiento + Servicios ​El evento de referencia para la hotelería y la gastronomía de la región abre su preventa final para la gran cita del 29 al 31 de octubre en el Hotel Howard Johnson. ​Con los últimos espacios de su preventa a disposición, avanza la organización de la 13° Edición de la Expo Equipamiento + Servicios (E+S). Del 29 al 31 de octubre, de 16:00 a 21:00 horas, el Hotel Howard Johnson – Madariaga/Cariló volverá a convertirse en el epicentro comercial y de vidriera para todo el sector hotelero y gastronómico de la Costa Atlántica. ​La exposición se consolida una vez más como el punto de encuentro estratégico para que propietarios, gerentes y profesionales de la hotelería y la gastronomía descubran las últimas novedades, equipamientos y soluciones de cara a la temporada. ​Últimos stands disponibles Las empresas interesadas en exponer y posicionar sus productos ante un público altamente calificado aún pueden asegurar su ubicación. ​Información Clave: ​Fecha: Del 29 al 31 de octubre de 2026. ​Horario: De 16:00 a 21:00 hs. ​Sede: Hotel Howard Johnson – Madariaga / Cariló. ​Redes Oficiales / Consultas: Seguinos en Instagram en @Tureven-Pinamar para conocer los últimos lugares disponibles y detalles de la muestra."
   },
   {
     "titulo": "ECLIPSE ANULAR DE SOL 2027",
@@ -289,10 +271,10 @@
   },
   {
     "titulo": "TORNEO SEVEN PINAMAR",
-    "fecha": "21 NOV",
+    "fecha": "",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
