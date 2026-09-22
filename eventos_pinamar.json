@@ -36,6 +36,15 @@
     "detalle": "Un show de música y poesía clásica y contemporánea académico y rock Hecho en Rusia Elizaveta AKBALKAN (violin, voz) Danila ABDRAKIPOV (guitarra, voz) Sergey KRASILNIKOV (guitarra) Eliana M. SHAPASNIKOFF (lectura de poemas) Viernes 25/09 9:00 hs Biblioteca Popular Manuel Belgrano De las Medusas 1230, Pinamar Anticipadas +54 911 76319051 https://akbalkan.art Entradas: Generales: 10.000 / Socios: 8.000"
   },
   {
+    "titulo": "PEÑA FOLKLORICA",
+    "fecha": "25 SEP",
+    "horario": "21:30 hs",
+    "imagen": "imagenes/pena-folklorica.jpeg",
+    "descripcion": "Refugio Pinamar | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/pena-folklorica/",
+    "detalle": "SEBAS PIÑERO Ballet Dejando Huella Reservas 2254 624123"
+  },
+  {
     "titulo": "WINE EXPERIENCE PINAMAR",
     "fecha": "26 SEP",
     "horario": "8 hs",
@@ -126,6 +135,15 @@
     "detalle": "busca consolidarse como una plataforma que impulse el diseño argentino, promueva el talento emergente y posicione a Cariló como un destino de referencia para la moda, la cultura y el turismo. Detalles del evento Fecha: sábado 3 de octubre de 2026 Hora: 16:00 hs Lugar: Cariló Village Informes: 2267 475302 | 2254 449091 Moda con propósito Fashion Cariló nace con la convicción de que la moda también puede transformar realidades. Por eso, cada edición acompaña una causa solidaria. En esta oportunidad, colaboramos, con el Taller Protegido Pinamar , institución que desde hace años brinda oportunidades de formación e inclusión laboral a personas con discapacidad, promoviendo su autonomía, desarrollo personal e integración en la comunidad. Cada persona que asista al evento estará colaborando directamente con el crecimiento de este espacio, contribuyendo a mejorar sus recursos, fortalecer sus proyectos y generar nuevas oportunidades para quienes forman parte del taller. De esta manera, cada diseñador, modelo, empresa patrocinadora y asistente se convierte también en protagonista de una acción solidaria que trasciende la pasarela. Porque creemos que la moda es mucho más que estética: es inspiración, compromiso y una herramienta capaz de generar un impacto positivo en la sociedad."
   },
   {
+    "titulo": "ESMOWING",
+    "fecha": "3 OCT",
+    "horario": "21:30 hs",
+    "imagen": "imagenes/esmowing.jpeg",
+    "descripcion": "Refugio Pinamar | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/esmowing/",
+    "detalle": "Fiesta y Show en vivo Reservas 2254 624123"
+  },
+  {
     "titulo": "PUMCHIFEST",
     "fecha": "4 OCT",
     "horario": "18:30 hs",
@@ -133,6 +151,15 @@
     "descripcion": "Teatro de la Torre | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/pumchifest/",
     "detalle": "Una noche donde mas de 30 alumnos comparten todo el trabajo realizado durante el año Música | Emoción | Amigos | Familia Reservas: 223 5463772 Cupos limitados"
+  },
+  {
+    "titulo": "FRANCAIS EN CHANSONS",
+    "fecha": "7 OCT",
+    "horario": "10:30 hs",
+    "imagen": "imagenes/francais-en-chansons.png",
+    "descripcion": "Montfleuri-Sur-Mer Casa de Artistas | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/francais-en-chansons/",
+    "detalle": "Actividad gratuita Coordina Daniel Deybe Montfleuri-Sur-Mer Casa de Artistas De la Foca 948 Pinamar"
   },
   {
     "titulo": "PIANO BAR",
@@ -162,6 +189,15 @@
     "detalle": "Dj Alejo Bustos Casa Para conectar con la música, tu cuerpo y las ganas de bailar toda la noche. Sul Mare Hotel Corbeta Halcón 38 y playa. Valeria del Mar Fiesta y cena gourmet"
   },
   {
+    "titulo": "HUETER",
+    "fecha": "10 OCT",
+    "horario": "21:30 hs",
+    "imagen": "imagenes/hueter.jpeg",
+    "descripcion": "Refugio Pinamar | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/hueter/",
+    "detalle": "FULL BAND + INVITADOS Reservas 2254 624123"
+  },
+  {
     "titulo": "INTERPAUL",
     "fecha": "11 OCT",
     "horario": "21:30 hs",
@@ -169,6 +205,24 @@
     "descripcion": "Refugio Pinamar | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/interpaul/",
     "detalle": "Llega el mejor tributo a Paul Mccarney & The Beatles Entrada libre y gratuita con reserva previa Reserva: 2254 624123 El Refugio. Medusas 1475. Pinamar"
+  },
+  {
+    "titulo": "FRANCAIS EN CHANSONS",
+    "fecha": "14 OCT",
+    "horario": "10:30 hs",
+    "imagen": "imagenes/francais-en-chansons-2.png",
+    "descripcion": "Montfleuri-Sur-Mer Casa de Artistas | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/francais-en-chansons-2/",
+    "detalle": "Actividad gratuita Coordina Daniel Deybe Montfleuri-Sur-Mer Casa de Artistas De la Foca 948 Pinamar"
+  },
+  {
+    "titulo": "LUCHO CIGANDA",
+    "fecha": "16 OCT",
+    "horario": "21:30 hs",
+    "imagen": "imagenes/lucho-ciganda.jpeg",
+    "descripcion": "Refugio Pinamar | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/lucho-ciganda/",
+    "detalle": "Reservas 2254 624123"
   },
   {
     "titulo": "EQUIPAMIENTO + SERVICIOS",
@@ -211,7 +265,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 11 OCT | INTERPAUL | Refugio Pinamar | 21:30 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "3 OCT | ESMOWING | Refugio Pinamar | 21:30 hs | Libre y gratuito | 4 OCT | PUMCHIFEST | Teatro de la Torre | 18:30 hs | Pago | 7 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 11 OCT | INTERPAUL | Refugio Pinamar | 21:30 hs | Libre y gratuito | 14 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 16 OCT | LUCHO CIGANDA | Refugio Pinamar | 21:30 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
