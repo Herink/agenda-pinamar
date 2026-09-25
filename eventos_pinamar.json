@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "MIRACINE: «EL PLAN PERFECTO»",
-    "fecha": "24 SEP",
-    "horario": "20 hs",
-    "imagen": "imagenes/miracine-el-plan-perfecto.jpeg",
-    "descripcion": "Teatro de la Torre | Actividad libre y gratuita",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-el-plan-perfecto/",
-    "detalle": "MIRACINE , junto a Sensa y Telpin, presenta INDIE BOOM : cuando el cine independiente irrumpió en Hollywood. A comienzos de los años 90, una nueva generación de cineastas revolucionó el cine estadounidense con historias originales, personales y una mirada diferente. Sundance se convirtió en el punto de encuentro de esas nuevas voces que, poco a poco, conquistaron al público y dejaron su huella en la historia del cine. Durante cuatro jueves, INDIE BOOM propone volver a disfrutar en pantalla grande algunas de las películas y directores que marcaron el espíritu de aquella época: 3 de septiembre: Perros de la calle — Quentin Tarantino (1992). 99 min. +18. 10 de septiembre: Fargo — Joel y Ethan Coen (1996). 98 min. +18. 17 de septiembre: Magnolia — Paul Thomas Anderson (1999). 188 min. +18. 24 de septiembre: El plan perfecto — Spike Lee (2006). 129 min. +18. Todos los jueves de septiembre a las 20 hs Entrada libre y gratuita Teatro de la Torre, Av. Constitución 687, Pinamar"
-  },
-  {
     "titulo": "WINE EXPERIENCE PINAMAR 2026",
     "fecha": "26 SEP",
     "horario": "16 hs",
@@ -256,7 +247,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "4 OCT | PUMCHIFEST | Teatro de la Torre | 18:30 hs | Pago | 7 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 11 OCT | INTERPAUL | Refugio Pinamar | 21:30 hs | Libre y gratuito | 14 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 16 OCT | LUCHO CIGANDA | Refugio Pinamar | 21:30 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "7 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 11 OCT | INTERPAUL | Refugio Pinamar | 21:30 hs | Libre y gratuito | 14 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 16 OCT | LUCHO CIGANDA | Refugio Pinamar | 21:30 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
