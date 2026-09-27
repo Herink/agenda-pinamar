@@ -1,77 +1,5 @@
 [
   {
-    "titulo": "WINE EXPERIENCE PINAMAR 2026",
-    "fecha": "26 SEP",
-    "horario": "16 hs",
-    "imagen": "imagenes/wine-experience-pinamar.jpeg",
-    "descripcion": "25 | Playas Art Hotel | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/wine-experience-pinamar/",
-    "detalle": "El vino argentino vuelve a encontrarse con el mar. Preventa de entradas por IG:@winw.experience.pinamar"
-  },
-  {
-    "titulo": "WINE EXPERIENCE PINAMAR",
-    "fecha": "26 SEP",
-    "horario": "8 hs",
-    "imagen": "imagenes/wineexperience-pinamar.jpeg",
-    "descripcion": "Links Pinamar Golf | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/wineexperience-pinamar/",
-    "detalle": "Links Pinamar Golf 26 SEP 8 hs Pago WINEEXPERIENCE PINAMAR Modalidad 18 Hoyos Medal Play Degustación de vinos en cancha Inscripción abierta 2267 537599 | 2254 491815"
-  },
-  {
-    "titulo": "WINE SESSIONS",
-    "fecha": "26 SEP",
-    "horario": "12 hs",
-    "imagen": "imagenes/wine-sessions.jpeg",
-    "descripcion": "Gamboa | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/wine-sessions/",
-    "detalle": "Gamboa Atlántica, en General Madariaga, despide su ciclo Wine Sessions con una jornada para recibir la primavera entre viñedos. Rosados de Argentina y del mundo, gastronomía y música serán protagonistas de este último encuentro, que celebra la diversidad y el renovado lugar del rosé en el mundo del vino. Sábado 26 de septiembre | 12 hs Gamboa Atlántica – General Madariaga"
-  },
-  {
-    "titulo": "FESTIVAL DE NARRADORES ORALES",
-    "fecha": "26 SEP",
-    "horario": "17:30 hs",
-    "imagen": "imagenes/festival-de-narradores-orales.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/festival-de-narradores-orales/",
-    "detalle": "Festival Internacional de Narración Oral en la Costa “Cuentos en el Aire y el Mar” Después de una recorrida por distintos espacios de la comunidad, llega el momento de cerrar el 11.º Festival de Narradores Orales en la Biblioteca Popular Manuel Belgrano. Una tarde para escuchar, imaginar y compartir historias, con una propuesta pensada para toda la familia: tendremos un sector especialmente destinado a niños y otro para adultos. Porque no hay una edad para dejarse llevar por una buena historia. Solo hace falta sentarse, escuchar… y dejar que la palabra haga su magia. Viernes 26 de septiembre 17:30 hs De las Medusas 1230, Pinamar Sector para niños Sector para adultos Actividad abierta, libre y gratuita."
-  },
-  {
-    "titulo": "ENCUENTRO CORAL",
-    "fecha": "26 SEP",
-    "horario": "20 hs",
-    "imagen": "imagenes/encuentro-coral.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/encuentro-coral/",
-    "detalle": "Un encuentro coral El viernes 26 de septiembre a las 20 hs recibimos al Grupo Vocal Arsis Nova de Mar del Plata, dirigido por la Mtra. Graciela Véspoli que compartirá un encuentro coral junto al Coro de Pinamar, dirigido por la Mtra. Celeste Durando. Arsis Nova cuenta con más de 30 años de trayectoria y una extensa historia de presentaciones, festivales y encuentros corales dentro y fuera del país. Su repertorio transita especialmente la música popular argentina, el tango y el jazz, con arreglos vocales que ponen en primer plano la riqueza y la expresividad de las voces. Una noche para encontrarnos alrededor de la música, las voces y ese particular fenómeno que ocurre cuando muchas personas cantan juntas. 26 de septiembre 20 hs De las Medusas 1230, Pinamar Entrada libre y gratuita."
-  },
-  {
-    "titulo": "SOCIOS DE TIJUANA",
-    "fecha": "26 SEP",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/socios-de-tijuana.jpeg",
-    "descripcion": "Refugio Pinamar | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/socios-de-tijuana/",
-    "detalle": "+CAMI PALACIOS FULL BAND Entrada libre y gratuita con reserva previa Reserva: 2254 624123 El Refugio. Medusas 1475. Pinamar"
-  },
-  {
-    "titulo": "ANDEN",
-    "fecha": "26 SEP",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/anden.jpeg",
-    "descripcion": "Fuegos | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/anden/",
-    "detalle": "Fuegos. Av. Bunge 324 Reservas: 2254 631997"
-  },
-  {
-    "titulo": "JAVIER MALOSETTI TRIO",
-    "fecha": "26 SEP",
-    "horario": "22 hs",
-    "imagen": "imagenes/javier-malosetti-trio.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/javier-malosetti-trio/",
-    "detalle": "Bruno Di Lorenzo | Mateo Ottonello | Javier Malosetti Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló Entradas disponibles 2267 676400"
-  },
-  {
     "titulo": "EL ARTE DE CREAR EXPERIENCIAS",
     "fecha": "29 SEP",
     "horario": "18 hs",
@@ -229,7 +157,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 11 OCT | INTERPAUL | Refugio Pinamar | 21:30 hs | Libre y gratuito | 14 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 16 OCT | LUCHO CIGANDA | Refugio Pinamar | 21:30 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
