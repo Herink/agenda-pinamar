@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "EL ARTE DE CREAR EXPERIENCIAS",
-    "fecha": "29 SEP",
-    "horario": "18 hs",
-    "imagen": "imagenes/el-arte-de-crear-experiencias.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/el-arte-de-crear-experiencias/",
-    "detalle": "Una conversación sobre el arte de crear experiencias y nuevas formas de pensar e turismo. MAREA presenta a Massimo lanni, referente internacional en turismo v hospitalidad, para charlar sobre cómo se construye la identidad de un destino qué entendemos por experiencias y por qué Pinamar tiene potencial para el turismo regenerativo. Martes 29 de septiembre . 18 hs ○ Teatro de la Torre . Pinamar Un encuentro abierto y gratuito para pensar cóma destacarnos y crear experiencias con identidad Cupos limitados https://forms.gle/HPPa5XuiJd6cUuN68"
-  },
-  {
     "titulo": "BOTIQUÍN NATURAL Y FITOTERAPIA APLICADA",
     "fecha": "30 SEP",
     "horario": "9 hs",
@@ -157,7 +148,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
