@@ -1,14 +1,5 @@
 [
   {
-    "titulo": "BOTIQUÍN NATURAL Y FITOTERAPIA APLICADA",
-    "fecha": "30 SEP",
-    "horario": "9 hs",
-    "imagen": "imagenes/botiquin-natural-y-fitoterapia-aplicada.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/botiquin-natural-y-fitoterapia-aplicada/",
-    "detalle": "Te invitamos a un encuentro teórico y práctico de herbolaria y fitoterapia, guiado por Astrid Canepa, herborista, dedicada al reconocimiento, recolección, conservación y elaboración de productos fitoterapéuticos. Durante las 3 horas del taller vas a conocer el recorrido de una planta medicinal desde su estado seco hasta la elaboración del preparado, aprendiendo técnicas de maceración, filtrado, elaboración, conservación y rotulado. En esta edición vamos a trabajar con cuatro plantas: Eucalipto, Lavanda, Gordolobo y Aguaribay Y vamos a elaborar cuatro preparados: * Ungüento de eucalipto * Ungüento de lavanda * Tintura de gordolobo * Tintura de aguaribay Cada participante recibirá además monografías científicas de las cuatro plantas, con información sobre sus usos, componentes, advertencias, contraindicaciones y efectos secundarios, y pequeñas muestras de los preparados realizados durante el encuentro. No necesitás conocimientos previos. Es una propuesta destina"
-  },
-  {
     "titulo": "FASHION CARILÓ",
     "fecha": "3 OCT",
     "horario": "16 hs",
@@ -145,10 +136,10 @@
   },
   {
     "titulo": "TORNEO SEVEN PINAMAR",
-    "fecha": "21 NOV",
+    "fecha": "",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
