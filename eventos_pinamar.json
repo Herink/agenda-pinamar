@@ -1,23 +1,5 @@
 [
   {
-    "titulo": "FASHION CARILÓ",
-    "fecha": "3 OCT",
-    "horario": "16 hs",
-    "imagen": "imagenes/fashion-carilo.jpeg",
-    "descripcion": "Cariló Village Apart Hotel & Spa | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/fashion-carilo/",
-    "detalle": "busca consolidarse como una plataforma que impulse el diseño argentino, promueva el talento emergente y posicione a Cariló como un destino de referencia para la moda, la cultura y el turismo. Detalles del evento Fecha: sábado 3 de octubre de 2026 Hora: 16:00 hs Lugar: Cariló Village Informes: 2267 475302 | 2254 449091 Moda con propósito Fashion Cariló nace con la convicción de que la moda también puede transformar realidades. Por eso, cada edición acompaña una causa solidaria. En esta oportunidad, colaboramos, con el Taller Protegido Pinamar , institución que desde hace años brinda oportunidades de formación e inclusión laboral a personas con discapacidad, promoviendo su autonomía, desarrollo personal e integración en la comunidad. Cada persona que asista al evento estará colaborando directamente con el crecimiento de este espacio, contribuyendo a mejorar sus recursos, fortalecer sus proyectos y generar nuevas oportunidades para quienes forman parte del taller. De esta manera, cada diseñador, modelo, empresa patrocinadora y asistente se convierte también en protagonista de una acción solidaria que trasciende la pasarela. Porque creemos que la moda es mucho más que estética: es inspiración, compromiso y una herramienta capaz de generar un impacto positivo en la sociedad."
-  },
-  {
-    "titulo": "ESMOWING",
-    "fecha": "3 OCT",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/esmowing.jpeg",
-    "descripcion": "Refugio Pinamar | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/esmowing/",
-    "detalle": "Fiesta y Show en vivo Reservas 2254 624123"
-  },
-  {
     "titulo": "PUMCHIFEST",
     "fecha": "4 OCT",
     "horario": "18:30 hs",
@@ -136,10 +118,10 @@
   },
   {
     "titulo": "TORNEO SEVEN PINAMAR",
-    "fecha": "",
+    "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "",
+    "descripcion": "4 OCT | PUMCHIFEST | Teatro de la Torre | 18:30 hs | Pago | 7 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 11 OCT | INTERPAUL | Refugio Pinamar | 21:30 hs | Libre y gratuito | 14 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 16 OCT | LUCHO CIGANDA | Refugio Pinamar | 21:30 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
