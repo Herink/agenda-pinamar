@@ -1,12 +1,12 @@
 [
   {
-    "titulo": "PUMCHIFEST",
-    "fecha": "4 OCT",
-    "horario": "18:30 hs",
-    "imagen": "imagenes/pumchifest.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/pumchifest/",
-    "detalle": "Una noche donde mas de 30 alumnos comparten todo el trabajo realizado durante el año Música | Emoción | Amigos | Familia Reservas: 223 5463772 Cupos limitados"
+    "titulo": "LOS VIAJEROS",
+    "fecha": "6 OCT",
+    "horario": "20 hs",
+    "imagen": "imagenes/los-viajeros.jpeg",
+    "descripcion": "Montfleuri-Sur-Mer Casa de Artistas | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/los-viajeros/",
+    "detalle": "Ciclo Películas Premiadas del Festival Internacional de Cine Africano de Argentina 2026 Montfleuri-Sur-Mer Casa de Artistas De La Foca 948"
   },
   {
     "titulo": "FRANCAIS EN CHANSONS",
@@ -16,6 +16,42 @@
     "descripcion": "Montfleuri-Sur-Mer Casa de Artistas | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/francais-en-chansons/",
     "detalle": "Actividad gratuita Coordina Daniel Deybe Montfleuri-Sur-Mer Casa de Artistas De la Foca 948 Pinamar"
+  },
+  {
+    "titulo": "CURSO TIMONEL DE YATE MOTOR",
+    "fecha": "7 OCT",
+    "horario": "A confirmar",
+    "imagen": "imagenes/curso-timonel-de-yate-motor.jpeg",
+    "descripcion": "Cooperativa de Pesca | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/curso-timonel-de-yate-motor/",
+    "detalle": "Clases semanales Cooperativa de Pescadores de Pinamar Av. del Mar y Eolo Inscripciones 2267 538262"
+  },
+  {
+    "titulo": "TARDECITAS ARTISTICAS",
+    "fecha": "8 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/tardecitas-artisticas.jpeg",
+    "descripcion": "El Ojo y el Diamante | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/tardecitas-artisticas/",
+    "detalle": "Música en vivo y arte participativo Todos los jueves 19 hs El Ojo y el Diamante Somellera 79 Valeria del Mar +54 911 76319051"
+  },
+  {
+    "titulo": "MIRACINE",
+    "fecha": "8 OCT",
+    "horario": "20 hs",
+    "imagen": "imagenes/miracine.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/miracine/",
+    "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
+  },
+  {
+    "titulo": "AQUÍ FRANCISCO",
+    "fecha": "9 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/aqui-francisco.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/aqui-francisco/",
+    "detalle": "Presentación del libro Aquí Francisco. Una historia irrepetible Graciela Almada presenta un libro testimonial construido a partir de su experiencia periodística en el Vaticano durante los últimos años del pontificado de Francisco. La autora reúne recuerdos, encuentros, escenas y testimonios para acercarnos a la figura del primer papa argentino desde una mirada personal. El libro incluye fotografías tomadas por Almada y un prólogo del padre Pedro Opeka. Locutora, periodista diplomática, docente, actriz y compositora, Almada es además fundadora de Música para la Paz Argentina, proyecto que reúne músicos profesionales y desarrolla actividades culturales y musicales. Una invitación a compartir una historia reciente que todavía estamos elaborando en nuestra memoria. Viernes 9/10 19 hs De las Medusas 1230, Pinamar Libre y gratuita"
   },
   {
     "titulo": "PIANO BAR",
@@ -54,6 +90,33 @@
     "detalle": "FULL BAND + INVITADOS Reservas 2254 624123"
   },
   {
+    "titulo": "COPA MUEBLES Y SILLONES .COM",
+    "fecha": "11 OCT",
+    "horario": "7 hs",
+    "imagen": "imagenes/copa-muebles-y-sillones-com.jpeg",
+    "descripcion": "Links Pinamar Golf | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/copa-muebles-y-sillones-com/",
+    "detalle": "Vení a jugar la clásica copa de lanzamiento de temporada Modalidad 18 Hoyos Medal Play Inscripciones: 2267 537599 | 2254 491815"
+  },
+  {
+    "titulo": "LA SALLE",
+    "fecha": "11 OCT",
+    "horario": "16 hs",
+    "imagen": "imagenes/la-salle.jpeg",
+    "descripcion": "Capilla Santa Teresa de Jesús | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/la-salle/",
+    "detalle": "Barrio La Salle: historias que sorprenden Una experiencia inmersiva para descubrir el corazón del histórico barrio La Salle y la residencia que le dio identidad. Historia, naturaleza, mitos urbanos y leyendas se entrelazan con la fe y sus callecitas encantadoras. Dejá que este rincón de Pinamar te sorprenda. Domingo 11 de octubre · 16:00 h Capilla Santa Teresa de Jesús. Fragata La Victoria entre Del Jilguero y De la Calandria. $15.000 por persona. Se suspende por lluvia. Reservá tu lugar: 2254 44 0112."
+  },
+  {
+    "titulo": "AYRES DE AMOR Y MUERTE",
+    "fecha": "11 OCT",
+    "horario": "17 hs",
+    "imagen": "imagenes/ayres-de-amor-y-muerte.jpeg",
+    "descripcion": "Casa Melfi | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/ayres-de-amor-y-muerte/",
+    "detalle": "Sobre la vida de Felicitas Guerrero Teatro leído, debate y café Casa Melfis Contacto 1161687235"
+  },
+  {
     "titulo": "INTERPAUL",
     "fecha": "11 OCT",
     "horario": "21:30 hs",
@@ -72,6 +135,42 @@
     "detalle": "Actividad gratuita Coordina Daniel Deybe Montfleuri-Sur-Mer Casa de Artistas De la Foca 948 Pinamar"
   },
   {
+    "titulo": "DE MAR Y CAMPO",
+    "fecha": "14 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/de-mar-y-campo.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/de-mar-y-campo/",
+    "detalle": "Muestra de arte en la Biblio De Mar y Campo, es la muestra de Carolina Castillo, quien lleva adelante su casa de Artistas: Caro de Mar. Carolina comenzó en el arte desde joven vinculada al laboratorio de fotografía y diseño gráfico de su familia, incursionando luego en pintura, acuarela, acrílico, técnica mixta y el uso de materiales reutilizados. Una invitación a recorrer su mirada sobre los paisajes que nos rodean. Inauguración: miércoles 14/10 · 19 hs De las Medusas 1230, Pinamar Muestra: del 14 al 24 de octubre Entrada libre y gratuita."
+  },
+  {
+    "titulo": "GUERNICAS DE A PIE",
+    "fecha": "15 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/guernicas-de-a-pie.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/guernicas-de-a-pie/",
+    "detalle": "Biblioteca Popular Manuel Belgrano 15 OCT 19 hs Libre y gratuito CHARLA | Guernicas del lado de acá Itinerancias y resignificaciones del cuadro de Picasso en Argentina Una charla que propone recorrer las distintas representaciones de Guernica, la obra de Pablo Picasso, en diferentes soportes, espacios y geografías de nuestro país, y las nuevas significaciones que fue adquiriendo a lo largo del tiempo. La actividad será también la presentación del último libro de la Dra. Raquel Macciuci, Doctora en Letras por la Universidad Complutense de Madrid y docente emérita de la Universidad Nacional de La Plata. Jueves 15/10 · 19 hs De las Medusas 1230, Pinamar Actividad gratuita"
+  },
+  {
+    "titulo": "MIRACINE",
+    "fecha": "15 OCT",
+    "horario": "20 hs",
+    "imagen": "imagenes/miracine-4.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/miracine-4/",
+    "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
+  },
+  {
+    "titulo": "CINE CLUB",
+    "fecha": "16 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/cine-club.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/cine-club/",
+    "detalle": "En octubre, el Cine Club propone dos viernes para encontrarnos con el terror y el suspenso. Nosotros (2019) Viernes 3/10 · 19 hs Una familia se va de vacaciones buscando unos días de descanso, pero la llegada de unos misteriosos visitantes convierte la noche en una pesadilla. Una película de Jordan Peele sobre identidad, miedo y aquello que preferimos no mirar. Habitación 1408 (2007) Viernes 17/10 · 19 hs Un escritor especializado en fenómenos paranormales decide pasar la noche en una habitación de hotel sobre la que pesan numerosas historias. Lo que encuentra allí pondrá a prueba su propia percepción de la realidad. Biblioteca Popular Manuel Belgrano De las Medusas 1230 · Pinamar Entrada libre y gratuita"
+  },
+  {
     "titulo": "LUCHO CIGANDA",
     "fecha": "16 OCT",
     "horario": "21:30 hs",
@@ -79,6 +178,69 @@
     "descripcion": "Refugio Pinamar | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/lucho-ciganda/",
     "detalle": "Reservas 2254 624123"
+  },
+  {
+    "titulo": "ESA ESPINA EN EL CENTRO DE LAS COSAS",
+    "fecha": "17 OCT",
+    "horario": "19:30 hs",
+    "imagen": "imagenes/esa-espina-en-el-centro-de-las-cosas.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/esa-espina-en-el-centro-de-las-cosas/",
+    "detalle": "Tenemos la alegría de invitarlos a descubrir “Esa espina en el centro de las cosas”, la obra de cuentos breves de Eliana M. Shapasnikoff. Como adelanta Giovanna Rivero en su contratapa, estos relatos nos invitan a mirar la existencia a través de la extrañeza, la bruma del recuerdo, el mar y el bosque. Son personajes y momentos suspendidos donde «bastaría retirar una pieza para que la verdad o la culpa se desvanezcan». Eliana nació en San Rafael (Mendoza) pero hoy elige Pinamar como su hogar. Es la creadora de EliMSha Mar y Letras y una pieza fundamental de nuestra Biblioteca Popular Manuel Belgrano, donde desarrolla actividades vinculadas al arte y la literatura. Acompañan: Gabriela Galar y Matías Reck y Laura Bitto de la editorial Milena Caserola Sábado 17 de octubre a las 19:30 hs. De las Medusas 1230, Pinamar. Entrada libre y gratuita. ¡Sumate a apoyar a los escritores de nuestra comunidad!"
+  },
+  {
+    "titulo": "MIRACINE",
+    "fecha": "22 OCT",
+    "horario": "20 hs",
+    "imagen": "imagenes/miracine-2.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/miracine-2/",
+    "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
+  },
+  {
+    "titulo": "BUENAS OLAS IN CONCERT",
+    "fecha": "23 OCT",
+    "horario": "20 hs",
+    "imagen": "imagenes/buenas-olas-in-concert.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/buenas-olas-in-concert/",
+    "detalle": "Una noche de música de cuerdas con Buenas Olas, un proyecto musical de Pinamar con una larga trayectoria en la escena local. Un recorrido por canciones y clásicos de distintos estilos, llevados a una formación de cuerdas con una mirada propia. Viernes 23/10 · 20 hs De las Medusas 1230, Pinamar Entrada general $10.000 Socios $8.000"
+  },
+  {
+    "titulo": "ENCUENTRO CORAL",
+    "fecha": "24 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/encuentro-coral.jpeg",
+    "descripcion": "El Ojo y el Diamante | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/encuentro-coral/",
+    "detalle": "Grupo Vocal Antruejo Dir: Ulises Zamudio Coro de Pinamar Dir: Celeste Durando El Ojo y el Diamante Somellera 79 Valeria del Mar"
+  },
+  {
+    "titulo": "VELADAS POÉTICAS",
+    "fecha": "24 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/veladas-poeticas.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/veladas-poeticas/",
+    "detalle": "Nos volvemos a encontrar para compartir uno de los géneros más bellos de la literatura. Poesía en todas sus formas: versos, sonetos, prosa, canciones. Una velada de reencuentro para emocionarnos y dejar volar el corazón de la mano de la coordinadora del Club de Lectura, Eliana M. Shapasnikoff. Trae algo para picar en el break y brindamos por las musas y la poesía – Sábado 24/10 – 19 hs – Entrada libre y gratuita"
+  },
+  {
+    "titulo": "PINAMAR REVELADO",
+    "fecha": "28 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/pinamar-revelado.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/pinamar-revelado/",
+    "detalle": "¿Cómo es Pinamar para vos? A partir de esta pregunta, el Club de Fotografía Pinamar reúne distintas miradas sobre nuestra ciudad: personas, paisajes, rincones, costumbres y escenas de todos los días. Una muestra colectiva que busca construir, a través de la fotografía, un retrato de Pinamar hecho de muchas miradas. El Club nació este año y reúne a pinamarenses apasionados por la fotografía, con cámara o celular, compartiendo experiencias y formas de mirar. Inauguración: miércoles 28/10 · 19 hs Del 28/10 al 14/11 De las Medusas 1230, Pinamar Entrada libre y gratuita."
+  },
+  {
+    "titulo": "MIRACINE",
+    "fecha": "29 OCT",
+    "horario": "20 hs",
+    "imagen": "imagenes/miracine-3.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/miracine-3/",
+    "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
   },
   {
     "titulo": "EQUIPAMIENTO + SERVICIOS",
@@ -97,6 +259,15 @@
     "descripcion": "Teatro de la Torre | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/eclipse-anular-de-sol-2027/",
     "detalle": "Un eclipse es un fenómeno astronómico que se produce cuando un astro bloquea parcial o totalmente la luz del Sol, generando sombra y penumbra en otro astro. Eclipse anular de Sol Se verá en la costa bonaerense y norte y centro de la Patagonia. En el resto del país se verá como eclipse parcial de Sol El día 6 de febrero de 2027 desde las 10:30 hasta las 14:30 horas, la Luna en su fase de Luna Nueva, se ubicará exactamente en una línea entre la Tierra y el Sol. La Luna estará a la distancia más alejada de la Tierra, entonces no se la verá tapando totalmente al Sol. Charla informativa a cargo de Mariela A. Corti. Doctora en Astronomía, investigadora y docente de UNLP, integrante de la Asociación Argentina de Astronomía y de la Coordinación Nacional de Astronomía para la Enseñanza (NAEC Argentina)"
+  },
+  {
+    "titulo": "ENCUENTRO DE MÚSICA Y VISUALES",
+    "fecha": "31 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/encuentro-de-musica-y-visuales.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/encuentro-de-musica-y-visuales/",
+    "detalle": "Una propuesta que cruza música en vivo y artes visuales en una misma experiencia: fotografía, luz líquida, proyecciones, VJ, videoclips y otras formas de creación audiovisual. El encuentro fue gestado por Marcela Viciano, Lola Visuales, Julia Álvarez y Mayco Epic, artistas y productoras culturales que buscan generar un espacio de encuentro para artistas locales, regionales e internacionales y seguir ampliándolo con talleres, clases y seminarios. ESPECTRA: Canciones de autora & Luz líquida @marviciano @lolavisuales JULIA ALVAREZ: @queeseltiempo SONAMOS LUZ: @maycoepic + @lolavisuales Sábado 31/10 · 19 hs Biblioteca Popular Manuel Belgrano — De las Medusas 1230, Pinamar Entrada general $10.000 · Socios $8.000"
   },
   {
     "titulo": "TORNEO SEVEN",
@@ -121,7 +292,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "4 OCT | PUMCHIFEST | Teatro de la Torre | 18:30 hs | Pago | 7 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 11 OCT | INTERPAUL | Refugio Pinamar | 21:30 hs | Libre y gratuito | 14 OCT | FRANCAIS EN CHANSONS | Montfleuri-Sur-Mer Casa de Artistas | 10:30 hs | Libre y gratuito | 16 OCT | LUCHO CIGANDA | Refugio Pinamar | 21:30 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
