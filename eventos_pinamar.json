@@ -1,23 +1,5 @@
 [
   {
-    "titulo": "TARDECITAS ARTISTICAS",
-    "fecha": "8 OCT",
-    "horario": "19 hs",
-    "imagen": "imagenes/tardecitas-artisticas.jpeg",
-    "descripcion": "El Ojo y el Diamante | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/tardecitas-artisticas/",
-    "detalle": "Música en vivo y arte participativo Todos los jueves 19 hs El Ojo y el Diamante Somellera 79 Valeria del Mar +54 911 76319051"
-  },
-  {
-    "titulo": "MIRACINE",
-    "fecha": "8 OCT",
-    "horario": "20 hs",
-    "imagen": "imagenes/miracine.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine/",
-    "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
-  },
-  {
     "titulo": "AQUÍ FRANCISCO",
     "fecha": "9 OCT",
     "horario": "19 hs",
@@ -56,18 +38,18 @@
   {
     "titulo": "COPA 2026 PINAMAR",
     "fecha": "11 OCT",
-    "horario": "16 hs",
+    "horario": "20:30 hs",
     "imagen": "imagenes/copa-2026-pinamar.jpeg",
-    "descripcion": "8 OCT | TARDECITAS ARTISTICAS | El Ojo y el Diamante | 19 hs | Pago | 8 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 9 OCT | AQUÍ FRANCISCO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 9 OCT | TOMA TRES | Templeton Music Bar | 22 hs | Pago | 10 OCT | CAMINATA FOTOGRÁFICA EN CARILÓ | Capilla Nuestra Señora del Perpetuo Socorro | 10 hs | Libre y gratuito | 10 | 11 y 12 OCT | Polideportivo Municipal | A confirmar | Libre y gratuito | 10 y 11 OCT | FESTIVAL CINE DE TERROR EN EL BOSQUE | Auditorio La Piña | 19 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | THE POLICE MEN | Templeton Music Bar | 22 hs | Pago | 10 OCT | 55 | Templeton Music Bar | 00 hs | Pago | COPA MUEBLES Y SILLONES .COM | Links Pinamar Golf | 7 hs | Pago | LA SALLE | Capilla Santa Teresa de Jesús | Pago",
+    "descripcion": "9 OCT | AQUÍ FRANCISCO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 9 OCT | TOMA TRES | Templeton Music Bar | 22 hs | Pago | 10 OCT | CAMINATA FOTOGRÁFICA EN CARILÓ | Capilla Nuestra Señora del Perpetuo Socorro | 10 hs | Libre y gratuito | 10 | 11 y 12 OCT | Polideportivo Municipal | A confirmar | Libre y gratuito | 10 y 11 OCT | FESTIVAL CINE DE TERROR EN EL BOSQUE | Auditorio La Piña | 19 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | THE POLICE MEN | Templeton Music Bar | 22 hs | Pago | 10 OCT | 55 | Templeton Music Bar | 00 hs | Pago | COPA MUEBLES Y SILLONES .COM | Links Pinamar Golf | 7 hs | Pago | LA SALLE | Capilla Santa Teresa de Jesús | 16 hs | Pago | AYRES DE AMOR Y MUERTE | Casa Melfi | 17 hs | Pago | TRES TIEMPOS DE NATURALEZA | Ranch House Cariló | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/copa-2026-pinamar/",
     "detalle": "10 | 11 | 12 de Octubre Categoria Sub 16 Inscripciones abiertas"
   },
   {
     "titulo": "FESTIVAL CINE DE TERROR EN EL BOSQUE",
     "fecha": "11 OCT",
-    "horario": "16 hs",
+    "horario": "20:30 hs",
     "imagen": "imagenes/festival-cine-de-terror-en-el-bosque.jpeg",
-    "descripcion": "8 OCT | TARDECITAS ARTISTICAS | El Ojo y el Diamante | 19 hs | Pago | 8 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 9 OCT | AQUÍ FRANCISCO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 9 OCT | TOMA TRES | Templeton Music Bar | 22 hs | Pago | 10 OCT | CAMINATA FOTOGRÁFICA EN CARILÓ | Capilla Nuestra Señora del Perpetuo Socorro | 10 hs | Libre y gratuito | 10 | 11 y 12 OCT | COPA 2026 PINAMAR | Polideportivo Municipal | A confirmar | Libre y gratuito | 10 y 11 OCT | Auditorio La Piña | 19 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | THE POLICE MEN | Templeton Music Bar | 22 hs | Pago | 10 OCT | 55 | Templeton Music Bar | 00 hs | Pago | COPA MUEBLES Y SILLONES .COM | Links Pinamar Golf | 7 hs | Pago | LA SALLE | Capilla Santa Teresa de Jesús | Pago",
+    "descripcion": "9 OCT | AQUÍ FRANCISCO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 9 OCT | PIANO BAR | Refugio Pinamar | 21:30 hs | Libre y gratuito | 9 OCT | TOMA TRES | Templeton Music Bar | 22 hs | Pago | 10 OCT | CAMINATA FOTOGRÁFICA EN CARILÓ | Capilla Nuestra Señora del Perpetuo Socorro | 10 hs | Libre y gratuito | 10 | 11 y 12 OCT | COPA 2026 PINAMAR | Polideportivo Municipal | A confirmar | Libre y gratuito | 10 y 11 OCT | Auditorio La Piña | 19 hs | Libre y gratuito | 10 OCT | CONDENADAS | Biblioteca Popular de Ostende | 20 hs | Entrada a la gorra | 10 OCT | FIESTA MAGIA SUL MARE | Sul Mare Hotel | 21 hs | Pago | 10 OCT | HUETER | Refugio Pinamar | 21:30 hs | Libre y gratuito | 10 OCT | THE POLICE MEN | Templeton Music Bar | 22 hs | Pago | 10 OCT | 55 | Templeton Music Bar | 00 hs | Pago | COPA MUEBLES Y SILLONES .COM | Links Pinamar Golf | 7 hs | Pago | LA SALLE | Capilla Santa Teresa de Jesús | 16 hs | Pago | AYRES DE AMOR Y MUERTE | Casa Melfi | 17 hs | Pago | TRES TIEMPOS DE NATURALEZA | Ranch House Cariló | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/festival-cine-de-terror-en-el-bosque/",
     "detalle": "El 10 y 11 de octubre, desde las 19 h, Pinamar vuelve a convertirse en escenario de una propuesta que combina cine, música, experiencias inmersivas y actividades para toda la familia. Además, el domingo habrá una propuesta especial en el Centro de Innovación. El Festival de Cine de Terror en el Bosque prepara una nueva edición con entrada libre y gratuita en el Auditorio Piña, ubicado en Av. Bunge y Camino de los Pioneros. Durante las dos jornadas habrá proyecciones, personajes interactivos y cosplayers, maquillaje FX, puntos fotográficos, patio gastronómico, paseo de emprendedores, DJs en vivo y una experiencia inmersiva a cargo de UADE, de 19 a 22 h. Este año se contará con la colaboración del festival Buenos Aires Rojo Sangre (BARS), el evento de cine de terror, fantasía y bizarro más importante de Argentina y Latinoamérica. El BARS llega a Pinamar con la presencia de referentes y una selección de cortometrajes y largometrajes premiados de su última edición. Por otro lado, la programación de este año también incluye la serie animada infantil “Cuentos de Terror para Franco” de Elian Guerin, realizada en 2022 y basada en los libros de cuentos de Hugo Mitoire que explora las leyendas, mitos y relatos del Nordeste argentino. Su productor también asistirá al Festival. Además, el domingo 11 a las 21 h se realizará el concurso de disfraces, con premios de Telpin. Desde su creación en 2018, el Festival de Cine de Terror en el Bosque se consolidó como una propuesta cultural que fortalece la identidad de Pinamar, promueve el turismo cultural y genera un espacio para la producción audiovisual y el desarrollo de artistas y emprendedores locales. En esta edición, el Festival fue declarado de interés por la Honorable Cámara de Diputados de la Nación, en reconocimiento a su aporte a la cultura local y regional. CRONOGRAMA SÁBADO 10 DE OCTUBRE Desde las 19 h | Auditorio Piña Durante toda la jornada habrá DJ en vivo, patio gastronómico, paseo de emprendedores, maquillaje FX, puntos fotográficos y una experiencia inmersiva a cargo de UADE, de 19 a 22 h. FRANJA INFANTIL | 19 A 22 H 19:15 h | Cuentos de terror para Franco Elian Guerin | 60 min | 2022 | Argentina Incluye las historias: La luz mala, El Pomberito, El fantasma de la panadería, El espantapájaros y El sonámbulo y la muerte. 20:30 h | El cadáver de la novia Tim Burton | 75 min | 2005 | EEUU AUDITORIO PIÑA | 19:30 h | Ceremonia de Apertura del Festival BLOQUE BARS 19:40 h | El Susurro Gustavo Hernández | 100 min | Uruguay-Argentina | BARS Mejor Largometraje y Mejor Director en la última edición del BARS. Mención especial a Mejor Actor para Marcelo Michinaux."
   },
@@ -337,7 +319,7 @@
     "fecha": "21 NOV",
     "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "28 OCT | PINAMAR REVELADO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   }
