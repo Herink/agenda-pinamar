@@ -45,6 +45,15 @@
     "detalle": "En octubre, el Cine Club propone dos viernes para encontrarnos con el terror y el suspenso. Nosotros (2019) Viernes 3/10 · 19 hs Una familia se va de vacaciones buscando unos días de descanso, pero la llegada de unos misteriosos visitantes convierte la noche en una pesadilla. Una película de Jordan Peele sobre identidad, miedo y aquello que preferimos no mirar. Habitación 1408 (2007) Viernes 17/10 · 19 hs Un escritor especializado en fenómenos paranormales decide pasar la noche en una habitación de hotel sobre la que pesan numerosas historias. Lo que encuentra allí pondrá a prueba su propia percepción de la realidad. Biblioteca Popular Manuel Belgrano De las Medusas 1230 · Pinamar Entrada libre y gratuita"
   },
   {
+    "titulo": "NAVRATRI DIOSA DE LA INDIA",
+    "fecha": "16 OCT",
+    "horario": "20 hs",
+    "imagen": "imagenes/navratri-diosa-de-la-india.jpeg",
+    "descripcion": "Teatro de la Torre | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/navratri-diosa-de-la-india/",
+    "detalle": "¿Y si pudieras viajar a la India sin salir de Pinamar? Este viernes 16 de octubre, el Teatro de la Torre se transforma en un escenario de danza, música, imágenes y espiritualidad de la India. NAVRATRI · DIOSAS DE LA INDIA Espectáculo audiovisual + danza BharataNatyam La danza de los templos del sur de la India. Una experiencia para descubrir el universo de Kali, Durga, Lakshmi y Saraswati y recorrer, a través del arte, un antiguo camino de purificación, transformación, abundancia y sabiduría. 9 noches. 3 grandes energías. Un viaje hacia el interior. Teatro de la Torre · Pinamar Viernes 16/10 20 hs Entrada: $20.000 Jubilados y menores: $13.000 Una noche para viajar a la India desde las butacas del teatro. Reservá tu entrada y vení a vivir esta experiencia única de arte y cultura milenaria. LINK a whatsapp para INFO Y ENTRADAS https://wa.link/efkl6y Realización: Centro DurgaMa IG https://www.instagram.com/durgama.argentina?stkn=MTIzeTg0NWozdzEyeg=="
+  },
+  {
     "titulo": "LUCHO CIGANDA",
     "fecha": "16 OCT",
     "horario": "21:30 hs",
@@ -163,11 +172,20 @@
   },
   {
     "titulo": "TORNEO SEVEN PINAMAR",
-    "fecha": "21 NOV",
-    "horario": "A confirmar",
+    "fecha": "9 MAY",
+    "horario": "9 hs",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
+    "descripcion": "31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
+  },
+  {
+    "titulo": "COPA CHAMPIONS PINAMAR",
+    "fecha": "9 MAY",
+    "horario": "9 hs",
+    "imagen": "imagenes/copa-champions-pinamar.jpeg",
+    "descripcion": "Polideportivo Municipal | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/copa-champions-pinamar/",
+    "detalle": "Escuela de Taekwondo América Latina Torneo abierto de Artes Marciales y Deportes de Contacto Full Contact Kickboxing Pelea por títulos Contacto: 2254 594814"
   }
 ]
