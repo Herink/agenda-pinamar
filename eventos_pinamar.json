@@ -1,23 +1,5 @@
 [
   {
-    "titulo": "FRANCAIS EN CHANSONS",
-    "fecha": "14 OCT",
-    "horario": "10:30 hs",
-    "imagen": "imagenes/francais-en-chansons-2.png",
-    "descripcion": "Montfleuri-Sur-Mer Casa de Artistas | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/francais-en-chansons-2/",
-    "detalle": "Actividad gratuita Coordina Daniel Deybe Montfleuri-Sur-Mer Casa de Artistas De la Foca 948 Pinamar"
-  },
-  {
-    "titulo": "DE MAR Y CAMPO",
-    "fecha": "14 OCT",
-    "horario": "19 hs",
-    "imagen": "imagenes/de-mar-y-campo.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/de-mar-y-campo/",
-    "detalle": "Muestra de arte en la Biblio De Mar y Campo, es la muestra de Carolina Castillo, quien lleva adelante su casa de Artistas: Caro de Mar. Carolina comenzó en el arte desde joven vinculada al laboratorio de fotografía y diseño gráfico de su familia, incursionando luego en pintura, acuarela, acrílico, técnica mixta y el uso de materiales reutilizados. Una invitación a recorrer su mirada sobre los paisajes que nos rodean. Inauguración: miércoles 14/10 · 19 hs De las Medusas 1230, Pinamar Muestra: del 14 al 24 de octubre Entrada libre y gratuita."
-  },
-  {
     "titulo": "GUERNICAS DE A PIE",
     "fecha": "15 OCT",
     "horario": "19 hs",
@@ -45,6 +27,15 @@
     "detalle": "En octubre, el Cine Club propone dos viernes para encontrarnos con el terror y el suspenso. Nosotros (2019) Viernes 3/10 · 19 hs Una familia se va de vacaciones buscando unos días de descanso, pero la llegada de unos misteriosos visitantes convierte la noche en una pesadilla. Una película de Jordan Peele sobre identidad, miedo y aquello que preferimos no mirar. Habitación 1408 (2007) Viernes 17/10 · 19 hs Un escritor especializado en fenómenos paranormales decide pasar la noche en una habitación de hotel sobre la que pesan numerosas historias. Lo que encuentra allí pondrá a prueba su propia percepción de la realidad. Biblioteca Popular Manuel Belgrano De las Medusas 1230 · Pinamar Entrada libre y gratuita"
   },
   {
+    "titulo": "CLUB DE LA PREGUNTA",
+    "fecha": "16 OCT",
+    "horario": "18 hs",
+    "imagen": "imagenes/club-de-la-pregunta.jpeg",
+    "descripcion": "Templeton Music Bar | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/club-de-la-pregunta/",
+    "detalle": "Y si nos preguntamos de nuevo? Entrevistas en vivo, historias emprendedoras y nuevas preguntas para desafiar las respuestas de siempre. Un encuentro para pensar juntos y descubrir otras formas de encarar lo que hacemos. Una invitación a escuchar, disfrutar y llevarte una pregunta que siga con vos. Fecha: viernes 16 de octubre Horario: de 18:00 a 21:00 h Lugar: Templeton, Cariló Cupos limitados Inscripción: @la.ufe_ El poder de una pregunta crece cuando se comparte menos"
+  },
+  {
     "titulo": "NAVRATRI DIOSA DE LA INDIA",
     "fecha": "16 OCT",
     "horario": "20 hs",
@@ -63,6 +54,15 @@
     "detalle": "Reservas 2254 624123"
   },
   {
+    "titulo": "RAÍCES MERCADO REGIONAL",
+    "fecha": "17 OCT",
+    "horario": "11 hs",
+    "imagen": "imagenes/raices-mercado-regional.jpeg",
+    "descripcion": "Av. Intermedanos y Jason | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/raices-mercado-regional/",
+    "detalle": "CONCURSO DE ALFAJORES REGIONALES El sábado 17 de octubre llega la 9ª edición de Raíces, mercado regional, un encuentro que reúne producción, gastronomía, artesanías y propuestas de emprendedores de Pinamar y distintas localidades de la región. La jornada comenzará a las 11hs en Av. Intermédanos entre Jason y Rivadavia, donde más de 70 productores y emprendedores ofrecerán alimentos, objetos y productos que reflejan la identidad y el trabajo de la región. Esta edición tendrá además un atractivo especial: será una edición dedicada a los alfajores, con degustaciones y un concurso que permitirá conocer y disfrutar distintas propuestas. Además de los stands, durante la jornada habrá música en vivo, talleres, charlas y actividades para toda la familia, en un encuentro que busca reunir en un mismo lugar los sabores, los objetos y las historias que nacen entre el mar, el campo y el bosque. La propuesta es también una oportunidad para conocer nuevos emprendimientos, comprar producción local y acompañar a quienes todos los días ponen su trabajo en lo que hacen. Raíces, mercado regional. Una jornada para encontrarnos, conocer lo que se produce cerca y seguir construyendo comunidad alrededor de la producción local. Sábado 17 de octubre Desde las 11 h Av. Intermédanos entre Jason y Rivadavia Entrada libre En caso de condiciones climáticas adversas, la actividad será reprogramada. CRONOGRAMA 11.00 hs: Apertura del evento 13.00 hs: Master Class de UADE: “Alfajores a la UADE” 14.30 hs: Concurso del Alfajor Regional: Sabor y Equilibro. Doble Premiación. Degustación a ciegas, evaluación y puntuación por Jurado Seleccionado y Publico. 15.30 hs: Música en vivo – Aqui Nico 16.30 hs: Premiación 17.00 hs: Fin evento Hay foodtrucks y juegos inflables"
+  },
+  {
     "titulo": "KARATE",
     "fecha": "17 OCT",
     "horario": "9 hs",
@@ -79,6 +79,15 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/esa-espina-en-el-centro-de-las-cosas/",
     "detalle": "Tenemos la alegría de invitarlos a descubrir “Esa espina en el centro de las cosas”, la obra de cuentos breves de Eliana M. Shapasnikoff. Como adelanta Giovanna Rivero en su contratapa, estos relatos nos invitan a mirar la existencia a través de la extrañeza, la bruma del recuerdo, el mar y el bosque. Son personajes y momentos suspendidos donde «bastaría retirar una pieza para que la verdad o la culpa se desvanezcan». Eliana nació en San Rafael (Mendoza) pero hoy elige Pinamar como su hogar. Es la creadora de EliMSha Mar y Letras y una pieza fundamental de nuestra Biblioteca Popular Manuel Belgrano, donde desarrolla actividades vinculadas al arte y la literatura. Acompañan: Gabriela Galar y Matías Reck y Laura Bitto de la editorial Milena Caserola Sábado 17 de octubre a las 19:30 hs. De las Medusas 1230, Pinamar. Entrada libre y gratuita. ¡Sumate a apoyar a los escritores de nuestra comunidad!"
+  },
+  {
+    "titulo": "ROCA Y GIRO",
+    "fecha": "17 OCT",
+    "horario": "00 hs",
+    "imagen": "imagenes/roca-y-giro.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/roca-y-giro/",
+    "detalle": "Tributo a The Rolling Stones Ingreso por orden de llegada 23:30 hs Boyero 1498. Feria del Bosque. Cariló"
   },
   {
     "titulo": "MIRACINE",
@@ -126,6 +135,24 @@
     "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
   },
   {
+    "titulo": "PINAMAR REVELADO",
+    "fecha": "28 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/pinamar-revelado.jpeg",
+    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/pinamar-revelado/",
+    "detalle": "¿Cómo es Pinamar para vos? A partir de esta pregunta, el Club de Fotografía Pinamar reúne distintas miradas sobre nuestra ciudad: personas, paisajes, rincones, costumbres y escenas de todos los días. Una muestra colectiva que busca construir, a través de la fotografía, un retrato de Pinamar hecho de muchas miradas. El Club nació este año y reúne a pinamarenses apasionados por la fotografía, con cámara o celular, compartiendo experiencias y formas de mirar. Inauguración: miércoles 28/10 · 19 hs Del 28/10 al 14/11 De las Medusas 1230, Pinamar Entrada libre y gratuita."
+  },
+  {
+    "titulo": "MIRACINE",
+    "fecha": "29 OCT",
+    "horario": "20 hs",
+    "imagen": "imagenes/miracine-3.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/miracine-3/",
+    "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
+  },
+  {
     "titulo": "EQUIPAMIENTO + SERVICIOS",
     "fecha": "31 OCT",
     "horario": "14 hs",
@@ -153,6 +180,15 @@
     "detalle": "Una propuesta que cruza música en vivo y artes visuales en una misma experiencia: fotografía, luz líquida, proyecciones, VJ, videoclips y otras formas de creación audiovisual. El encuentro fue gestado por Marcela Viciano, Lola Visuales, Julia Álvarez y Mayco Epic, artistas y productoras culturales que buscan generar un espacio de encuentro para artistas locales, regionales e internacionales y seguir ampliándolo con talleres, clases y seminarios. ESPECTRA: Canciones de autora & Luz líquida @marviciano @lolavisuales JULIA ALVAREZ: @queeseltiempo SONAMOS LUZ: @maycoepic + @lolavisuales Sábado 31/10 · 19 hs Biblioteca Popular Manuel Belgrano — De las Medusas 1230, Pinamar Entrada general $10.000 · Socios $8.000"
   },
   {
+    "titulo": "7º CONCIERTO PARA PERROS",
+    "fecha": "7 NOV",
+    "horario": "",
+    "imagen": "imagenes/7o-concierto-para-perros.jpeg",
+    "descripcion": "Fuegos | 15 hs. | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/7o-concierto-para-perros/",
+    "detalle": "Mascotas con collar y correa Música en vivo: Violín y Guitarra Fuegos Resto & Bar Av. Bunge 324"
+  },
+  {
     "titulo": "TORNEO SEVEN",
     "fecha": "22 NOV",
     "horario": "A confirmar",
@@ -175,7 +211,7 @@
     "fecha": "9 MAY",
     "horario": "9 hs",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "descripcion": "28 OCT | PINAMAR REVELADO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   },
