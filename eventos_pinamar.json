@@ -1,23 +1,5 @@
 [
   {
-    "titulo": "GUERNICAS DE A PIE",
-    "fecha": "15 OCT",
-    "horario": "19 hs",
-    "imagen": "imagenes/guernicas-de-a-pie.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/guernicas-de-a-pie/",
-    "detalle": "Biblioteca Popular Manuel Belgrano 15 OCT 19 hs Libre y gratuito CHARLA | Guernicas del lado de acá Itinerancias y resignificaciones del cuadro de Picasso en Argentina Una charla que propone recorrer las distintas representaciones de Guernica, la obra de Pablo Picasso, en diferentes soportes, espacios y geografías de nuestro país, y las nuevas significaciones que fue adquiriendo a lo largo del tiempo. La actividad será también la presentación del último libro de la Dra. Raquel Macciuci, Doctora en Letras por la Universidad Complutense de Madrid y docente emérita de la Universidad Nacional de La Plata. Jueves 15/10 · 19 hs De las Medusas 1230, Pinamar Actividad gratuita"
-  },
-  {
-    "titulo": "MIRACINE",
-    "fecha": "15 OCT",
-    "horario": "20 hs",
-    "imagen": "imagenes/miracine-4.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-4/",
-    "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
-  },
-  {
     "titulo": "CINE CLUB",
     "fecha": "16 OCT",
     "horario": "19 hs",
@@ -54,6 +36,24 @@
     "detalle": "Reservas 2254 624123"
   },
   {
+    "titulo": "VANNE DC",
+    "fecha": "16 OCT",
+    "horario": "22 hs",
+    "imagen": "imagenes/vanne-dc.jpeg",
+    "descripcion": "El Atelier | A la gorra",
+    "url_evento": "https://agenda.pinamar.gob.ar/vanne-dc/",
+    "detalle": "Show en vivo Una noche con canciones & música para compartir Gastronomía de excelencia boutique Vinos de extrema altura Reservá tu lugar El Atelier Azopardo 150. Valeria del Mar"
+  },
+  {
+    "titulo": "VINTAGE COVERS",
+    "fecha": "16 OCT",
+    "horario": "22 hs",
+    "imagen": "imagenes/vintage-covers.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/vintage-covers/",
+    "detalle": "Entradas anticipadas: 2267 676400 Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló"
+  },
+  {
     "titulo": "RAÍCES MERCADO REGIONAL",
     "fecha": "17 OCT",
     "horario": "11 hs",
@@ -79,6 +79,24 @@
     "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/esa-espina-en-el-centro-de-las-cosas/",
     "detalle": "Tenemos la alegría de invitarlos a descubrir “Esa espina en el centro de las cosas”, la obra de cuentos breves de Eliana M. Shapasnikoff. Como adelanta Giovanna Rivero en su contratapa, estos relatos nos invitan a mirar la existencia a través de la extrañeza, la bruma del recuerdo, el mar y el bosque. Son personajes y momentos suspendidos donde «bastaría retirar una pieza para que la verdad o la culpa se desvanezcan». Eliana nació en San Rafael (Mendoza) pero hoy elige Pinamar como su hogar. Es la creadora de EliMSha Mar y Letras y una pieza fundamental de nuestra Biblioteca Popular Manuel Belgrano, donde desarrolla actividades vinculadas al arte y la literatura. Acompañan: Gabriela Galar y Matías Reck y Laura Bitto de la editorial Milena Caserola Sábado 17 de octubre a las 19:30 hs. De las Medusas 1230, Pinamar. Entrada libre y gratuita. ¡Sumate a apoyar a los escritores de nuestra comunidad!"
+  },
+  {
+    "titulo": "EL HUMOR SALVA",
+    "fecha": "17 OCT",
+    "horario": "20:30 hs",
+    "imagen": "imagenes/el-humor-salva.jpeg",
+    "descripcion": "Tamir Cervecería | A la gorra",
+    "url_evento": "https://agenda.pinamar.gob.ar/el-humor-salva/",
+    "detalle": "En esta oportunidad estarán: «LA LUNA» Leandra De Filippis «MAMITA QUERIDA» Dario Ían Bas «SECRETO EN LA CHOCOTORTA» Darío Ían Bas & Leandra De Filippis (versión de las fabricantes de tortas) 1 hora en una noche con todo el Espíritu de Alejandro Urdapilleta y del ParaKultural. Sábado 17 de octubre a las 20:30 A LA GORRA TAMIR – Jason 523 pinamar POR SER UN DIA ANTES DEL DIA DE LA MADRE, SE SORTEARÁ UN CUADRO QUE DONO LA ARTISTA VISUAL @lmsciarrotta No te quedes afuera, reservas al 1128684418"
+  },
+  {
+    "titulo": "UNA MANTECA",
+    "fecha": "17 OCT",
+    "horario": "22 hs",
+    "imagen": "imagenes/una-manteca.jpeg",
+    "descripcion": "Templeton Music Bar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/una-manteca/",
+    "detalle": "Entradas anticipadas: 2267 676400 Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló"
   },
   {
     "titulo": "ROCA Y GIRO",
@@ -115,24 +133,6 @@
     "descripcion": "El Ojo y el Diamante | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/encuentro-coral/",
     "detalle": "Grupo Vocal Antruejo Dir: Ulises Zamudio Coro de Pinamar Dir: Celeste Durando El Ojo y el Diamante Somellera 79 Valeria del Mar"
-  },
-  {
-    "titulo": "PINAMAR REVELADO",
-    "fecha": "28 OCT",
-    "horario": "19 hs",
-    "imagen": "imagenes/pinamar-revelado.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/pinamar-revelado/",
-    "detalle": "¿Cómo es Pinamar para vos? A partir de esta pregunta, el Club de Fotografía Pinamar reúne distintas miradas sobre nuestra ciudad: personas, paisajes, rincones, costumbres y escenas de todos los días. Una muestra colectiva que busca construir, a través de la fotografía, un retrato de Pinamar hecho de muchas miradas. El Club nació este año y reúne a pinamarenses apasionados por la fotografía, con cámara o celular, compartiendo experiencias y formas de mirar. Inauguración: miércoles 28/10 · 19 hs Del 28/10 al 14/11 De las Medusas 1230, Pinamar Entrada libre y gratuita."
-  },
-  {
-    "titulo": "MIRACINE",
-    "fecha": "29 OCT",
-    "horario": "20 hs",
-    "imagen": "imagenes/miracine-3.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/miracine-3/",
-    "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
   },
   {
     "titulo": "PINAMAR REVELADO",
