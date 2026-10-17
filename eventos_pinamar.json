@@ -1,59 +1,5 @@
 [
   {
-    "titulo": "CINE CLUB",
-    "fecha": "16 OCT",
-    "horario": "19 hs",
-    "imagen": "imagenes/cine-club.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/cine-club/",
-    "detalle": "En octubre, el Cine Club propone dos viernes para encontrarnos con el terror y el suspenso. Nosotros (2019) Viernes 3/10 · 19 hs Una familia se va de vacaciones buscando unos días de descanso, pero la llegada de unos misteriosos visitantes convierte la noche en una pesadilla. Una película de Jordan Peele sobre identidad, miedo y aquello que preferimos no mirar. Habitación 1408 (2007) Viernes 17/10 · 19 hs Un escritor especializado en fenómenos paranormales decide pasar la noche en una habitación de hotel sobre la que pesan numerosas historias. Lo que encuentra allí pondrá a prueba su propia percepción de la realidad. Biblioteca Popular Manuel Belgrano De las Medusas 1230 · Pinamar Entrada libre y gratuita"
-  },
-  {
-    "titulo": "CLUB DE LA PREGUNTA",
-    "fecha": "16 OCT",
-    "horario": "18 hs",
-    "imagen": "imagenes/club-de-la-pregunta.jpeg",
-    "descripcion": "Templeton Music Bar | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/club-de-la-pregunta/",
-    "detalle": "Y si nos preguntamos de nuevo? Entrevistas en vivo, historias emprendedoras y nuevas preguntas para desafiar las respuestas de siempre. Un encuentro para pensar juntos y descubrir otras formas de encarar lo que hacemos. Una invitación a escuchar, disfrutar y llevarte una pregunta que siga con vos. Fecha: viernes 16 de octubre Horario: de 18:00 a 21:00 h Lugar: Templeton, Cariló Cupos limitados Inscripción: @la.ufe_ El poder de una pregunta crece cuando se comparte menos"
-  },
-  {
-    "titulo": "NAVRATRI DIOSA DE LA INDIA",
-    "fecha": "16 OCT",
-    "horario": "20 hs",
-    "imagen": "imagenes/navratri-diosa-de-la-india.jpeg",
-    "descripcion": "Teatro de la Torre | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/navratri-diosa-de-la-india/",
-    "detalle": "¿Y si pudieras viajar a la India sin salir de Pinamar? Este viernes 16 de octubre, el Teatro de la Torre se transforma en un escenario de danza, música, imágenes y espiritualidad de la India. NAVRATRI · DIOSAS DE LA INDIA Espectáculo audiovisual + danza BharataNatyam La danza de los templos del sur de la India. Una experiencia para descubrir el universo de Kali, Durga, Lakshmi y Saraswati y recorrer, a través del arte, un antiguo camino de purificación, transformación, abundancia y sabiduría. 9 noches. 3 grandes energías. Un viaje hacia el interior. Teatro de la Torre · Pinamar Viernes 16/10 20 hs Entrada: $20.000 Jubilados y menores: $13.000 Una noche para viajar a la India desde las butacas del teatro. Reservá tu entrada y vení a vivir esta experiencia única de arte y cultura milenaria. LINK a whatsapp para INFO Y ENTRADAS https://wa.link/efkl6y Realización: Centro DurgaMa IG https://www.instagram.com/durgama.argentina?stkn=MTIzeTg0NWozdzEyeg=="
-  },
-  {
-    "titulo": "LUCHO CIGANDA",
-    "fecha": "16 OCT",
-    "horario": "21:30 hs",
-    "imagen": "imagenes/lucho-ciganda.jpeg",
-    "descripcion": "Refugio Pinamar | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/lucho-ciganda/",
-    "detalle": "Reservas 2254 624123"
-  },
-  {
-    "titulo": "VANNE DC",
-    "fecha": "16 OCT",
-    "horario": "22 hs",
-    "imagen": "imagenes/vanne-dc.jpeg",
-    "descripcion": "El Atelier | A la gorra",
-    "url_evento": "https://agenda.pinamar.gob.ar/vanne-dc/",
-    "detalle": "Show en vivo Una noche con canciones & música para compartir Gastronomía de excelencia boutique Vinos de extrema altura Reservá tu lugar El Atelier Azopardo 150. Valeria del Mar"
-  },
-  {
-    "titulo": "VINTAGE COVERS",
-    "fecha": "16 OCT",
-    "horario": "22 hs",
-    "imagen": "imagenes/vintage-covers.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/vintage-covers/",
-    "detalle": "Entradas anticipadas: 2267 676400 Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló"
-  },
-  {
     "titulo": "RAÍCES MERCADO REGIONAL",
     "fecha": "17 OCT",
     "horario": "11 hs",
@@ -135,6 +81,15 @@
     "detalle": "Grupo Vocal Antruejo Dir: Ulises Zamudio Coro de Pinamar Dir: Celeste Durando El Ojo y el Diamante Somellera 79 Valeria del Mar"
   },
   {
+    "titulo": "MAQUINA ARGENTINA DE DANZA (MAD)",
+    "fecha": "24 OCT",
+    "horario": "21 hs",
+    "imagen": "imagenes/maquina-argentina-de-danza-mad.jpeg",
+    "descripcion": "Centro Cultural Ostende | Teatro de la Torre | 10:30 hs | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/maquina-argentina-de-danza-mad/",
+    "detalle": "«Masterclass intensiva junto a Ricky Pashkus» Fecha: 24 de octubre Hora: 10:30 hs Lugar: Centro Cultural de Ostende (Gaona y Mons) «Algoritmo» Fecha: 24 de octubre Hora: 21 hs Lugar: Teatro de la Torre ¿Quiénes pueden participar de la masterclass? Destinada a bailarines mayores de 14 años (los niños y adolescentes de entre 9 y 14 años podrán sumarse sólo si estudian danza o teatro). Será una experiencia de la que pueden participar artistas de todos los niveles (inicial, intermedio y avanzado) en la que se compartirán contenidos teóricos y prácticos. La misma será gratuita siendo el único requisito, completar este formulario. Ricky Pashkus, llegará a Pinamar para presentar – como director- «Algoritmo», la primera producción artística de MAD, Máquina Argentina de Danza, proyecto impulsado por la Secretaría de Cultura de la Nación. Eso sucederá el 24 de octubre a las 21 horas en el Teatro de la Torre, con entrada libre y gratuita. El afamado director, coreógrafo y referente histórico del teatro musical argentino realizó más de veinte espectáculos en el Teatro Maipo, producidos por Lino Patalano, con Enrique Pinti y Eleonora Cassano. Estuvo asociado con Julio Bocca y es director emérito de la Fundación Julio Bocca que crearon juntos. Con Julio Chávez fundó, treinta años atrás, un proyecto educativo de formación teatral y danza enfocado en el teatro musical. Tiene su escuela, el Instituto Argentino de Musicales, que dirige junto con Fernando Dente. También creó, con el coreógrafo estadounidense Chet Walker, las becas PashWalk, para estimular los proyectos de acción teatral y proporcionar vivienda y viáticos a los artistas del interior. En la actualidad está al frente del proyecto Maquina Argentina de la Danza, una compañía federal creada por la Secretaría de Cultura de la Nación que cuenta con su dirección general. Teniendo en cuenta la trayectoria de Ricky- y todo lo que su presencia puede aportar a los bailarines y actores de nuestra comunidad- desde la Dirección de Cultura de la Municipalidad de Pinamar impulsamos esta masterclass intensiva que sabemos será muy significativa para nuestros artistas. Formulario de inscripción a la Masterclass:"
+  },
+  {
     "titulo": "PINAMAR REVELADO",
     "fecha": "28 OCT",
     "horario": "19 hs",
@@ -211,7 +166,7 @@
     "fecha": "9 MAY",
     "horario": "9 hs",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "28 OCT | PINAMAR REVELADO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "descripcion": "7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   },
