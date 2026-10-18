@@ -1,59 +1,5 @@
 [
   {
-    "titulo": "RAÍCES MERCADO REGIONAL",
-    "fecha": "17 OCT",
-    "horario": "11 hs",
-    "imagen": "imagenes/raices-mercado-regional.jpeg",
-    "descripcion": "Av. Intermedanos y Jason | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/raices-mercado-regional/",
-    "detalle": "CONCURSO DE ALFAJORES REGIONALES El sábado 17 de octubre llega la 9ª edición de Raíces, mercado regional, un encuentro que reúne producción, gastronomía, artesanías y propuestas de emprendedores de Pinamar y distintas localidades de la región. La jornada comenzará a las 11hs en Av. Intermédanos entre Jason y Rivadavia, donde más de 70 productores y emprendedores ofrecerán alimentos, objetos y productos que reflejan la identidad y el trabajo de la región. Esta edición tendrá además un atractivo especial: será una edición dedicada a los alfajores, con degustaciones y un concurso que permitirá conocer y disfrutar distintas propuestas. Además de los stands, durante la jornada habrá música en vivo, talleres, charlas y actividades para toda la familia, en un encuentro que busca reunir en un mismo lugar los sabores, los objetos y las historias que nacen entre el mar, el campo y el bosque. La propuesta es también una oportunidad para conocer nuevos emprendimientos, comprar producción local y acompañar a quienes todos los días ponen su trabajo en lo que hacen. Raíces, mercado regional. Una jornada para encontrarnos, conocer lo que se produce cerca y seguir construyendo comunidad alrededor de la producción local. Sábado 17 de octubre Desde las 11 h Av. Intermédanos entre Jason y Rivadavia Entrada libre En caso de condiciones climáticas adversas, la actividad será reprogramada. CRONOGRAMA 11.00 hs: Apertura del evento 13.00 hs: Master Class de UADE: “Alfajores a la UADE” 14.30 hs: Concurso del Alfajor Regional: Sabor y Equilibro. Doble Premiación. Degustación a ciegas, evaluación y puntuación por Jurado Seleccionado y Publico. 15.30 hs: Música en vivo – Aqui Nico 16.30 hs: Premiación 17.00 hs: Fin evento Hay foodtrucks y juegos inflables"
-  },
-  {
-    "titulo": "KARATE",
-    "fecha": "17 OCT",
-    "horario": "9 hs",
-    "imagen": "imagenes/karate.jpeg",
-    "descripcion": "Polideportivo Municipal | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/karate/",
-    "detalle": "3º Fecha Liga Regional de Karate Polideportivo Municipal de Pinamar Av. Intermedanos 211"
-  },
-  {
-    "titulo": "ESA ESPINA EN EL CENTRO DE LAS COSAS",
-    "fecha": "17 OCT",
-    "horario": "19:30 hs",
-    "imagen": "imagenes/esa-espina-en-el-centro-de-las-cosas.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/esa-espina-en-el-centro-de-las-cosas/",
-    "detalle": "Tenemos la alegría de invitarlos a descubrir “Esa espina en el centro de las cosas”, la obra de cuentos breves de Eliana M. Shapasnikoff. Como adelanta Giovanna Rivero en su contratapa, estos relatos nos invitan a mirar la existencia a través de la extrañeza, la bruma del recuerdo, el mar y el bosque. Son personajes y momentos suspendidos donde «bastaría retirar una pieza para que la verdad o la culpa se desvanezcan». Eliana nació en San Rafael (Mendoza) pero hoy elige Pinamar como su hogar. Es la creadora de EliMSha Mar y Letras y una pieza fundamental de nuestra Biblioteca Popular Manuel Belgrano, donde desarrolla actividades vinculadas al arte y la literatura. Acompañan: Gabriela Galar y Matías Reck y Laura Bitto de la editorial Milena Caserola Sábado 17 de octubre a las 19:30 hs. De las Medusas 1230, Pinamar. Entrada libre y gratuita. ¡Sumate a apoyar a los escritores de nuestra comunidad!"
-  },
-  {
-    "titulo": "EL HUMOR SALVA",
-    "fecha": "17 OCT",
-    "horario": "20:30 hs",
-    "imagen": "imagenes/el-humor-salva.jpeg",
-    "descripcion": "Tamir Cervecería | A la gorra",
-    "url_evento": "https://agenda.pinamar.gob.ar/el-humor-salva/",
-    "detalle": "En esta oportunidad estarán: «LA LUNA» Leandra De Filippis «MAMITA QUERIDA» Dario Ían Bas «SECRETO EN LA CHOCOTORTA» Darío Ían Bas & Leandra De Filippis (versión de las fabricantes de tortas) 1 hora en una noche con todo el Espíritu de Alejandro Urdapilleta y del ParaKultural. Sábado 17 de octubre a las 20:30 A LA GORRA TAMIR – Jason 523 pinamar POR SER UN DIA ANTES DEL DIA DE LA MADRE, SE SORTEARÁ UN CUADRO QUE DONO LA ARTISTA VISUAL @lmsciarrotta No te quedes afuera, reservas al 1128684418"
-  },
-  {
-    "titulo": "UNA MANTECA",
-    "fecha": "17 OCT",
-    "horario": "22 hs",
-    "imagen": "imagenes/una-manteca.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/una-manteca/",
-    "detalle": "Entradas anticipadas: 2267 676400 Templeton Music Bar Boyero 1498. Feria del Bosque. Cariló"
-  },
-  {
-    "titulo": "ROCA Y GIRO",
-    "fecha": "17 OCT",
-    "horario": "00 hs",
-    "imagen": "imagenes/roca-y-giro.jpeg",
-    "descripcion": "Templeton Music Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/roca-y-giro/",
-    "detalle": "Tributo a The Rolling Stones Ingreso por orden de llegada 23:30 hs Boyero 1498. Feria del Bosque. Cariló"
-  },
-  {
     "titulo": "MIRACINE",
     "fecha": "22 OCT",
     "horario": "20 hs",
@@ -166,7 +112,7 @@
     "fecha": "9 MAY",
     "horario": "9 hs",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "descripcion": "22 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 23 OCT | BUENAS OLAS IN CONCERT | Biblioteca Popular Manuel Belgrano | 20 hs | Pago | 24 OCT | ENCUENTRO CORAL | El Ojo y el Diamante | 19 hs | Pago | 24 OCT | MAQUINA ARGENTINA DE DANZA (MAD) | Centro Cultural Ostende | Teatro de la Torre | 10:30 hs | 21 hs | Libre y gratuito | 28 OCT | PINAMAR REVELADO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   },
