@@ -18,6 +18,15 @@
     "detalle": "Una noche de música de cuerdas con Buenas Olas, un proyecto musical de Pinamar con una larga trayectoria en la escena local. Un recorrido por canciones y clásicos de distintos estilos, llevados a una formación de cuerdas con una mirada propia. Viernes 23/10 · 20 hs De las Medusas 1230, Pinamar Entrada general $10.000 Socios $8.000"
   },
   {
+    "titulo": "EL BARCETE CLUB DO SAMBA",
+    "fecha": "23 OCT",
+    "horario": "20:30 hs",
+    "imagen": "imagenes/el-barcete-club-do-samba.jpeg",
+    "descripcion": "El Refugio Pinamar | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/el-barcete-club-do-samba/",
+    "detalle": "& Choro Pinamar DJ Set 80`s Great Hits Reserva: 2254 624123 El Refugio . Medusas 1475"
+  },
+  {
     "titulo": "ENCUENTRO CORAL",
     "fecha": "24 OCT",
     "horario": "19 hs",
@@ -34,6 +43,15 @@
     "descripcion": "Centro Cultural Ostende | Teatro de la Torre | 10:30 hs | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/maquina-argentina-de-danza-mad/",
     "detalle": "«Masterclass intensiva junto a Ricky Pashkus» Fecha: 24 de octubre Hora: 10:30 hs Lugar: Centro Cultural de Ostende (Gaona y Mons) «Algoritmo» Fecha: 24 de octubre Hora: 21 hs Lugar: Teatro de la Torre ¿Quiénes pueden participar de la masterclass? Destinada a bailarines mayores de 14 años (los niños y adolescentes de entre 9 y 14 años podrán sumarse sólo si estudian danza o teatro). Será una experiencia de la que pueden participar artistas de todos los niveles (inicial, intermedio y avanzado) en la que se compartirán contenidos teóricos y prácticos. La misma será gratuita siendo el único requisito, completar este formulario. Ricky Pashkus, llegará a Pinamar para presentar – como director- «Algoritmo», la primera producción artística de MAD, Máquina Argentina de Danza, proyecto impulsado por la Secretaría de Cultura de la Nación. Eso sucederá el 24 de octubre a las 21 horas en el Teatro de la Torre, con entrada libre y gratuita. El afamado director, coreógrafo y referente histórico del teatro musical argentino realizó más de veinte espectáculos en el Teatro Maipo, producidos por Lino Patalano, con Enrique Pinti y Eleonora Cassano. Estuvo asociado con Julio Bocca y es director emérito de la Fundación Julio Bocca que crearon juntos. Con Julio Chávez fundó, treinta años atrás, un proyecto educativo de formación teatral y danza enfocado en el teatro musical. Tiene su escuela, el Instituto Argentino de Musicales, que dirige junto con Fernando Dente. También creó, con el coreógrafo estadounidense Chet Walker, las becas PashWalk, para estimular los proyectos de acción teatral y proporcionar vivienda y viáticos a los artistas del interior. En la actualidad está al frente del proyecto Maquina Argentina de la Danza, una compañía federal creada por la Secretaría de Cultura de la Nación que cuenta con su dirección general. Teniendo en cuenta la trayectoria de Ricky- y todo lo que su presencia puede aportar a los bailarines y actores de nuestra comunidad- desde la Dirección de Cultura de la Municipalidad de Pinamar impulsamos esta masterclass intensiva que sabemos será muy significativa para nuestros artistas. Formulario de inscripción a la Masterclass:"
+  },
+  {
+    "titulo": "MÚSICA DE CHARLY",
+    "fecha": "24 OCT",
+    "horario": "21 hs",
+    "imagen": "imagenes/musica-de-charly.jpeg",
+    "descripcion": "El Refugio Pinamar | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/musica-de-charly/",
+    "detalle": "Lo mejor de Charly Garcia +DJ Set Rock Nacional Resera:2254 624123 El Refugio Pinamar"
   },
   {
     "titulo": "PINAMAR REVELADO",
@@ -109,10 +127,10 @@
   },
   {
     "titulo": "TORNEO SEVEN PINAMAR",
-    "fecha": "9 MAY",
-    "horario": "9 hs",
+    "fecha": "21 NOV",
+    "horario": "A confirmar",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "22 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 23 OCT | BUENAS OLAS IN CONCERT | Biblioteca Popular Manuel Belgrano | 20 hs | Pago | 24 OCT | ENCUENTRO CORAL | El Ojo y el Diamante | 19 hs | Pago | 24 OCT | MAQUINA ARGENTINA DE DANZA (MAD) | Centro Cultural Ostende | Teatro de la Torre | 10:30 hs | 21 hs | Libre y gratuito | 28 OCT | PINAMAR REVELADO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "descripcion": "22 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 23 OCT | BUENAS OLAS IN CONCERT | Biblioteca Popular Manuel Belgrano | 20 hs | Pago | 23 OCT | EL BARCETE CLUB DO SAMBA | El Refugio Pinamar | 20:30 hs | Libre y gratuito | 24 OCT | ENCUENTRO CORAL | El Ojo y el Diamante | 19 hs | Pago | 24 OCT | MAQUINA ARGENTINA DE DANZA (MAD) | Centro Cultural Ostende | Teatro de la Torre | 10:30 hs | 21 hs | Libre y gratuito | 24 OCT | MÚSICA DE CHARLY | El Refugio Pinamar | 21 hs | Libre y gratuito | 28 OCT | PINAMAR REVELADO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   },
