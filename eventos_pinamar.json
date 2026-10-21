@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "MUJERES Y REALIDADES",
+    "fecha": "22 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/mujeres-y-realidades.jpeg",
+    "descripcion": "Sala Municipal de Exposiciones | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/mujeres-y-realidades/",
+    "detalle": "Rodolfo Caputo Sala Municipal de Exposiciones"
+  },
+  {
     "titulo": "MIRACINE",
     "fecha": "22 OCT",
     "horario": "20 hs",
@@ -7,6 +16,15 @@
     "descripcion": "Teatro de la Torre | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/miracine-2/",
     "detalle": "Y si kafka hiciera cine hoy? Un mundo donde nada es exactamente lo que parece. Donde las reglas cambian, la identidad se desarma y lo absurdo empieza a parecer completamente normal. En octubre, MIRACINE Pinamar y el Goethe-Institut Buenos Aires presentan “Si Kafka hiciera cine hoy…”, un ciclo de cinco películas alemanas contemporáneas que exploran, desde diferentes géneros y miradas, algunas de las obsesiones más kafkianas de nuestro presente: la alienación, el absurdo, la transformación, la paranoia y la pérdida de identidad. Cinco películas para entrar en un universo donde la realidad se vuelve extraña… y quizás demasiado familiar."
+  },
+  {
+    "titulo": "LA VUELTA A MALVINAS",
+    "fecha": "23 OCT",
+    "horario": "19 hs",
+    "imagen": "imagenes/la-vuelta-a-malvinas.jpeg",
+    "descripcion": "Teatro de la Torre | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/la-vuelta-a-malvinas/",
+    "detalle": "EDUARDO CANITROT Veterano de Malvinas Invitación a toda la comunidad"
   },
   {
     "titulo": "BUENAS OLAS IN CONCERT",
@@ -25,6 +43,15 @@
     "descripcion": "El Refugio Pinamar | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/el-barcete-club-do-samba/",
     "detalle": "& Choro Pinamar DJ Set 80`s Great Hits Reserva: 2254 624123 El Refugio . Medusas 1475"
+  },
+  {
+    "titulo": "CALIROX",
+    "fecha": "23 OCT",
+    "horario": "22 hs",
+    "imagen": "imagenes/calirox.jpeg",
+    "descripcion": "Bingo Pinamar | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/calirox/",
+    "detalle": "Bingo Pinamar"
   },
   {
     "titulo": "ENCUENTRO CORAL",
@@ -108,6 +135,33 @@
     "detalle": "Mascotas con collar y correa Música en vivo: Violín y Guitarra Fuegos Resto & Bar Av. Bunge 324"
   },
   {
+    "titulo": "FLIP",
+    "fecha": "9 MAY",
+    "horario": "9 hs",
+    "imagen": "imagenes/flip.jpg",
+    "descripcion": "14 y 15 NOV | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | FESTIVAL DE LA MÚSICA | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/flip/",
+    "detalle": "Viejo Hotel Ostende 14 y 15 NOV A confirmar Libre y gratuito FLIP – Festival de Literatura Infantil El 14 y 15 de noviembre, el Viejo Hotel Ostende será escenario de una nueva edición de FLIP, el Festival de Literatura Infantil. Un encuentro para disfrutar de la literatura, la creatividad y el mundo de los libros con actividades pensadas para chicos y familias."
+  },
+  {
+    "titulo": "FESTIVAL DE LA MÚSICA",
+    "fecha": "9 MAY",
+    "horario": "9 hs",
+    "imagen": "imagenes/festival-de-la-musica.jpg",
+    "descripcion": "14 y 15 NOV | FLIP | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/festival-de-la-musica/",
+    "detalle": "La Piña (Av. Bunge y Blvd. Pioneros) 20 | 21 y 22 NOV 18 hs Libre y gratuito FESTIVAL DE LA MÚSICA: CONVOCATORIA A BANDAS El 20, 21 y 22 de noviembre, la Piña se llena de música, sabores, emprendimientos y encuentros. Desde las 18 h, te esperamos para disfrutar de: Artistas locales y música para todos los gustos Patio gastronómico + food trucks Artesanías y emprendimientos locales Un plan para compartir en familia y con amigos Y si sos artista y querés ser parte del escenario, también hay lugar para vos. Completá el formulario y sumate al cronograma del Festival de la Música: https://forms.cloud.microsoft/ r/jwgZZ8rsQr"
+  },
+  {
+    "titulo": "TORNEO SEVEN PINAMAR",
+    "fecha": "9 MAY",
+    "horario": "9 hs",
+    "imagen": "imagenes/torneo-seven-pinamar.jpeg",
+    "descripcion": "14 y 15 NOV | FLIP | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | FESTIVAL DE LA MÚSICA | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
+    "detalle": "Travelx Max"
+  },
+  {
     "titulo": "TORNEO SEVEN",
     "fecha": "22 NOV",
     "horario": "A confirmar",
@@ -124,15 +178,6 @@
     "descripcion": "COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/copa-jaques-sachetti-copa-mamis-camarones/",
     "detalle": "Ragby +35 Ten Reducido Mamis Hockey Seven @camaronesrhc"
-  },
-  {
-    "titulo": "TORNEO SEVEN PINAMAR",
-    "fecha": "21 NOV",
-    "horario": "A confirmar",
-    "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "22 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 23 OCT | BUENAS OLAS IN CONCERT | Biblioteca Popular Manuel Belgrano | 20 hs | Pago | 23 OCT | EL BARCETE CLUB DO SAMBA | El Refugio Pinamar | 20:30 hs | Libre y gratuito | 24 OCT | ENCUENTRO CORAL | El Ojo y el Diamante | 19 hs | Pago | 24 OCT | MAQUINA ARGENTINA DE DANZA (MAD) | Centro Cultural Ostende | Teatro de la Torre | 10:30 hs | 21 hs | Libre y gratuito | 24 OCT | MÚSICA DE CHARLY | El Refugio Pinamar | 21 hs | Libre y gratuito | 28 OCT | PINAMAR REVELADO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | Pago | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago | 20 al 22 NOV | Polideportivo Pinamar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
-    "detalle": "Travelx Max"
   },
   {
     "titulo": "COPA CHAMPIONS PINAMAR",
