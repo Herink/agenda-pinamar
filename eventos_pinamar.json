@@ -1,68 +1,5 @@
 [
   {
-    "titulo": "LA VUELTA A MALVINAS",
-    "fecha": "23 OCT",
-    "horario": "19 hs",
-    "imagen": "imagenes/la-vuelta-a-malvinas.jpeg",
-    "descripcion": "Teatro de la Torre | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/la-vuelta-a-malvinas/",
-    "detalle": "EDUARDO CANITROT Veterano de Malvinas Invitación a toda la comunidad"
-  },
-  {
-    "titulo": "BUENAS OLAS IN CONCERT",
-    "fecha": "23 OCT",
-    "horario": "20 hs",
-    "imagen": "imagenes/buenas-olas-in-concert.jpeg",
-    "descripcion": "Biblioteca Popular Manuel Belgrano | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/buenas-olas-in-concert/",
-    "detalle": "Una noche de música de cuerdas con Buenas Olas, un proyecto musical de Pinamar con una larga trayectoria en la escena local. Un recorrido por canciones y clásicos de distintos estilos, llevados a una formación de cuerdas con una mirada propia. Viernes 23/10 · 20 hs De las Medusas 1230, Pinamar Entrada general $10.000 Socios $8.000"
-  },
-  {
-    "titulo": "EL BARCETE CLUB DO SAMBA",
-    "fecha": "23 OCT",
-    "horario": "20:30 hs",
-    "imagen": "imagenes/el-barcete-club-do-samba.jpeg",
-    "descripcion": "El Refugio Pinamar | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/el-barcete-club-do-samba/",
-    "detalle": "& Choro Pinamar DJ Set 80`s Great Hits Reserva: 2254 624123 El Refugio . Medusas 1475"
-  },
-  {
-    "titulo": "CALIROX",
-    "fecha": "23 OCT",
-    "horario": "22 hs",
-    "imagen": "imagenes/calirox.jpeg",
-    "descripcion": "Bingo Pinamar | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/calirox/",
-    "detalle": "Bingo Pinamar"
-  },
-  {
-    "titulo": "LSM",
-    "fecha": "23 OCT",
-    "horario": "22 hs",
-    "imagen": "imagenes/lsm.jpeg",
-    "descripcion": "Templeton Music Bar | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/lsm/",
-    "detalle": "LA SINGLE MALT Canciones Espirituosas"
-  },
-  {
-    "titulo": "VIEJAS LOCAS INTOXICADOS",
-    "fecha": "23 OCT",
-    "horario": "23 hs",
-    "imagen": "imagenes/viejas-locas-intoxicados.jpeg",
-    "descripcion": "Olimpo Bar | Pago",
-    "url_evento": "https://agenda.pinamar.gob.ar/viejas-locas-intoxicados/",
-    "detalle": "Olimpo Bar. Jason 250 Reservas: 11 33868003"
-  },
-  {
-    "titulo": "LA CHAMBITA",
-    "fecha": "23 OCT",
-    "horario": "23:30 hs",
-    "imagen": "imagenes/la-chambita.jpeg",
-    "descripcion": "Antares Bar | Libre y gratuito",
-    "url_evento": "https://agenda.pinamar.gob.ar/la-chambita/",
-    "detalle": "Sabor Costero Antares. Av. Bunge esq. Del Buen Orden"
-  },
-  {
     "titulo": "MAQUINA ARGENTINA DE DANZA (MAD)",
     "fecha": "24 OCT",
     "horario": "21 hs",
@@ -126,6 +63,15 @@
     "detalle": "Ingreso por orden de llegada a partir de las 23:30 hs Templeton Music Bar Boyero 1498. Feria del Bosque. Carilo"
   },
   {
+    "titulo": "CUIDADOS EN LA PLAYA",
+    "fecha": "25 OCT",
+    "horario": "",
+    "imagen": "imagenes/cuidados-en-la-playa.jpeg",
+    "descripcion": "El Ojo y el Diamante | 15 hs. | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/cuidados-en-la-playa/",
+    "detalle": "Con los Guardavidas Tomas Rivarola y Mauricio Silva Actividad al aire libre. Dirigida a menores y sus familias. Se aconseja traer asiento y mata. Contacto: 7631-9051 El Ojo y el Diamante Valeria del Mar"
+  },
+  {
     "titulo": "PINAMAR REVELADO",
     "fecha": "28 OCT",
     "horario": "19 hs",
@@ -180,6 +126,15 @@
     "detalle": "Una propuesta que cruza música en vivo y artes visuales en una misma experiencia: fotografía, luz líquida, proyecciones, VJ, videoclips y otras formas de creación audiovisual. El encuentro fue gestado por Marcela Viciano, Lola Visuales, Julia Álvarez y Mayco Epic, artistas y productoras culturales que buscan generar un espacio de encuentro para artistas locales, regionales e internacionales y seguir ampliándolo con talleres, clases y seminarios. ESPECTRA: Canciones de autora & Luz líquida @marviciano @lolavisuales JULIA ALVAREZ: @queeseltiempo SONAMOS LUZ: @maycoepic + @lolavisuales Sábado 31/10 · 19 hs Biblioteca Popular Manuel Belgrano — De las Medusas 1230, Pinamar Entrada general $10.000 · Socios $8.000"
   },
   {
+    "titulo": "MUESTRA DE TEATRO",
+    "fecha": "1 NOV",
+    "horario": "20 hs",
+    "imagen": "imagenes/muestra-de-teatro.jpeg",
+    "descripcion": "31 OCT | Danzarte Espacio Cultural | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/muestra-de-teatro/",
+    "detalle": "Direccion General Eduardo Isach Danzarte Espacio Cultural Cazón y Eneas Adquirí las entradas en Danzarte"
+  },
+  {
     "titulo": "7º CONCIERTO PARA PERROS",
     "fecha": "7 NOV",
     "horario": "",
@@ -207,11 +162,29 @@
     "detalle": "Nico Serna presenta su obra de teatro “Mentiras sobre el amor” La obra que te hace vivir, reír, recordar, pensar… y salir distinto. Mentiras sobre el Amor no es solo una obra: es una experiencia que te abraza, te divierte, te conmueve y te hace mirarte con ojos nuevos. Es un viaje donde vas a pasar por todos esos momentos que nos hicieron quienes somos: los primeros enredos del corazón, los amores que idealizamos, las escenas que nos marcaron, los vínculos que nos hicieron aprender, desaprender… y volver a intentar. Pero todo contado con humor inteligente, emoción honesta y situaciones que te van a hacer decir: «¡Eso me pasó a mí también!» https://tuentrada.com/nicoserna-pinamar"
   },
   {
+    "titulo": "MASTERCLASS EXPERIENCIA MARAVILLA",
+    "fecha": "13 NOV",
+    "horario": "18 hs",
+    "imagen": "imagenes/masterclass-experiencia-maravilla.jpeg",
+    "descripcion": "Playas Art Hotel | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/masterclass-experiencia-maravilla/",
+    "detalle": "Playas Art Hotel 13 NOV 18 hs Pago PINAMAR RECIBE A MARAVILLA Un campeón del mundo Dos días históricos para el boxeo 13 de noviembre Experiencia Maravilla Charla | Clase abierta con Sergio Maravilla Martinez Playas Art Hotel Entradas: 11 4471 9878 | 2254 457224"
+  },
+  {
+    "titulo": "PINAMAR RECIBE A MARAVILLA",
+    "fecha": "14 NOV",
+    "horario": "17 hs",
+    "imagen": "imagenes/pinamar-recibe-a-maravilla.jpeg",
+    "descripcion": "Ex Casino Valeria del Mar | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/pinamar-recibe-a-maravilla/",
+    "detalle": "Un campeón del mundo Dos días históricos para el boxeo 14 de noviembre Copa Pinamar Exhibiciones, 8 peleas amateur y 3 cinturones en juego Ex Casino de Valeria del Mar"
+  },
+  {
     "titulo": "FLIP",
     "fecha": "9 MAY",
     "horario": "9 hs",
     "imagen": "imagenes/flip.jpg",
-    "descripcion": "29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 30 OCT | CINE CLUB DE LA BIBLIO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 7 NOV | BRAVA FEST | Morena Bar | 21 hs | Pago | 12 NOV | MENTIRAS SOBRE EL AMOR | Teatro de la Torre | 20:30 hs | Pago | 14 y 15 NOV | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | FESTIVAL DE LA MÚSICA | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "descripcion": "7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 7 NOV | BRAVA FEST | Morena Bar | 21 hs | Pago | 12 NOV | MENTIRAS SOBRE EL AMOR | Teatro de la Torre | 20:30 hs | Pago | 13 NOV | MASTERCLASS EXPERIENCIA MARAVILLA | Playas Art Hotel | 18 hs | Pago | 14 NOV | PINAMAR RECIBE A MARAVILLA | Ex Casino Valeria del Mar | 17 hs | Pago | 14 y 15 NOV | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | FESTIVAL DE LA MÚSICA | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 27 | 28 y 29 NOV | LEGADO DANZARTE 20 ANIVERSARIO | Teatro de la Torre | Horarios en Placa | Pago | 5 DIC | MUESTRA DE CANTO | Danzarte Espacio Cultural | 21 hs | Pago | 5 | 6 y 7 DIC | PINAMAR INVEST | Espacio KU | A confirmar | Libre y gratuito | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/flip/",
     "detalle": "Viejo Hotel Ostende 14 y 15 NOV A confirmar Libre y gratuito FLIP – Festival de Literatura Infantil El 14 y 15 de noviembre, el Viejo Hotel Ostende será escenario de una nueva edición de FLIP, el Festival de Literatura Infantil. Un encuentro para disfrutar de la literatura, la creatividad y el mundo de los libros con actividades pensadas para chicos y familias."
   },
@@ -220,7 +193,7 @@
     "fecha": "9 MAY",
     "horario": "9 hs",
     "imagen": "imagenes/festival-de-la-musica.jpg",
-    "descripcion": "29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 30 OCT | CINE CLUB DE LA BIBLIO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 7 NOV | BRAVA FEST | Morena Bar | 21 hs | Pago | 12 NOV | MENTIRAS SOBRE EL AMOR | Teatro de la Torre | 20:30 hs | Pago | 14 y 15 NOV | FLIP | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "descripcion": "7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 7 NOV | BRAVA FEST | Morena Bar | 21 hs | Pago | 12 NOV | MENTIRAS SOBRE EL AMOR | Teatro de la Torre | 20:30 hs | Pago | 13 NOV | MASTERCLASS EXPERIENCIA MARAVILLA | Playas Art Hotel | 18 hs | Pago | 14 NOV | PINAMAR RECIBE A MARAVILLA | Ex Casino Valeria del Mar | 17 hs | Pago | 14 y 15 NOV | FLIP | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 27 | 28 y 29 NOV | LEGADO DANZARTE 20 ANIVERSARIO | Teatro de la Torre | Horarios en Placa | Pago | 5 DIC | MUESTRA DE CANTO | Danzarte Espacio Cultural | 21 hs | Pago | 5 | 6 y 7 DIC | PINAMAR INVEST | Espacio KU | A confirmar | Libre y gratuito | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/festival-de-la-musica/",
     "detalle": "La Piña (Av. Bunge y Blvd. Pioneros) 20 | 21 y 22 NOV 18 hs Libre y gratuito FESTIVAL DE LA MÚSICA: CONVOCATORIA A BANDAS El 20, 21 y 22 de noviembre, la Piña se llena de música, sabores, emprendimientos y encuentros. Desde las 18 h, te esperamos para disfrutar de: Artistas locales y música para todos los gustos Patio gastronómico + food trucks Artesanías y emprendimientos locales Un plan para compartir en familia y con amigos Y si sos artista y querés ser parte del escenario, también hay lugar para vos. Completá el formulario y sumate al cronograma del Festival de la Música: https://forms.cloud.microsoft/ r/jwgZZ8rsQr"
   },
@@ -229,7 +202,7 @@
     "fecha": "9 MAY",
     "horario": "9 hs",
     "imagen": "imagenes/torneo-seven-pinamar.jpeg",
-    "descripcion": "29 OCT | MIRACINE | Teatro de la Torre | 20 hs | Libre y gratuito | 29 | 30 | 31 OCT | EQUIPAMIENTO + SERVICIOS | Howard Johnson Hotel & Convention Center | 14 hs | Libre y gratuito | 30 OCT | CINE CLUB DE LA BIBLIO | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 31 OCT | ECLIPSE ANULAR DE SOL 2027 | Teatro de la Torre | 18 hs | Libre y gratuito | 31 OCT | ENCUENTRO DE MÚSICA Y VISUALES | Biblioteca Popular Manuel Belgrano | 19 hs | Libre y gratuito | 7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 7 NOV | BRAVA FEST | Morena Bar | 21 hs | Pago | 12 NOV | MENTIRAS SOBRE EL AMOR | Teatro de la Torre | 20:30 hs | Pago | 14 y 15 NOV | FLIP | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | FESTIVAL DE LA MÚSICA | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "descripcion": "7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 7 NOV | BRAVA FEST | Morena Bar | 21 hs | Pago | 12 NOV | MENTIRAS SOBRE EL AMOR | Teatro de la Torre | 20:30 hs | Pago | 13 NOV | MASTERCLASS EXPERIENCIA MARAVILLA | Playas Art Hotel | 18 hs | Pago | 14 NOV | PINAMAR RECIBE A MARAVILLA | Ex Casino Valeria del Mar | 17 hs | Pago | 14 y 15 NOV | FLIP | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | FESTIVAL DE LA MÚSICA | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 27 | 28 y 29 NOV | LEGADO DANZARTE 20 ANIVERSARIO | Teatro de la Torre | Horarios en Placa | Pago | 5 DIC | MUESTRA DE CANTO | Danzarte Espacio Cultural | 21 hs | Pago | 5 | 6 y 7 DIC | PINAMAR INVEST | Espacio KU | A confirmar | Libre y gratuito | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
     "url_evento": "https://agenda.pinamar.gob.ar/torneo-seven-pinamar/",
     "detalle": "Travelx Max"
   },
@@ -250,6 +223,33 @@
     "descripcion": "COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | Pago",
     "url_evento": "https://agenda.pinamar.gob.ar/copa-jaques-sachetti-copa-mamis-camarones/",
     "detalle": "Ragby +35 Ten Reducido Mamis Hockey Seven @camaronesrhc"
+  },
+  {
+    "titulo": "LEGADO DANZARTE 20 ANIVERSARIO",
+    "fecha": "9 MAY",
+    "horario": "9 hs",
+    "imagen": "imagenes/legado-danzarte-20-aniversario.jpeg",
+    "descripcion": "7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 7 NOV | BRAVA FEST | Morena Bar | 21 hs | Pago | 12 NOV | MENTIRAS SOBRE EL AMOR | Teatro de la Torre | 20:30 hs | Pago | 13 NOV | MASTERCLASS EXPERIENCIA MARAVILLA | Playas Art Hotel | 18 hs | Pago | 14 NOV | PINAMAR RECIBE A MARAVILLA | Ex Casino Valeria del Mar | 17 hs | Pago | 14 y 15 NOV | FLIP | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | FESTIVAL DE LA MÚSICA | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 27 | 28 y 29 NOV | Teatro de la Torre | Horarios en Placa | Pago | 5 DIC | MUESTRA DE CANTO | Danzarte Espacio Cultural | 21 hs | Pago | 5 | 6 y 7 DIC | PINAMAR INVEST | Espacio KU | A confirmar | Libre y gratuito | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/legado-danzarte-20-aniversario/",
+    "detalle": "Muestra anual Contacto: 2254 536180"
+  },
+  {
+    "titulo": "MUESTRA DE CANTO",
+    "fecha": "5 DIC",
+    "horario": "21 hs",
+    "imagen": "imagenes/muestra-de-canto.jpeg",
+    "descripcion": "Danzarte Espacio Cultural | Pago",
+    "url_evento": "https://agenda.pinamar.gob.ar/muestra-de-canto/",
+    "detalle": "Danzarte Espacio Cultural Cazon y Eneas @danzartepinamar"
+  },
+  {
+    "titulo": "PINAMAR INVEST",
+    "fecha": "9 MAY",
+    "horario": "9 hs",
+    "imagen": "imagenes/pinamar-invest.jpeg",
+    "descripcion": "7 NOV | 7º CONCIERTO PARA PERROS | Fuegos | 15 hs. | Libre y gratuito | 7 NOV | BRAVA FEST | Morena Bar | 21 hs | Pago | 12 NOV | MENTIRAS SOBRE EL AMOR | Teatro de la Torre | 20:30 hs | Pago | 13 NOV | MASTERCLASS EXPERIENCIA MARAVILLA | Playas Art Hotel | 18 hs | Pago | 14 NOV | PINAMAR RECIBE A MARAVILLA | Ex Casino Valeria del Mar | 17 hs | Pago | 14 y 15 NOV | FLIP | Viejo Hotel Ostende | A confirmar | Libre y gratuito | 20 | 21 y 22 NOV | FESTIVAL DE LA MÚSICA | La Piña (Av. Bunge y Blvd. Pioneros) | 18 hs | Libre y gratuito | 20 al 22 NOV | TORNEO SEVEN PINAMAR | Polideportivo Pinamar | A confirmar | Pago | 21 | 22 NOV | TORNEO SEVEN | Cet Pinamar | A confirmar | Pago | 21 NOV | COPA JAQUES SACHETTI | COPA MAMIS CAMARONES | Camarones Rugby Hockey Club | A confirmar | Pago | 27 | 28 y 29 NOV | LEGADO DANZARTE 20 ANIVERSARIO | Teatro de la Torre | Horarios en Placa | Pago | 5 DIC | MUESTRA DE CANTO | Danzarte Espacio Cultural | 21 hs | Pago | 5 | 6 y 7 DIC | Espacio KU | A confirmar | Libre y gratuito | COPA CHAMPIONS PINAMAR | Polideportivo Municipal | Libre y gratuito",
+    "url_evento": "https://agenda.pinamar.gob.ar/pinamar-invest/",
+    "detalle": "Llega PINAMAR INVEST 2026 Tres días donde desarrolladores, inversores, arquitectos, profesionales y marcas del sector se encuentran para mostrar proyectos, generar alianzas y abrir nuevas oportunidades de negocio. Desarrollos + Inversión + Negocios. Provectos y nuevos lanzamientos. Talks con referentes. Networking y experiencias de marca. Todo en un mismo lugar 5 | 6 | 7 de diciembre Espacio KU : Pinamar Entrada libre y gratuita [email protected] + WhatsApp: 2254 457766 PINAMAR INVEST 2026 El encuentro del Real Estate de Pinamar y la Costa Atlántica."
   },
   {
     "titulo": "COPA CHAMPIONS PINAMAR",
